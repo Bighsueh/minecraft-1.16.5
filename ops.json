@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ac6408a2-a9df-4331-b7ae-3fea999a1635",
+    "name": "TaiwanDebuger",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
