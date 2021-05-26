@@ -1,64 +1,107 @@
-[12:27:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:27:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:27:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:27:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:27:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:27:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:27:54] [main/INFO]: Reloading ResourceManager: Default
-[12:27:55] [Worker-Main-11/INFO]: Loaded 7 recipes
-[12:27:55] [Worker-Main-11/INFO]: Loaded 927 advancements
-[12:27:56] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[12:27:56] [Server thread/INFO]: Loading properties
-[12:27:56] [Server thread/INFO]: Default game type: SURVIVAL
-[12:27:56] [Server thread/INFO]: Generating keypair
-[12:27:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:27:57] [Server thread/INFO]: Using default channel type
-[12:27:58] [Server thread/INFO]: Preparing level "world"
-[12:28:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:28:04] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:28:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[12:28:05] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:28:06] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[12:28:06] [Worker-Main-10/INFO]: Preparing spawn area: 2%
-[12:28:06] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[12:28:07] [Worker-Main-12/INFO]: Preparing spawn area: 5%
-[12:28:07] [Worker-Main-14/INFO]: Preparing spawn area: 5%
-[12:28:08] [Worker-Main-17/INFO]: Preparing spawn area: 9%
-[12:28:08] [Worker-Main-8/INFO]: Preparing spawn area: 9%
-[12:28:09] [Worker-Main-9/INFO]: Preparing spawn area: 9%
-[12:28:09] [Worker-Main-14/INFO]: Preparing spawn area: 15%
-[12:28:10] [Worker-Main-8/INFO]: Preparing spawn area: 16%
-[12:28:10] [Worker-Main-17/INFO]: Preparing spawn area: 16%
-[12:28:11] [Worker-Main-13/INFO]: Preparing spawn area: 16%
-[12:28:11] [Worker-Main-10/INFO]: Preparing spawn area: 16%
-[12:28:12] [Worker-Main-13/INFO]: Preparing spawn area: 30%
-[12:28:12] [Worker-Main-9/INFO]: Preparing spawn area: 34%
-[12:28:13] [Worker-Main-10/INFO]: Preparing spawn area: 38%
-[12:28:13] [Worker-Main-13/INFO]: Preparing spawn area: 42%
-[12:28:14] [Worker-Main-17/INFO]: Preparing spawn area: 48%
-[12:28:14] [Worker-Main-9/INFO]: Preparing spawn area: 53%
-[12:28:15] [Worker-Main-13/INFO]: Preparing spawn area: 58%
-[12:28:15] [Worker-Main-9/INFO]: Preparing spawn area: 64%
-[12:28:16] [Worker-Main-12/INFO]: Preparing spawn area: 70%
-[12:28:16] [Worker-Main-17/INFO]: Preparing spawn area: 76%
-[12:28:17] [Worker-Main-13/INFO]: Preparing spawn area: 82%
-[12:28:17] [Worker-Main-14/INFO]: Preparing spawn area: 86%
-[12:28:18] [Worker-Main-13/INFO]: Preparing spawn area: 93%
-[12:28:18] [Server thread/INFO]: Time elapsed: 14467 ms
-[12:28:18] [Server thread/INFO]: Done (20.878s)! For help, type "help"
-[12:30:33] [User Authenticator #1/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[12:30:33] [Server thread/INFO]: TaiwanDebuger[/118.170.147.233:51635] logged in with entity id 348 at (-126.5, 64.0, 87.5)
-[12:30:33] [Server thread/INFO]: TaiwanDebuger joined the game
-[12:32:37] [Server thread/INFO]: Stopping the server
-[12:32:37] [Server thread/INFO]: Stopping server
-[12:32:37] [Server thread/INFO]: Saving players
-[12:32:37] [Server thread/INFO]: Saving worlds
-[12:32:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:32:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:32:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:32:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:06] [Server thread/INFO]: <Eirvaaaaa> zzz
+[00:06:18] [Server thread/INFO]: BigEgg40287 was blown up by Creeper
+[00:06:23] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[00:06:23] [Server thread/INFO]: BigEgg40287 left the game
+[00:06:30] [Server thread/INFO]: yinya15935746 lost connection: Disconnected
+[00:06:30] [Server thread/INFO]: yinya15935746 left the game
+[00:06:39] [User Authenticator #99/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[00:06:39] [Server thread/INFO]: BigEgg40287[/111.253.216.218:57932] logged in with entity id 385248 at (-131.5, 63.0, 86.5)
+[00:06:39] [Server thread/INFO]: BigEgg40287 joined the game
+[00:06:43] [Server thread/INFO]: <Eirvaaaaa> zzz
+[00:06:45] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[00:06:45] [Server thread/INFO]: BigEgg40287 left the game
+[00:06:47] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[00:06:47] [Server thread/INFO]: TaiwanDebuger left the game
+[00:06:53] [User Authenticator #100/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[00:06:53] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:61615] logged in with entity id 385297 at (-69.30000001192093, 61.62667192849484, -50.31493634968907)
+[00:06:53] [Server thread/INFO]: TaiwanDebuger joined the game
+[00:07:01] [User Authenticator #101/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[00:07:01] [Server thread/INFO]: BigEgg40287[/111.253.216.218:57935] logged in with entity id 385298 at (-119.57310994364941, 64.0, 88.02971769901109)
+[00:07:01] [Server thread/INFO]: BigEgg40287 joined the game
+[00:07:25] [User Authenticator #102/INFO]: UUID of player yinya15935746 is 8e9e5452-96e5-4082-bd0d-575f11e1407a
+[00:07:25] [Server thread/INFO]: yinya15935746[/118.170.137.25:62615] logged in with entity id 385414 at (41.652630476822196, 65.0, -135.65998506497164)
+[00:07:25] [Server thread/INFO]: yinya15935746 joined the game
+[00:09:08] [Server thread/INFO]: Eirvaaaaa fell from a high place
+[00:14:40] [User Authenticator #103/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[00:14:40] [Server thread/INFO]: extrabass750[/111.82.34.65:4170] logged in with entity id 388508 at (-62.5, 63.0, -118.5)
+[00:14:40] [Server thread/INFO]: extrabass750 joined the game
+[00:14:56] [Server thread/INFO]: <extrabass750> hi
+[00:15:01] [Server thread/INFO]: <Eirvaaaaa> hi]
+[00:16:14] [Server thread/INFO]: <TaiwanDebuger> hi]
+[00:19:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/391324, l='ServerLevel[world]', x=-67.13, y=14.00, z=70.76]
+[00:19:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/391426, l='ServerLevel[world]', x=-67.61, y=14.67, z=82.65]
+[00:19:56] [Server thread/INFO]: <extrabass750> ???
+[00:21:07] [Server thread/INFO]: <extrabass750> 秘密基地?
+[00:21:51] [Server thread/INFO]: TaiwanDebuger tried to swim in lava to escape Magma Cube
+[00:22:20] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[00:22:20] [Server thread/INFO]: TaiwanDebuger left the game
+[00:22:26] [User Authenticator #104/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[00:22:26] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:58130] logged in with entity id 392937 at (-68.62051227255293, 6.0, -45.761539124853165)
+[00:22:26] [Server thread/INFO]: TaiwanDebuger joined the game
+[00:23:52] [Server thread/INFO]: Eirvaaaaa has made the advancement [We Need to Go Deeper]
+[00:24:30] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
+[00:24:46] [Server thread/INFO]: <extrabass750> 傻眼
+[00:24:51] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
+[00:30:05] [Server thread/INFO]: <extrabass750> 堆肥箱要加怎麼?
+[00:30:16] [Server thread/INFO]: <TaiwanDebuger> 植物類
+[00:30:24] [Server thread/INFO]: <TaiwanDebuger> 你認為可能可以堆肥的東西都可以
+[00:30:28] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[00:30:45] [Server thread/INFO]: <extrabass750> 裡面都是空
+[00:31:53] [Server thread/INFO]: <extrabass750> thank you
+[00:32:11] [Server thread/INFO]: Eirvaaaaa was slain by Magma Cube
+[00:32:18] [Server thread/INFO]: <extrabass750> ???
+[00:33:16] [Server thread/WARN]: Eirvaaaaa moved too quickly! 0.36109093490424016,-10.80652611000901,-0.437230079624797
+[00:33:19] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
+[00:33:24] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[00:33:24] [Server thread/INFO]: TaiwanDebuger left the game
+[00:33:26] [User Authenticator #105/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[00:33:26] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:53394] logged in with entity id 398637 at (-71.5, 6.0, -42.5)
+[00:33:27] [Server thread/INFO]: TaiwanDebuger joined the game
+[00:38:16] [Server thread/WARN]: yinya15935746 moved too quickly! -0.04554843461041713,0.12160004615781617,-10.24211788612584
+[00:39:37] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
+[00:40:25] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[00:40:39] [Server thread/INFO]: <extrabass750> ZZZZZZZZ
+[00:41:24] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
+[00:41:50] [Server thread/INFO]: yinya15935746 has made the advancement [Cover Me With Diamonds]
+[00:43:04] [Server thread/INFO]: TaiwanDebuger blew up
+[00:43:22] [Server thread/INFO]: yinya15935746 has made the advancement [Sweet Dreams]
+[00:46:33] [Server thread/INFO]: TaiwanDebuger was slain by Piglin
+[00:47:28] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
+[00:48:31] [Server thread/INFO]: TaiwanDebuger walked into danger zone due to Magma Cube
+[00:48:49] [Server thread/WARN]: Trying to add entity with duplicated UUID e79c66e7-a9bd-4504-a570-01c4ba566806. Existing minecraft:armor_stand#407090, new: minecraft:armor_stand#407090
+[00:49:49] [Server thread/WARN]: Trying to add entity with duplicated UUID 8223621a-fe50-4b63-8d39-7cbc0f4862b2. Existing minecraft:armor_stand#407486, new: minecraft:armor_stand#407486
+[00:51:04] [Server thread/WARN]: Trying to add entity with duplicated UUID 661e8788-b663-4f1f-b7c4-3b3bed3d5a2b. Existing minecraft:armor_stand#407986, new: minecraft:armor_stand#407986
+[00:52:31] [Server thread/INFO]: TaiwanDebuger drowned
+[00:52:57] [Server thread/INFO]: yinya15935746 has made the advancement [Fishy Business]
+[00:55:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-17, y=36, z=238} fx{x=-14, y=37, z=238}
+[00:57:26] [Server thread/INFO]: Eirvaaaaa tried to swim in lava to escape Magma Cube
+[00:58:16] [Server thread/INFO]: yinya15935746 lost connection: Disconnected
+[00:58:16] [Server thread/INFO]: yinya15935746 left the game
+[01:02:06] [Server thread/INFO]: <extrabass750> ZZZZZ
+[01:02:07] [Server thread/WARN]: TaiwanDebuger moved too quickly! -1.2422253776280172,-1.0,-10.132559644325397
+[01:02:13] [Server thread/INFO]: <BigEgg40287> 88888
+[01:02:19] [Server thread/INFO]: TaiwanDebuger was slain by Piglin
+[01:02:29] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[01:02:29] [Server thread/INFO]: BigEgg40287 left the game
+[01:02:30] [Server thread/INFO]: TaiwanDebuger lost connection: Timed out
+[01:02:30] [Server thread/INFO]: TaiwanDebuger left the game
+[01:02:37] [Server thread/INFO]: Eirvaaaaa lost connection: Timed out
+[01:02:37] [Server thread/INFO]: Eirvaaaaa left the game
+[01:02:44] [Server thread/INFO]: extrabass750 lost connection: Timed out
+[01:02:44] [Server thread/INFO]: extrabass750 left the game
+[01:03:01] [User Authenticator #106/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:03:01] [Server thread/INFO]: extrabass750[/111.82.34.65:4448] logged in with entity id 412547 at (-62.5, 62.5, -118.5)
+[01:03:01] [Server thread/INFO]: extrabass750 joined the game
+[01:03:05] [Server thread/INFO]: Stopping the server
+[01:03:05] [Server thread/INFO]: Stopping server
+[01:03:05] [Server thread/INFO]: Saving players
+[01:03:05] [Server thread/INFO]: Saving worlds
+[01:03:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:03:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:03:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
