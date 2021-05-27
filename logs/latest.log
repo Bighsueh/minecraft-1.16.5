@@ -1,107 +1,753 @@
-[00:06:06] [Server thread/INFO]: <Eirvaaaaa> zzz
-[00:06:18] [Server thread/INFO]: BigEgg40287 was blown up by Creeper
-[00:06:23] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
-[00:06:23] [Server thread/INFO]: BigEgg40287 left the game
-[00:06:30] [Server thread/INFO]: yinya15935746 lost connection: Disconnected
-[00:06:30] [Server thread/INFO]: yinya15935746 left the game
-[00:06:39] [User Authenticator #99/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[00:06:39] [Server thread/INFO]: BigEgg40287[/111.253.216.218:57932] logged in with entity id 385248 at (-131.5, 63.0, 86.5)
-[00:06:39] [Server thread/INFO]: BigEgg40287 joined the game
-[00:06:43] [Server thread/INFO]: <Eirvaaaaa> zzz
-[00:06:45] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
-[00:06:45] [Server thread/INFO]: BigEgg40287 left the game
-[00:06:47] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
-[00:06:47] [Server thread/INFO]: TaiwanDebuger left the game
-[00:06:53] [User Authenticator #100/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[00:06:53] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:61615] logged in with entity id 385297 at (-69.30000001192093, 61.62667192849484, -50.31493634968907)
-[00:06:53] [Server thread/INFO]: TaiwanDebuger joined the game
-[00:07:01] [User Authenticator #101/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[00:07:01] [Server thread/INFO]: BigEgg40287[/111.253.216.218:57935] logged in with entity id 385298 at (-119.57310994364941, 64.0, 88.02971769901109)
-[00:07:01] [Server thread/INFO]: BigEgg40287 joined the game
-[00:07:25] [User Authenticator #102/INFO]: UUID of player yinya15935746 is 8e9e5452-96e5-4082-bd0d-575f11e1407a
-[00:07:25] [Server thread/INFO]: yinya15935746[/118.170.137.25:62615] logged in with entity id 385414 at (41.652630476822196, 65.0, -135.65998506497164)
-[00:07:25] [Server thread/INFO]: yinya15935746 joined the game
-[00:09:08] [Server thread/INFO]: Eirvaaaaa fell from a high place
-[00:14:40] [User Authenticator #103/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
-[00:14:40] [Server thread/INFO]: extrabass750[/111.82.34.65:4170] logged in with entity id 388508 at (-62.5, 63.0, -118.5)
-[00:14:40] [Server thread/INFO]: extrabass750 joined the game
-[00:14:56] [Server thread/INFO]: <extrabass750> hi
-[00:15:01] [Server thread/INFO]: <Eirvaaaaa> hi]
-[00:16:14] [Server thread/INFO]: <TaiwanDebuger> hi]
-[00:19:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/391324, l='ServerLevel[world]', x=-67.13, y=14.00, z=70.76]
-[00:19:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/391426, l='ServerLevel[world]', x=-67.61, y=14.67, z=82.65]
-[00:19:56] [Server thread/INFO]: <extrabass750> ???
-[00:21:07] [Server thread/INFO]: <extrabass750> 秘密基地?
-[00:21:51] [Server thread/INFO]: TaiwanDebuger tried to swim in lava to escape Magma Cube
-[00:22:20] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
-[00:22:20] [Server thread/INFO]: TaiwanDebuger left the game
-[00:22:26] [User Authenticator #104/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[00:22:26] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:58130] logged in with entity id 392937 at (-68.62051227255293, 6.0, -45.761539124853165)
-[00:22:26] [Server thread/INFO]: TaiwanDebuger joined the game
-[00:23:52] [Server thread/INFO]: Eirvaaaaa has made the advancement [We Need to Go Deeper]
-[00:24:30] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
-[00:24:46] [Server thread/INFO]: <extrabass750> 傻眼
-[00:24:51] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
-[00:30:05] [Server thread/INFO]: <extrabass750> 堆肥箱要加怎麼?
-[00:30:16] [Server thread/INFO]: <TaiwanDebuger> 植物類
-[00:30:24] [Server thread/INFO]: <TaiwanDebuger> 你認為可能可以堆肥的東西都可以
-[00:30:28] [Server thread/INFO]: TaiwanDebuger fell from a high place
-[00:30:45] [Server thread/INFO]: <extrabass750> 裡面都是空
-[00:31:53] [Server thread/INFO]: <extrabass750> thank you
-[00:32:11] [Server thread/INFO]: Eirvaaaaa was slain by Magma Cube
-[00:32:18] [Server thread/INFO]: <extrabass750> ???
-[00:33:16] [Server thread/WARN]: Eirvaaaaa moved too quickly! 0.36109093490424016,-10.80652611000901,-0.437230079624797
-[00:33:19] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
-[00:33:24] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
-[00:33:24] [Server thread/INFO]: TaiwanDebuger left the game
-[00:33:26] [User Authenticator #105/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[00:33:26] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:53394] logged in with entity id 398637 at (-71.5, 6.0, -42.5)
-[00:33:27] [Server thread/INFO]: TaiwanDebuger joined the game
-[00:38:16] [Server thread/WARN]: yinya15935746 moved too quickly! -0.04554843461041713,0.12160004615781617,-10.24211788612584
-[00:39:37] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
-[00:40:25] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
-[00:40:39] [Server thread/INFO]: <extrabass750> ZZZZZZZZ
-[00:41:24] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
-[00:41:50] [Server thread/INFO]: yinya15935746 has made the advancement [Cover Me With Diamonds]
-[00:43:04] [Server thread/INFO]: TaiwanDebuger blew up
-[00:43:22] [Server thread/INFO]: yinya15935746 has made the advancement [Sweet Dreams]
-[00:46:33] [Server thread/INFO]: TaiwanDebuger was slain by Piglin
-[00:47:28] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
-[00:48:31] [Server thread/INFO]: TaiwanDebuger walked into danger zone due to Magma Cube
-[00:48:49] [Server thread/WARN]: Trying to add entity with duplicated UUID e79c66e7-a9bd-4504-a570-01c4ba566806. Existing minecraft:armor_stand#407090, new: minecraft:armor_stand#407090
-[00:49:49] [Server thread/WARN]: Trying to add entity with duplicated UUID 8223621a-fe50-4b63-8d39-7cbc0f4862b2. Existing minecraft:armor_stand#407486, new: minecraft:armor_stand#407486
-[00:51:04] [Server thread/WARN]: Trying to add entity with duplicated UUID 661e8788-b663-4f1f-b7c4-3b3bed3d5a2b. Existing minecraft:armor_stand#407986, new: minecraft:armor_stand#407986
-[00:52:31] [Server thread/INFO]: TaiwanDebuger drowned
-[00:52:57] [Server thread/INFO]: yinya15935746 has made the advancement [Fishy Business]
-[00:55:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-17, y=36, z=238} fx{x=-14, y=37, z=238}
-[00:57:26] [Server thread/INFO]: Eirvaaaaa tried to swim in lava to escape Magma Cube
-[00:58:16] [Server thread/INFO]: yinya15935746 lost connection: Disconnected
-[00:58:16] [Server thread/INFO]: yinya15935746 left the game
-[01:02:06] [Server thread/INFO]: <extrabass750> ZZZZZ
-[01:02:07] [Server thread/WARN]: TaiwanDebuger moved too quickly! -1.2422253776280172,-1.0,-10.132559644325397
-[01:02:13] [Server thread/INFO]: <BigEgg40287> 88888
-[01:02:19] [Server thread/INFO]: TaiwanDebuger was slain by Piglin
-[01:02:29] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
-[01:02:29] [Server thread/INFO]: BigEgg40287 left the game
-[01:02:30] [Server thread/INFO]: TaiwanDebuger lost connection: Timed out
-[01:02:30] [Server thread/INFO]: TaiwanDebuger left the game
-[01:02:37] [Server thread/INFO]: Eirvaaaaa lost connection: Timed out
-[01:02:37] [Server thread/INFO]: Eirvaaaaa left the game
-[01:02:44] [Server thread/INFO]: extrabass750 lost connection: Timed out
-[01:02:44] [Server thread/INFO]: extrabass750 left the game
-[01:03:01] [User Authenticator #106/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
-[01:03:01] [Server thread/INFO]: extrabass750[/111.82.34.65:4448] logged in with entity id 412547 at (-62.5, 62.5, -118.5)
-[01:03:01] [Server thread/INFO]: extrabass750 joined the game
-[01:03:05] [Server thread/INFO]: Stopping the server
-[01:03:05] [Server thread/INFO]: Stopping server
-[01:03:05] [Server thread/INFO]: Saving players
-[01:03:05] [Server thread/INFO]: Saving worlds
-[01:03:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:03:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:03:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:04:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:34] [main/INFO]: Reloading ResourceManager: Default
+[01:04:35] [Worker-Main-12/INFO]: Loaded 7 recipes
+[01:04:35] [Worker-Main-12/INFO]: Loaded 927 advancements
+[01:04:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:04:36] [Server thread/INFO]: Loading properties
+[01:04:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:04:36] [Server thread/INFO]: Generating keypair
+[01:04:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:04:36] [Server thread/INFO]: Using default channel type
+[01:04:37] [Server thread/INFO]: Preparing level "world"
+[01:04:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:04:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:41] [Server thread/INFO]: Time elapsed: 3862 ms
+[01:04:41] [Server thread/INFO]: Done (3.980s)! For help, type "help"
+[01:04:43] [User Authenticator #1/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[01:04:43] [Server thread/INFO]: BigEgg40287[/111.253.216.218:50015] logged in with entity id 196 at (-61.91718749786159, 11.0, 219.24054066882158)
+[01:04:43] [Server thread/INFO]: BigEgg40287 joined the game
+[01:05:03] [User Authenticator #2/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:05:03] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:63159] logged in with entity id 418 at (-352.26167743948, 59.0, 160.3270902289866)
+[01:05:03] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:05:33] [Server thread/INFO]: TaiwanDebuger tried to swim in lava to escape Magma Cube
+[01:05:35] [User Authenticator #3/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[01:05:35] [Server thread/INFO]: Eirvaaaaa[/118.170.122.5:57527] logged in with entity id 1175 at (-31.69999998807907, 88.0, -0.5476927217840296)
+[01:05:35] [Server thread/INFO]: Eirvaaaaa joined the game
+[01:06:12] [Server thread/INFO]: Eirvaaaaa was slain by Magma Cube
+[01:06:34] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[01:06:37] [User Authenticator #4/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:06:37] [Server thread/INFO]: extrabass750[/111.82.34.65:1194] logged in with entity id 2074 at (-62.5, 62.5, -118.5)
+[01:06:37] [Server thread/INFO]: extrabass750 joined the game
+[01:06:54] [Server thread/INFO]: Eirvaaaaa was slain by Magma Cube
+[01:07:09] [Server thread/INFO]: <extrabass750> 發生怎麼事?
+[01:07:24] [Server thread/INFO]: <TaiwanDebuger> 學校段往
+[01:07:33] [Server thread/INFO]: <extrabass750> ok
+[01:09:28] [Server thread/INFO]: TaiwanDebuger has made the advancement [Those Were the Days]
+[01:09:43] [Server thread/WARN]: TaiwanDebuger moved too quickly! -2.997521903240454,1.024424088213685,9.535545187576176
+[01:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[01:10:39] [Server thread/INFO]: extrabass750 has made the advancement [The Parrots and the Bats]
+[01:11:02] [Server thread/INFO]: <extrabass750> 已經餵了
+[01:11:10] [Server thread/INFO]: <Eirvaaaaa> nice
+[01:11:16] [Server thread/INFO]: <TaiwanDebuger> nice
+[01:14:45] [Server thread/WARN]: Eirvaaaaa moved too quickly! 2.6951956473610323,2.796735600668697,9.392938066939678
+[01:14:45] [Server thread/WARN]: BigEgg40287 moved too quickly! 0.3051066488964125,-1.4524514780759787,-10.144863462980439
+[01:16:35] [Server thread/INFO]: Eirvaaaaa has made the advancement [Those Were the Days]
+[01:16:47] [Server thread/INFO]: Eirvaaaaa has made the advancement [War Pigs]
+[01:17:43] [Server thread/INFO]: BigEgg40287 was slain by Enderman
+[01:18:10] [Server thread/INFO]: Eirvaaaaa was shot by Piglin
+[01:18:32] [Server thread/INFO]: <extrabass750> GG
+[01:19:14] [Server thread/INFO]: TaiwanDebuger was slain by Zombie
+[01:19:30] [Server thread/INFO]: <extrabass750> 全滅
+[01:21:13] [Server thread/INFO]: Eirvaaaaa was shot by Skeleton
+[01:27:34] [Server thread/INFO]: BigEgg40287 was blown up by Creeper
+[01:27:47] [Server thread/INFO]: TaiwanDebuger was blown up by Creeper
+[01:28:31] [Server thread/INFO]: Eirvaaaaa was shot by Skeleton
+[01:28:41] [Server thread/INFO]: BigEgg40287 fell from a high place
+[01:29:45] [Server thread/WARN]: Eirvaaaaa moved too quickly! 9.872844555394018,-1.2491870787446828,-1.7681864836555878
+[01:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:29:48] [Server thread/INFO]: BigEgg40287 was killed by Evoker using magic
+[01:29:49] [Server thread/INFO]: Eirvaaaaa was slain by Zombie
+[01:30:35] [Server thread/INFO]: BigEgg40287 was slain by Zombie
+[01:31:28] [Server thread/INFO]: TaiwanDebuger has made the advancement [War Pigs]
+[01:31:38] [Server thread/INFO]: BigEgg40287 was blown up by Creeper
+[01:32:13] [Server thread/INFO]: Eirvaaaaa was blown up by Creeper
+[01:33:05] [Server thread/INFO]: BigEgg40287 has made the advancement [Take Aim]
+[01:34:36] [Server thread/INFO]: BigEgg40287 fell from a high place
+[01:34:48] [Server thread/WARN]: extrabass750 moved too quickly! 5.2000136888103725,0.0,8.594370975657739
+[01:34:48] [Server thread/WARN]: BigEgg40287 moved too quickly! 1.3235543403085046,0.0,-9.918132856696673
+[01:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[01:35:55] [Server thread/INFO]: <Eirvaaaaa> sleep
+[01:36:58] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[01:36:58] [Server thread/INFO]: BigEgg40287 left the game
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 8.933172428794423,0.0,-5.174330912659627
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 9.300812843753489,0.0,-5.328257579369506
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 9.669375455830005,0.0,-5.48019854255142
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 10.038791123463639,0.0,-5.630287315998373
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 10.408994963119756,0.0,-5.778651258450395
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 10.779927223613065,0.0,-5.925408579293787
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 11.151531521175016,0.0,-6.07067288192934
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 11.523755795387792,0.0,-6.214550011770768
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 11.89655062887686,0.0,-6.357142458613737
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 12.269871508753425,0.0,-6.498542451164667
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 12.643677091918768,0.0,-6.638836607857456
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 13.01792764756349,0.0,-6.77811013003884
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 13.392588643580602,0.0,-6.916436065829487
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 13.767626497679537,0.0,-7.0538874079511515
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 14.143009730376775,0.0,-7.190533472696529
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 14.518711243208969,0.0,-7.326433013500662
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 14.894704159065846,0.0,-7.461646164387844
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 15.270964281098216,0.0,-7.596227043184513
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 15.647469828417094,0.0,-7.730224355001951
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 16.02419996142654,0.0,-7.863685563803131
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 16.401135920765398,0.0,-7.996653385290983
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 16.77826081555851,0.0,-8.129166261734497
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 17.155559447743926,0.0,-8.261258792106105
+[01:39:50] [Server thread/WARN]: Boat (vehicle of Eirvaaaaa) moved too quickly! 17.53323488390639,0.0,-8.392302707432464
+[01:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[01:41:33] [Server thread/INFO]: <extrabass750> 我迷路了
+[01:41:56] [Server thread/INFO]: <TaiwanDebuger> 家裡座標-80 ~ -20
+[01:42:38] [Server thread/INFO]: <TaiwanDebuger> 我掛機釣魚喔大家
+[01:43:52] [Server thread/INFO]: extrabass750 burned to death
+[01:44:52] [Server thread/WARN]: Eirvaaaaa moved too quickly! 9.646961526953646,0.2468000194787976,-2.9422710972668824
+[01:45:37] [User Authenticator #5/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[01:45:38] [Server thread/INFO]: BigEgg40287[/111.253.216.218:52210] logged in with entity id 27069 at (-132.5, 69.0, -27.5)
+[01:45:38] [Server thread/INFO]: BigEgg40287 joined the game
+[01:47:17] [Server thread/INFO]: <extrabass750> 靠拳頭打蜘蛛
+[01:48:24] [Server thread/INFO]: Eirvaaaaa was shot by Skeleton
+[01:49:13] [Server thread/INFO]: <Eirvaaaaa> 我要釣魚掛機了各位 晚安
+[01:49:39] [Server thread/INFO]: <extrabass750> 晚安
+[01:50:41] [Server thread/INFO]: <BigEgg40287> AO62/3RU6
+[01:50:46] [Server thread/INFO]: <BigEgg40287> 沒等級
+[01:50:52] [Server thread/INFO]: <TaiwanDebuger> 娜先放妳那
+[01:51:20] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[01:51:20] [Server thread/INFO]: BigEgg40287 left the game
+[02:10:50] [Server thread/INFO]: <extrabass750> 累死
+[02:11:38] [Server thread/INFO]: <extrabass750> 被關在地下世界
+[02:20:27] [Server thread/INFO]: <extrabass750> 為甚麼釣到稀有的弓?
+[02:26:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-59, y=58, z=-104} fx{x=-59, y=59, z=-104}
+[02:26:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-59, y=56, z=-104} fx{x=-59, y=57, z=-104}
+[02:27:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-60, y=56, z=-105} fx{x=-60, y=57, z=-105}
+[02:44:31] [Server thread/INFO]: <extrabass750> 88
+[02:44:37] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[02:44:37] [Server thread/INFO]: extrabass750 left the game
+[02:50:15] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[02:50:15] [Server thread/INFO]: Eirvaaaaa left the game
+[02:50:21] [Server thread/INFO]: TaiwanDebuger lost connection: Timed out
+[02:50:21] [Server thread/INFO]: TaiwanDebuger left the game
+[09:55:46] [User Authenticator #6/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[09:55:47] [Server thread/INFO]: extrabass750[/111.82.34.65:2066] logged in with entity id 38034 at (-60.83165453451288, 62.5, -125.43382244013041)
+[09:55:47] [Server thread/INFO]: extrabass750 joined the game
+[10:38:01] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[10:38:01] [Server thread/INFO]: extrabass750 left the game
+[10:38:15] [User Authenticator #7/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[10:38:15] [Server thread/INFO]: extrabass750[/111.82.34.65:2729] logged in with entity id 46204 at (-78.07499998807907, 63.0, -19.523771122093834)
+[10:38:15] [Server thread/INFO]: extrabass750 joined the game
+[10:52:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=39, y=62, z=-85} fx{x=39, y=61, z=-85}
+[11:03:34] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[11:27:29] [Server thread/INFO]: extrabass750 hit the ground too hard
+[11:34:09] [Server thread/INFO]: extrabass750 was slain by Zombie
+[12:00:40] [User Authenticator #8/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[12:00:40] [Server thread/INFO]: Eirvaaaaa[/118.170.122.5:65170] logged in with entity id 59489 at (-77.69999998807907, 63.0, -17.58847654676556)
+[12:00:40] [Server thread/INFO]: Eirvaaaaa joined the game
+[12:00:49] [Server thread/INFO]: <extrabass750> HI
+[12:00:53] [Server thread/INFO]: <Eirvaaaaa> hi
+[12:01:58] [Server thread/INFO]: <extrabass750> 我在挖礦
+[12:22:17] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[12:22:17] [Server thread/INFO]: Eirvaaaaa left the game
+[12:22:19] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[12:22:19] [Server thread/INFO]: extrabass750 left the game
+[12:23:06] [User Authenticator #9/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[12:23:06] [Server thread/INFO]: extrabass750[/111.82.34.65:3511] logged in with entity id 64623 at (24.5275283333085, 67.0, 166.18713094453696)
+[12:23:06] [Server thread/INFO]: extrabass750 joined the game
+[12:23:18] [Server thread/INFO]: <extrabass750> 斷線?
+[12:23:51] [Server thread/INFO]: extrabass750 lost connection: Timed out
+[12:23:51] [Server thread/INFO]: extrabass750 left the game
+[12:24:06] [User Authenticator #10/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[12:24:06] [Server thread/INFO]: extrabass750[/111.82.34.65:1166] logged in with entity id 64722 at (33.56413807876498, 67.0, 173.53266796596947)
+[12:24:06] [Server thread/INFO]: extrabass750 joined the game
+[12:24:18] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[12:24:18] [Server thread/INFO]: extrabass750 left the game
+[12:24:27] [User Authenticator #11/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[12:24:27] [Server thread/INFO]: extrabass750[/111.82.34.65:1723] logged in with entity id 64767 at (33.56413807876498, 67.0, 173.53266796596947)
+[12:24:27] [Server thread/INFO]: extrabass750 joined the game
+[12:24:38] [Server thread/WARN]: extrabass750 moved too quickly! -8.155992402850039,1.2491870787446828,-6.105923418662229
+[12:39:03] [User Authenticator #12/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[12:39:03] [Server thread/INFO]: Eirvaaaaa[/118.170.122.5:65075] logged in with entity id 66916 at (-77.68947865793119, 63.0, -17.48986000343329)
+[12:39:03] [Server thread/INFO]: Eirvaaaaa joined the game
+[12:39:21] [Server thread/INFO]: <extrabass750> HI
+[12:39:24] [Server thread/INFO]: <Eirvaaaaa> hi
+[12:40:06] [Server thread/INFO]: <extrabass750> 你能幫我修理弓箭嗎?
+[12:40:50] [Server thread/INFO]: <extrabass750> 快壞掉了
+[12:41:18] [Server thread/INFO]: <extrabass750> 還是你沒空?
+[12:43:04] [Server thread/INFO]: <Eirvaaaaa> 噢噢 我剛剛在掛機
+[12:43:09] [Server thread/INFO]: <Eirvaaaaa> 我可以幫你修理
+[12:43:21] [Server thread/INFO]: <extrabass750> 好
+[12:43:38] [Server thread/INFO]: <extrabass750> 剛剛給你了
+[12:44:06] [Server thread/INFO]: <Eirvaaaaa> 你的是哪一把
+[12:44:12] [Server thread/INFO]: <extrabass750> 不好意思麻煩妳了
+[12:44:16] [Server thread/INFO]: <Eirvaaaaa> 用到剩下橘色的那把嗎
+[12:44:26] [Server thread/INFO]: <extrabass750> 是伏魔那個
+[12:46:59] [Server thread/INFO]: <extrabass750> THANK YOU
+[12:47:09] [Server thread/INFO]: <Eirvaaaaa> OK
+[12:48:56] [Server thread/INFO]: Eirvaaaaa has made the advancement [Cover Me With Diamonds]
+[12:49:23] [Server thread/INFO]: <extrabass750> 請問箭失怎麼做?
+[12:50:04] [Server thread/INFO]: <Eirvaaaaa> 碎石 木棒 羽毛
+[12:50:30] [Server thread/INFO]: <Eirvaaaaa> 打骷弓 比較快
+[12:50:39] [Server thread/INFO]: <extrabass750> ok
+[12:50:40] [Server thread/INFO]: <Eirvaaaaa> 做建比較麻煩
+[12:50:52] [Server thread/INFO]: <extrabass750> ok
+[12:51:02] [User Authenticator #13/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[12:51:02] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:52799] logged in with entity id 68606 at (-78.07499998807907, 63.0, -19.30000001192093)
+[12:51:02] [Server thread/INFO]: TaiwanDebuger joined the game
+[12:52:27] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[12:54:17] [Server thread/INFO]: TaiwanDebuger was blown up by Creeper
+[12:55:51] [Server thread/INFO]: extrabass750 was slain by Vindicator
+[12:57:22] [Server thread/INFO]: extrabass750 was blown up by Creeper
+[13:09:42] [Server thread/INFO]: extrabass750 was slain by Zombie
+[13:15:53] [Server thread/WARN]: Trying to add entity with duplicated UUID 49e0963b-feac-4765-96db-643f4f1b6977. Existing minecraft:armor_stand#72496, new: minecraft:armor_stand#72496
+[13:16:09] [Server thread/WARN]: Trying to add entity with duplicated UUID cf181743-c250-4249-9374-de15c67faa70. Existing minecraft:armor_stand#72544, new: minecraft:armor_stand#72544
+[13:20:44] [Server thread/INFO]: <extrabass750> 請問腐肉是要幹嗎?
+[13:20:53] [Server thread/INFO]: <TaiwanDebuger> 吃
+[13:21:05] [Server thread/INFO]: <TaiwanDebuger> 沒食物的時候可以吃
+[13:21:14] [Server thread/INFO]: <TaiwanDebuger> 有正常的實務的話她就是垃圾
+[13:22:09] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[13:38:47] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[13:38:47] [Server thread/INFO]: Eirvaaaaa left the game
+[13:49:01] [User Authenticator #14/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[13:49:01] [Server thread/INFO]: BigEgg40287[/111.253.216.218:53443] logged in with entity id 77173 at (-129.34105935951675, 69.0, -28.011799625634424)
+[13:49:01] [Server thread/INFO]: BigEgg40287 joined the game
+[13:57:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-167, y=64, z=70} fx{x=-168, y=63, z=70}
+[14:00:57] [Server thread/INFO]: extrabass750 tried to swim in lava
+[14:01:24] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[14:01:24] [Server thread/INFO]: extrabass750 left the game
+[14:01:41] [User Authenticator #15/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[14:01:41] [Server thread/INFO]: extrabass750[/111.82.34.65:1168] logged in with entity id 79792 at (-59.90635184121316, 63.0, -116.34310127138373)
+[14:01:41] [Server thread/INFO]: extrabass750 joined the game
+[14:07:31] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[14:07:31] [Server thread/INFO]: TaiwanDebuger left the game
+[14:07:43] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[14:07:43] [Server thread/INFO]: BigEgg40287 left the game
+[14:07:57] [Server thread/INFO]: extrabass750 lost connection: Timed out
+[14:07:57] [Server thread/INFO]: extrabass750 left the game
+[14:08:12] [User Authenticator #16/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[14:08:12] [Server thread/INFO]: extrabass750[/111.82.34.65:1994] logged in with entity id 80887 at (-62.5, 62.5, -118.5)
+[14:08:12] [Server thread/INFO]: extrabass750 joined the game
+[14:11:17] [User Authenticator #17/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[14:11:17] [Server thread/INFO]: BigEgg40287[/111.253.216.218:53778] logged in with entity id 81611 at (-125.30000001192093, 69.0, -31.64915696950597)
+[14:11:17] [Server thread/INFO]: BigEgg40287 joined the game
+[14:11:40] [User Authenticator #18/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[14:11:40] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:56759] logged in with entity id 81807 at (-72.11238468455277, 5.5, -42.727007222566314)
+[14:11:40] [Server thread/INFO]: TaiwanDebuger joined the game
+[14:14:51] [Server thread/INFO]: <extrabass750> 秘密基地?
+[14:15:05] [Server thread/INFO]: <TaiwanDebuger> 我家
+[14:15:18] [Server thread/INFO]: <extrabass750> 喔喔
+[14:15:20] [Server thread/INFO]: <TaiwanDebuger> 暫時蓋在這
+[14:15:29] [Server thread/INFO]: <TaiwanDebuger> 挖礦比較方便
+[14:15:36] [Server thread/INFO]: <extrabass750> 恩
+[14:15:48] [Server thread/INFO]: <TaiwanDebuger> 酷吧
+[14:16:01] [Server thread/INFO]: <extrabass750> 恩
+[14:16:10] [Server thread/INFO]: <BigEgg40287> 薛
+[14:16:19] [Server thread/INFO]: <extrabass750> 不過我也來過
+[14:16:30] [Server thread/INFO]: <BigEgg40287> 走喔 來去做刷怪塔
+[14:16:33] [Server thread/INFO]: <extrabass750> 難怪出口很難找
+[14:16:42] [Server thread/INFO]: <TaiwanDebuger> 我在遠距捏
+[14:16:53] [Server thread/INFO]: <BigEgg40287> 可以拉
+[14:16:54] [Server thread/INFO]: <TaiwanDebuger> 有點硬的課的遠距
+[14:17:02] [Server thread/INFO]: <TaiwanDebuger> 有點難離開
+[14:17:18] [Server thread/INFO]: <BigEgg40287> 那晚點做
+[14:17:19] [Server thread/INFO]: <extrabass750> 是同步嗎?
+[14:17:23] [Server thread/INFO]: <TaiwanDebuger> 對 同步
+[14:18:12] [Server thread/INFO]: <extrabass750> 爆多
+[14:20:02] [User Authenticator #19/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[14:20:02] [Server thread/INFO]: Eirvaaaaa[/118.170.122.5:60046] logged in with entity id 83399 at (-54.410403060784525, 73.0, -45.579422169937736)
+[14:20:02] [Server thread/INFO]: Eirvaaaaa joined the game
+[14:20:28] [Server thread/INFO]: <extrabass750> 如何?
+[14:20:28] [Server thread/INFO]: <TaiwanDebuger> 變化好大
+[14:20:39] [Server thread/INFO]: <extrabass750> 恩
+[14:20:43] [Server thread/INFO]: <TaiwanDebuger> 每天近來看都不一樣
+[14:20:43] [Server thread/INFO]: <BigEgg40287> ?
+[14:20:45] [Server thread/INFO]: <TaiwanDebuger> 襖庫
+[14:20:48] [Server thread/INFO]: <TaiwanDebuger> 好酷
+[14:21:05] [Server thread/INFO]: <extrabass750> 恩
+[14:23:25] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[14:23:25] [Server thread/INFO]: BigEgg40287 left the game
+[14:26:36] [User Authenticator #20/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[14:26:36] [Server thread/INFO]: BigEgg40287[/111.253.216.218:53839] logged in with entity id 84492 at (-123.55092426994653, 69.0, -37.01734127500579)
+[14:26:36] [Server thread/INFO]: BigEgg40287 joined the game
+[14:27:03] [Server thread/INFO]: <BigEgg40287> 我等等回來
+[14:27:05] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[14:27:05] [Server thread/INFO]: BigEgg40287 left the game
+[14:27:10] [Server thread/INFO]: Eirvaaaaa has completed the challenge [Sniper Duel]
+[14:29:28] [Server thread/INFO]: TaiwanDebuger burned to death
+[14:35:07] [Server thread/INFO]: extrabass750 burned to death
+[14:39:02] [Server thread/INFO]: <Eirvaaaaa> sleep
+[14:39:15] [Server thread/INFO]: <extrabass750> 求救
+[14:39:27] [Server thread/INFO]: <TaiwanDebuger> ?
+[14:39:45] [Server thread/INFO]: <extrabass750> 被困住
+[14:40:04] [Server thread/INFO]: <TaiwanDebuger> wait
+[14:41:48] [Server thread/INFO]: <Eirvaaaaa> wsleep
+[14:41:50] [Server thread/INFO]: <Eirvaaaaa> sleep
+[14:42:01] [Server thread/INFO]: <extrabass750> ok
+[14:42:56] [Server thread/INFO]: <extrabass750> zzzzzzzz
+[14:53:59] [Server thread/INFO]: <Eirvaaaaa> zzzzzzzzz
+[14:54:01] [Server thread/INFO]: <Eirvaaaaa> sleep
+[14:54:22] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[14:54:22] [Server thread/INFO]: TaiwanDebuger left the game
+[14:54:31] [Server thread/INFO]: <Eirvaaaaa> sleep
+[14:54:49] [Server thread/INFO]: <extrabass750> ok
+[14:54:53] [User Authenticator #21/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[14:54:53] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:52934] logged in with entity id 89524 at (-66.4062659735263, 4.0, -67.30000001192094)
+[14:54:53] [Server thread/INFO]: TaiwanDebuger joined the game
+[14:55:51] [Server thread/INFO]: Eirvaaaaa was slain by Vex
+[14:56:07] [Server thread/INFO]: extrabass750 was shot by Pillager
+[14:58:40] [User Authenticator #22/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[14:58:40] [Server thread/INFO]: BigEgg40287[/111.253.216.218:54023] logged in with entity id 90442 at (-132.5, 69.0, -27.5)
+[14:58:40] [Server thread/INFO]: BigEgg40287 joined the game
+[14:58:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/90408, l='ServerLevel[world]', x=-73.50, y=6.00, z=-73.22]
+[14:59:05] [Server thread/INFO]: <BigEgg40287> 安安
+[14:59:10] [Server thread/INFO]: <Eirvaaaaa> hi
+[14:59:16] [Server thread/INFO]: <TaiwanDebuger> good morning
+[14:59:16] [Server thread/INFO]: <extrabass750> hi
+[14:59:29] [Server thread/INFO]: <Eirvaaaaa> 我在填洞口
+[14:59:34] [Server thread/INFO]: <extrabass750> Good moring
+[15:02:29] [Server thread/INFO]: Eirvaaaaa was slain by Enderman
+[15:02:58] [Server thread/INFO]: <Eirvaaaaa> i need my斧頭
+[15:03:08] [Server thread/INFO]: <Eirvaaaaa> thanks
+[15:06:10] [Server thread/INFO]: <Eirvaaaaa> sleep
+[15:06:48] [Server thread/INFO]: <BigEgg40287> -1.433 41 204
+[15:06:57] [Server thread/INFO]: <Eirvaaaaa> zzz
+[15:07:06] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[15:07:06] [Server thread/INFO]: BigEgg40287 left the game
+[15:08:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@10f4ceb6[id=<null>,name=BigEgg40287,properties={},legacy=false] (/111.253.216.218:55329) lost connection: Disconnected
+[15:09:02] [User Authenticator #23/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[15:09:02] [Server thread/INFO]: BigEgg40287[/111.253.216.218:55333] logged in with entity id 92583 at (-128.78608039097003, 69.0, -28.699656945770435)
+[15:09:02] [Server thread/INFO]: BigEgg40287 joined the game
+[15:09:29] [Server thread/INFO]: <BigEgg40287> -1 41 204
+[15:09:42] [Server thread/INFO]: TaiwanDebuger was slain by Enderman
+[15:09:47] [Server thread/INFO]: extrabass750 has made the advancement [Cover Me With Diamonds]
+[15:10:24] [Server thread/INFO]: <TaiwanDebuger> ji32k7u zj6
+[15:10:36] [Server thread/INFO]: <TaiwanDebuger> 我的衣服
+[15:10:39] [Server thread/INFO]: <TaiwanDebuger> 拜託
+[15:11:13] [Server thread/INFO]: <TaiwanDebuger> 10個水桶 一套衣服 一隻鐵鏟 一把弓 一支箭 一些烤魚
+[15:11:26] [Server thread/INFO]: <TaiwanDebuger> 還有鞋子
+[15:11:35] [Server thread/INFO]: <extrabass750> 已經還了
+[15:11:40] [Server thread/INFO]: <TaiwanDebuger> 還在你腳上
+[15:11:57] [Server thread/INFO]: <TaiwanDebuger> 乾恩的新
+[15:12:01] [Server thread/INFO]: <TaiwanDebuger> 心
+[15:12:31] [Server thread/INFO]: <TaiwanDebuger> B
+[15:12:36] [Server thread/INFO]: <TaiwanDebuger> BigEgg40287 dc
+[15:12:38] [Server thread/INFO]: <extrabass750> 被仲介使者害死
+[15:12:55] [Server thread/INFO]: <BigEgg40287> gogo
+[15:12:59] [Server thread/INFO]: <TaiwanDebuger> .41j4
+[15:13:02] [Server thread/INFO]: <TaiwanDebuger> .41j4
+[15:13:16] [Server thread/INFO]: <TaiwanDebuger> 有人撿到我的弓嗎
+[15:13:26] [Server thread/INFO]: <extrabass750> no see
+[15:14:37] [Server thread/INFO]: <BigEgg40287> 來喔
+[15:14:41] [Server thread/INFO]: <TaiwanDebuger> dc
+[15:15:44] [Server thread/INFO]: <BigEgg40287> 我到了
+[15:15:47] [Server thread/INFO]: <TaiwanDebuger> dc
+[15:15:58] [Server thread/INFO]: <BigEgg40287> ==
+[15:16:04] [Server thread/INFO]: <BigEgg40287> 我有在聽
+[15:17:34] [Server thread/INFO]: <BigEgg40287> 座標
+[15:17:49] [Server thread/INFO]: <Eirvaaaaa> 先睡
+[15:18:12] [Server thread/INFO]: <Eirvaaaaa> sleep
+[15:18:46] [Server thread/INFO]: <Eirvaaaaa> sleep
+[15:19:40] [Server thread/INFO]: <BigEgg40287> 座標
+[15:19:49] [Server thread/INFO]: <Eirvaaaaa> follow me
+[15:20:45] [Server thread/INFO]: <TaiwanDebuger> 笑死超進
+[15:22:20] [Server thread/INFO]: <TaiwanDebuger> 我上去對一下位置
+[15:22:42] [Server thread/INFO]: <TaiwanDebuger> 生怪專往下兩~三格就好
+[15:22:52] [Server thread/INFO]: <TaiwanDebuger> 不要挖太深
+[15:35:18] [Server thread/INFO]: <extrabass750> zzzzzz
+[15:35:21] [Server thread/INFO]: Eirvaaaaa was slain by Zombie
+[15:35:25] [Server thread/INFO]: <TaiwanDebuger> i can't
+[15:36:05] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[15:44:50] [Server thread/WARN]: TaiwanDebuger moved too quickly! 0.0,-11.798174230684271,0.02004286646167941
+[15:50:04] [Server thread/INFO]: <TaiwanDebuger> can we sleep?
+[15:50:14] [Server thread/INFO]: <Eirvaaaaa> sleep
+[15:50:14] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[15:50:14] [Server thread/INFO]: TaiwanDebuger left the game
+[15:50:34] [User Authenticator #24/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[15:50:34] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:54618] logged in with entity id 101276 at (343.60573630759785, 63.0857640151576, -64.99306947609719)
+[15:50:34] [Server thread/INFO]: TaiwanDebuger joined the game
+[15:50:38] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[15:50:38] [Server thread/INFO]: TaiwanDebuger left the game
+[15:51:01] [User Authenticator #25/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[15:51:01] [Server thread/INFO]: TaiwanDebuger[/118.170.122.5:54697] logged in with entity id 101477 at (343.60573630759785, 63.0857640151576, -64.99306947609719)
+[15:51:01] [Server thread/INFO]: TaiwanDebuger joined the game
+[15:52:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-118, y=65, z=61} fx{x=-119, y=64, z=59}
+[16:06:48] [Server thread/INFO]: <extrabass750> sleep
+[16:27:21] [Server thread/INFO]: BigEgg40287 has made the advancement [Cover Me With Diamonds]
+[16:31:38] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[16:38:04] [Server thread/INFO]: extrabass750 was slain by Zombie
+[16:40:27] [Server thread/INFO]: BigEgg40287 was shot by Skeleton
+[16:41:54] [Server thread/INFO]: BigEgg40287 was shot by Skeleton
+[16:42:18] [Server thread/INFO]: extrabass750 hit the ground too hard whilst trying to escape Spider
+[16:47:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116229, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116229, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116229, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116235, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.30]
+[16:47:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116235, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.30]
+[16:47:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116235, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.30]
+[16:47:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116239, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116239, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116239, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116241, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116241, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:47:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/116241, l='ServerLevel[world]', x=-111.70, y=63.00, z=64.30]
+[16:48:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116310, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.70]
+[16:48:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116310, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.70]
+[16:48:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/116310, l='ServerLevel[world]', x=-111.30, y=63.00, z=64.70]
+[16:50:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-114, y=61, z=74} fx{x=-117, y=63, z=80}
+[16:53:21] [Server thread/INFO]: <extrabass750> ???
+[16:53:21] [Server thread/INFO]: <BigEgg40287> 77777
+[16:53:39] [Server thread/INFO]: <TaiwanDebuger> 刷怪塔
+[16:54:08] [Server thread/INFO]: <extrabass750> 喔喔喔
+[16:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=58, z=50} fx{x=-112, y=63, z=80}
+[16:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=58, z=50} fx{x=-113, y=63, z=81}
+[16:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=58, z=50} fx{x=-113, y=63, z=82}
+[16:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=58, z=50} fx{x=-113, y=63, z=81}
+[16:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-122, y=58, z=50} fx{x=-112, y=63, z=81}
+[16:59:01] [Server thread/INFO]: <TaiwanDebuger> 我需要土XD
+[16:59:48] [Server thread/INFO]: <BigEgg40287> OK
+[17:01:28] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[17:01:28] [Server thread/INFO]: BigEgg40287 left the game
+[17:04:11] [Server thread/INFO]: <Eirvaaaaa> 挖土用鏟子比較快
+[17:04:26] [Server thread/INFO]: <Eirvaaaaa> 鐵搞挖土根用拳頭的速度一樣XD
+[17:04:38] [Server thread/INFO]: <extrabass750> haha
+[17:05:32] [Server thread/INFO]: <extrabass750> ??
+[17:05:41] [Server thread/INFO]: <TaiwanDebuger> 掛機一下
+[17:05:46] [Server thread/INFO]: <extrabass750> ok
+[17:06:01] [Server thread/INFO]: <Eirvaaaaa> 讚
+[17:06:04] [User Authenticator #26/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[17:06:04] [Server thread/INFO]: BigEgg40287[/111.253.216.218:55856] logged in with entity id 119510 at (-114.00648962569078, 63.0, 28.480278515458476)
+[17:06:04] [Server thread/INFO]: BigEgg40287 joined the game
+[17:06:25] [Server thread/INFO]: <BigEgg40287> 我又回來了@@
+[17:06:38] [Server thread/INFO]: <extrabass750> 恩
+[17:08:04] [Server thread/INFO]: <extrabass750> 爆多
+[17:09:47] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[17:09:47] [Server thread/INFO]: BigEgg40287 left the game
+[17:21:08] [Server thread/INFO]: <extrabass750> hi
+[17:29:39] [Server thread/INFO]: <extrabass750> ????
+[17:39:46] [Server thread/INFO]: extrabass750 was slain by Zombie
+[17:42:25] [Server thread/INFO]: extrabass750 was slain by Zombie
+[17:42:33] [Server thread/INFO]: <extrabass750> QQ
+[17:44:18] [Server thread/INFO]: <Eirvaaaaa> sleep
+[17:53:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/128427, l='ServerLevel[world]', x=-67.13, y=19.00, z=-75.06]
+[17:53:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/128597, l='ServerLevel[world]', x=-78.13, y=19.00, z=-70.13]
+[17:53:59] [Server thread/INFO]: <Eirvaaaaa> wait
+[17:54:06] [Server thread/INFO]: <Eirvaaaaa> 我要做人工養殖林
+[17:54:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/128679, l='ServerLevel[world]', x=-71.51, y=19.10, z=-70.83]
+[17:54:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/128787, l='ServerLevel[world]', x=-66.96, y=19.28, z=-68.13]
+[17:54:38] [Server thread/INFO]: <Eirvaaaaa> 樹木不用水
+[17:54:38] [Server thread/INFO]: <extrabass750> ok
+[17:57:45] [Server thread/INFO]: extrabass750 was slain by Zombie
+[17:58:15] [Server thread/INFO]: <TaiwanDebuger> 好好笑
+[17:58:19] [Server thread/INFO]: <TaiwanDebuger> 你真的很容易死
+[17:58:38] [Server thread/INFO]: <Eirvaaaaa> 在我身上
+[17:59:07] [Server thread/INFO]: <Eirvaaaaa> 你的東西在我身上
+[17:59:25] [Server thread/INFO]: <Eirvaaaaa> 先睡覺等等拿給你
+[18:06:12] [Server thread/INFO]: <Eirvaaaaa> wait
+[18:06:39] [Server thread/INFO]: <Eirvaaaaa> 用這個顏色的鋪地板
+[18:06:48] [Server thread/INFO]: <extrabass750> ok
+[18:06:49] [Server thread/INFO]: <Eirvaaaaa> 同品種
+[18:07:32] [Server thread/INFO]: <extrabass750> sorry
+[18:07:35] [Server thread/INFO]: <Eirvaaaaa> haha
+[18:11:15] [Server thread/INFO]: <Eirvaaaaa> 先睡覺
+[18:12:11] [Server thread/INFO]: <TaiwanDebuger> sleeping
+[18:13:10] [Server thread/INFO]: <extrabass750> pk
+[18:13:15] [Server thread/INFO]: <extrabass750> ok
+[18:13:17] [Server thread/INFO]: <TaiwanDebuger> 來啊pk阿
+[18:16:52] [Server thread/INFO]: <extrabass750> GOOD MORING
+[18:16:58] [Server thread/INFO]: <TaiwanDebuger> hi
+[18:18:20] [Server thread/INFO]: <Eirvaaaaa> 我先把你的田地填平 晚點幫你換個位置蓋新的
+[18:18:32] [Server thread/INFO]: <extrabass750> ok
+[18:22:11] [Server thread/INFO]: <Eirvaaaaa> 斧頭砍木頭
+[18:22:27] [Server thread/INFO]: <Eirvaaaaa> 空手打樹葉
+[18:22:52] [Server thread/INFO]: <Eirvaaaaa> 斧頭打樹葉很快就用完了 不會比較快 很浪費XD
+[18:24:05] [Server thread/INFO]: <extrabass750> ok
+[18:27:39] [Server thread/INFO]: <TaiwanDebuger> 你按一下ESC>選項>協助工具設定>顯示字幕->開啟
+[18:27:55] [Server thread/INFO]: <TaiwanDebuger> 這樣你畫面右下角就會顯示附近的聲音
+[18:28:03] [Server thread/INFO]: <TaiwanDebuger> 你應該比較不會死
+[18:28:22] [Server thread/INFO]: <TaiwanDebuger> 如果有殭屍或是苦里帕的聲音右下角會顯示出來
+[18:28:31] [Server thread/INFO]: <extrabass750> ok
+[18:28:59] [Server thread/INFO]: extrabass750 was slain by Zombie
+[18:29:21] [Server thread/INFO]: <extrabass750> ???
+[18:29:22] [Server thread/INFO]: Eirvaaaaa was slain by Zombie
+[18:29:55] [Server thread/INFO]: <extrabass750> sleep
+[18:30:14] [Server thread/INFO]: <Eirvaaaaa> ok
+[18:30:26] [Server thread/INFO]: <Eirvaaaaa> QAQ
+[18:30:33] [Server thread/INFO]: <Eirvaaaaa> 嗚嗚嗚
+[18:30:35] [Server thread/INFO]: <extrabass750> QQ
+[18:43:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Torch'/141369, l='ServerLevel[world]', x=-82.34, y=9.00, z=-79.72]
+[18:44:45] [Server thread/INFO]: <extrabass750> 我先吃飯
+[18:44:48] [Server thread/INFO]: <Eirvaaaaa> 88
+[18:44:50] [Server thread/INFO]: <TaiwanDebuger> PK
+[18:45:24] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[18:45:24] [Server thread/INFO]: extrabass750 left the game
+[18:56:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/144197, l='ServerLevel[world]', x=-61.13, y=19.09, z=-79.77]
+[19:26:59] [User Authenticator #27/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[19:26:59] [Server thread/INFO]: extrabass750[/111.82.34.65:1861] logged in with entity id 149517 at (-58.51994292986399, 62.5, -119.60536813827876)
+[19:26:59] [Server thread/INFO]: extrabass750 joined the game
+[19:28:09] [Server thread/INFO]: <extrabass750> hi
+[19:28:13] [Server thread/INFO]: <TaiwanDebuger> hi
+[19:32:12] [Server thread/WARN]: Trying to add entity with duplicated UUID 06aaef35-113e-4dda-8110-b99689b99a90. Existing minecraft:armor_stand#150436, new: minecraft:armor_stand#150436
+[19:32:18] [Server thread/WARN]: Trying to add entity with duplicated UUID 36c0aba0-fa56-4124-a943-0c5ce9ae7988. Existing minecraft:armor_stand#150444, new: minecraft:armor_stand#150444
+[19:32:24] [Server thread/WARN]: Trying to add entity with duplicated UUID 051ec62d-f0c2-4588-82de-4c1141601f3a. Existing minecraft:armor_stand#150463, new: minecraft:armor_stand#150463
+[19:33:42] [Server thread/WARN]: Trying to add entity with duplicated UUID c5659d73-c438-4dbf-8169-07f515ea05a9. Existing minecraft:armor_stand#150716, new: minecraft:armor_stand#150716
+[19:34:22] [Server thread/INFO]: <extrabass750> 你有打火石嗎?
+[19:34:26] [Server thread/INFO]: <TaiwanDebuger> yes
+[19:36:03] [Server thread/INFO]: <TaiwanDebuger> where r u
+[19:36:26] [Server thread/INFO]: <extrabass750> 我在祖厝
+[19:36:42] [Server thread/INFO]: <extrabass750> 那邊
+[19:37:55] [Server thread/INFO]: <extrabass750> ?
+[19:38:12] [Server thread/INFO]: <extrabass750> 你有給我嗎?
+[19:38:22] [Server thread/INFO]: <TaiwanDebuger> 在你身上了
+[19:38:31] [Server thread/INFO]: <extrabass750> 看到了
+[19:38:46] [Server thread/INFO]: <extrabass750> thank you
+[19:51:39] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[19:56:08] [Server thread/INFO]: Eirvaaaaa burned to death
+[19:56:33] [Server thread/INFO]: <extrabass750> what?
+[19:57:43] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[20:00:44] [Server thread/INFO]: Eirvaaaaa burned to death
+[20:01:01] [Server thread/INFO]: <extrabass750> 誰?
+[20:01:34] [Server thread/INFO]: Eirvaaaaa was slain by Magma Cube
+[20:01:43] [Server thread/INFO]: <TaiwanDebuger> XD
+[20:03:52] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[20:03:52] [Server thread/INFO]: Eirvaaaaa left the game
+[20:03:52] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[20:03:52] [Server thread/INFO]: TaiwanDebuger left the game
+[20:06:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@48f106a0[id=<null>,name=Eirvaaaaa,properties={},legacy=false] (/118.170.145.211:55963) lost connection: Disconnected
+[20:06:48] [Server thread/INFO]: <extrabass750> 孤單
+[20:07:21] [User Authenticator #28/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[20:07:21] [Server thread/INFO]: Eirvaaaaa[/118.170.145.211:55995] logged in with entity id 158085 at (-95.52689869469076, 88.0, -24.59479119609256)
+[20:07:21] [Server thread/INFO]: Eirvaaaaa joined the game
+[20:07:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@3dbba6b0[id=<null>,name=Eirvaaaaa,properties={},legacy=false] (/118.170.145.211:55970) lost connection: Timed out
+[20:07:33] [User Authenticator #29/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[20:07:33] [Server thread/INFO]: TaiwanDebuger[/118.170.145.211:61254] logged in with entity id 158300 at (-61.79121153744671, 5.0, -51.14960299204659)
+[20:07:33] [Server thread/INFO]: TaiwanDebuger joined the game
+[20:07:45] [Server thread/INFO]: <TaiwanDebuger> 樓下跳電
+[20:07:57] [Server thread/INFO]: <extrabass750> 真假?!
+[20:08:33] [Server thread/INFO]: Eirvaaaaa burned to death
+[20:08:58] [Server thread/INFO]: <extrabass750> ???
+[20:09:06] [Server thread/INFO]: <extrabass750> 神明?
+[20:09:41] [Server thread/INFO]: extrabass750 has made the advancement [We Need to Go Deeper]
+[20:09:46] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
+[20:10:22] [Server thread/INFO]: <extrabass750> 怎麼鬼阿
+[20:10:33] [Server thread/INFO]: Eirvaaaaa tried to swim in lava
+[20:10:43] [Server thread/INFO]: <extrabass750> 這是哪?
+[20:10:48] [Server thread/WARN]: Eirvaaaaa moved too quickly! 0.0,-11.314849834017007,0.0
+[20:10:54] [Server thread/INFO]: <TaiwanDebuger> 地域
+[20:10:55] [Server thread/INFO]: <TaiwanDebuger> 酷吧
+[20:11:09] [Server thread/INFO]: extrabass750 was slain by Magma Cube
+[20:11:34] [Server thread/INFO]: <TaiwanDebuger> 那邊的怪比主世界還要痛很多
+[20:11:52] [Server thread/INFO]: <extrabass750> 恩
+[20:12:24] [Server thread/INFO]: extrabass750 was slain by Zombie
+[20:14:56] [Server thread/INFO]: extrabass750 was slain by Magma Cube
+[20:15:54] [Server thread/INFO]: <extrabass750> 薛
+[20:16:00] [Server thread/INFO]: <TaiwanDebuger> hi
+[20:16:19] [Server thread/INFO]: <extrabass750> 我不小心你床變我床
+[20:16:29] [Server thread/INFO]: <extrabass750> sorry
+[20:16:31] [Server thread/INFO]: <TaiwanDebuger> okok
+[20:17:29] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[20:20:57] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[20:21:43] [Server thread/INFO]: TaiwanDebuger tried to swim in lava
+[20:22:21] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[20:22:49] [Server thread/INFO]: TaiwanDebuger was slain by Magma Cube
+[20:29:45] [Server thread/WARN]: Trying to add entity with duplicated UUID 40b27426-4abb-4c09-9be2-0939beb07eff. Existing minecraft:armor_stand#165366, new: minecraft:armor_stand#165366
+[20:30:01] [Server thread/WARN]: Trying to add entity with duplicated UUID 0e4103d5-69f9-4180-9e1f-ffc37c9431a0. Existing minecraft:armor_stand#165438, new: minecraft:armor_stand#165438
+[20:31:46] [Server thread/INFO]: extrabass750 drowned
+[20:33:10] [Server thread/INFO]: <extrabass750> 想害死我喔
+[20:33:22] [Server thread/INFO]: <extrabass750> ?
+[20:33:23] [Server thread/INFO]: <TaiwanDebuger> 我還沒修好喇哈哈
+[20:33:42] [Server thread/INFO]: Eirvaaaaa was slain by Zombie
+[20:35:37] [Server thread/INFO]: <TaiwanDebuger> 酷吧 地下花園
+[20:35:44] [Server thread/INFO]: <extrabass750> 恩
+[20:36:22] [Server thread/INFO]: <extrabass750> cool!!
+[20:38:36] [Server thread/INFO]: <TaiwanDebuger> 這個洞我挖超九
+[20:38:44] [Server thread/INFO]: <extrabass750> 恩
+[20:40:55] [Server thread/INFO]: <Eirvaaaaa> 我要休息一下 順便吃晚餐 掛機
+[20:40:59] [Server thread/INFO]: <TaiwanDebuger> +1
+[20:41:15] [Server thread/INFO]: <extrabass750> ok
+[20:41:32] [Server thread/INFO]: <extrabass750> bye bye
+[20:50:22] [Server thread/INFO]: extrabass750 drowned
+[20:51:33] [Server thread/INFO]: extrabass750 drowned
+[20:52:08] [Server thread/INFO]: <extrabass750> 又壞了
+[20:54:30] [Server thread/INFO]: extrabass750 drowned
+[20:56:09] [Server thread/WARN]: Trying to add entity with duplicated UUID e106dc1d-6045-4f92-aa3d-5a4221e3f88a. Existing minecraft:armor_stand#169951, new: minecraft:armor_stand#169951
+[20:56:14] [Server thread/WARN]: Trying to add entity with duplicated UUID 7da0d30e-7ef1-403f-b9f1-49f21c751308. Existing minecraft:armor_stand#169971, new: minecraft:armor_stand#169971
+[20:57:25] [Server thread/INFO]: <extrabass750> 修好了
+[20:57:31] [Server thread/INFO]: <extrabass750> ?
+[20:57:31] [Server thread/INFO]: <TaiwanDebuger> 剛剛休的
+[20:57:44] [Server thread/INFO]: <TaiwanDebuger> 他必須要全部都是實體水源
+[20:58:00] [Server thread/INFO]: <extrabass750> 恩
+[20:58:26] [Server thread/INFO]: <TaiwanDebuger> 我繼續釣
+[20:58:29] [Server thread/INFO]: <TaiwanDebuger> 881
+[20:58:33] [Server thread/INFO]: <extrabass750> 88
+[21:09:33] [Server thread/INFO]: <extrabass750> 鐵礦哪裡找到?
+[21:30:36] [Server thread/INFO]: <TaiwanDebuger> 鐵礦可以在洞窟裡面或是地底下機率性出現
+[21:31:08] [Server thread/INFO]: <TaiwanDebuger> 重生點附近地下的洞就可以找到鐵礦
+[21:31:29] [Server thread/INFO]: <TaiwanDebuger> 或是向我們一樣衝到地底到處挖
+[21:31:55] [Server thread/INFO]: <Eirvaaaaa> t
+[21:54:44] [Server thread/INFO]: <TaiwanDebuger> 如何
+[21:54:49] [Server thread/INFO]: <TaiwanDebuger> 有挖到東西嗎?
+[21:56:51] [Server thread/INFO]: <extrabass750> 我。。。。剛去洗澡
+[21:57:09] [Server thread/INFO]: <extrabass750> haha
+[21:57:10] [Server thread/INFO]: <TaiwanDebuger> 原來如此
+[21:57:41] [Server thread/INFO]: <extrabass750> haha
+[21:57:54] [Server thread/INFO]: <extrabass750> 如何?
+[21:58:14] [Server thread/INFO]: <TaiwanDebuger> 很酷ㄟ
+[21:58:24] [Server thread/INFO]: <TaiwanDebuger> 真的是每次看都不一樣
+[21:58:46] [Server thread/INFO]: <extrabass750> 恩,haha
+[22:00:42] [Server thread/INFO]: <extrabass750> 好像很少挖到
+[22:00:52] [Server thread/INFO]: <TaiwanDebuger> 還蠻好挖的其實
+[22:00:58] [Server thread/INFO]: <extrabass750> 恩
+[22:01:04] [Server thread/INFO]: <TaiwanDebuger> 去洞窟挖比較快
+[22:01:13] [Server thread/INFO]: <TaiwanDebuger> 應該說跟地底差不多
+[22:01:26] [Server thread/INFO]: <TaiwanDebuger> 阿可是地底比較無聊就是了
+[22:01:42] [Server thread/INFO]: <extrabass750> 洞掘?
+[22:01:54] [Server thread/INFO]: <TaiwanDebuger> ㄎㄨ
+[22:01:58] [Server thread/INFO]: <TaiwanDebuger> 洞窟
+[22:02:17] [Server thread/INFO]: <extrabass750> 但不知道在哪?
+[22:02:17] [Server thread/INFO]: <TaiwanDebuger> 種樹那附近不是有很多地動嗎??
+[22:02:20] [Server thread/INFO]: <TaiwanDebuger> 天然的
+[22:02:31] [Server thread/INFO]: <TaiwanDebuger> 那些地方下去探險就是了
+[22:02:41] [Server thread/INFO]: <extrabass750> ok
+[22:04:02] [Server thread/INFO]: <TaiwanDebuger> 嘔對 鐵礦藥用石稿以上的稿子挖
+[22:04:21] [Server thread/INFO]: <TaiwanDebuger> 然後紅石黃金鑽石礦藥用鐵搞以上才能挖
+[22:04:43] [Server thread/INFO]: <extrabass750> ok
+[22:08:39] [Server thread/INFO]: <extrabass750> 你還有火材嗎?
+[22:10:18] [Server thread/INFO]: <extrabass750> ?
+[22:25:09] [Server thread/INFO]: <TaiwanDebuger> 火才?
+[22:25:29] [Server thread/INFO]: <extrabass750> yes
+[22:25:48] [Server thread/INFO]: <TaiwanDebuger> 你是說火把嗎?
+[22:26:01] [Server thread/INFO]: <extrabass750> 嗯嗯嗯
+[22:26:06] [Server thread/INFO]: <TaiwanDebuger> 火把用煤炭或木炭加上樹脂可以做
+[22:26:10] [Server thread/INFO]: <TaiwanDebuger> 樹枝
+[22:26:21] [Server thread/INFO]: <extrabass750> ok
+[22:27:30] [User Authenticator #30/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[22:27:30] [Server thread/INFO]: BigEgg40287[/111.253.216.218:60850] logged in with entity id 185989 at (-127.13776096212956, 69.0, -28.338098563718148)
+[22:27:30] [Server thread/INFO]: BigEgg40287 joined the game
+[22:29:17] [Server thread/INFO]: BigEgg40287 has made the advancement [Ice Bucket Challenge]
+[22:33:00] [Server thread/INFO]: <extrabass750> 好難找喔
+[22:33:19] [Server thread/INFO]: <TaiwanDebuger> 你要找沒有人去過的洞窟
+[22:33:28] [Server thread/INFO]: <TaiwanDebuger> 友人去過的都被挖完了
+[22:33:39] [Server thread/INFO]: <extrabass750> 好
+[22:33:53] [Server thread/INFO]: <Eirvaaaaa> sleep
+[22:33:55] [Server thread/INFO]: <extrabass750> sleep in
+[22:34:30] [Server thread/INFO]: <extrabass750> 沒辦發睡覺
+[22:35:23] [Server thread/INFO]: <extrabass750> 因為有會飛的怪物附近飛盪
+[22:35:31] [Server thread/INFO]: <extrabass750> OK
+[22:35:39] [Server thread/INFO]: <Eirvaaaaa> 太久不睡覺會出現會飛的怪物
+[22:36:02] [Server thread/INFO]: <extrabass750> ok
+[22:36:23] [Server thread/INFO]: <extrabass750> TaiwanDebuger
+[22:36:30] [Server thread/INFO]: <extrabass750> sleep
+[22:36:30] [Server thread/INFO]: <TaiwanDebuger> ??
+[22:36:42] [Server thread/INFO]: <Eirvaaaaa> sleep
+[22:37:33] [Server thread/INFO]: <TaiwanDebuger> 沒有人要睡
+[22:37:35] [Server thread/INFO]: <TaiwanDebuger> 好好笑
+[22:37:48] [Server thread/INFO]: <extrabass750> QQ
+[22:38:00] [Server thread/INFO]: <extrabass750> 爆肝
+[22:54:30] [Server thread/INFO]: Eirvaaaaa has made the advancement [Enchanter]
+[23:04:11] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/193768, l='ServerLevel[world]', x=-111.59, y=63.21, z=64.38]
+[23:05:04] [Server thread/INFO]: BigEgg40287 has made the advancement [Enchanter]
+[23:12:57] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[23:12:57] [Server thread/INFO]: extrabass750 left the game
+[23:13:16] [User Authenticator #31/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[23:13:16] [Server thread/INFO]: extrabass750[/111.82.34.65:1133] logged in with entity id 196674 at (-66.95255814314227, 64.0, 17.18803497861891)
+[23:13:16] [Server thread/INFO]: extrabass750 joined the game
+[23:16:17] [Server thread/INFO]: extrabass750 was shot by Skeleton
+[23:16:24] [Server thread/INFO]: <extrabass750> why?
+[23:16:54] [Server thread/INFO]: <extrabass750> fuck you
+[23:17:21] [Server thread/INFO]: <extrabass750> QQ
+[23:18:52] [Server thread/INFO]: <Eirvaaaaa> 有人看到我的鑽石嗎
+[23:18:58] [Server thread/INFO]: <Eirvaaaaa> 放在箱子裡
+[23:18:58] [Server thread/INFO]: <extrabass750> no
+[23:18:59] [Server thread/INFO]: <BigEgg40287> 沒動
+[23:19:09] [Server thread/INFO]: <extrabass750> 恩恩
+[23:20:32] [Server thread/INFO]: <extrabass750> 你鑽石不見了?
+[23:22:34] [Server thread/INFO]: <extrabass750> 請問樹葉這麼多怎麼清?
+[23:22:54] [Server thread/INFO]: <TaiwanDebuger> 爬上去打調
+[23:23:01] [Server thread/INFO]: <TaiwanDebuger> 樹幹沒了樹葉會自己消失
+[23:26:27] [Server thread/INFO]: <extrabass750> ok
+[23:26:49] [Server thread/INFO]: <extrabass750> thank you
+[23:29:34] [Server thread/INFO]: <extrabass750> 你人呢?
+[23:29:53] [Server thread/INFO]: <TaiwanDebuger> who
+[23:30:38] [Server thread/INFO]: <extrabass750> hello
+[23:30:44] [Server thread/INFO]: <TaiwanDebuger> hi
+[23:30:55] [Server thread/INFO]: <TaiwanDebuger> i need that
+[23:31:15] [Server thread/INFO]: <extrabass750> need?
+[23:31:22] [Server thread/INFO]: <TaiwanDebuger> 難抓種子
+[23:31:26] [Server thread/INFO]: <TaiwanDebuger> 南瓜
+[23:31:41] [Server thread/INFO]: <TaiwanDebuger> 甘溫
+[23:32:22] [Server thread/INFO]: <extrabass750> 帥
+[23:33:01] [Server thread/INFO]: <extrabass750> ???
+[23:33:56] [Server thread/INFO]: <extrabass750> OK?
+[23:34:02] [Server thread/INFO]: <TaiwanDebuger> ??
+[23:34:40] [Server thread/INFO]: <extrabass750> i'm so sleep
+[23:34:58] [Server thread/INFO]: <extrabass750> 88
+[23:35:01] [Server thread/INFO]: <TaiwanDebuger> 88
+[23:35:03] [Server thread/INFO]: <Eirvaaaaa> 88
+[23:35:50] [Server thread/INFO]: <extrabass750> zzzzzzz
+[23:35:57] [Server thread/INFO]: <Eirvaaaaa> zzzz
+[23:36:01] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[23:36:01] [Server thread/INFO]: BigEgg40287 left the game
+[23:36:10] [User Authenticator #32/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[23:36:10] [Server thread/INFO]: BigEgg40287[/111.253.216.218:61210] logged in with entity id 201337 at (-113.51249998807907, 62.0, 64.69999998807909)
+[23:36:10] [Server thread/INFO]: BigEgg40287 joined the game
+[23:36:19] [Server thread/INFO]: <extrabass750> good moring
+[23:36:50] [Server thread/INFO]: <extrabass750> how are yoring?
+[23:37:02] [Server thread/INFO]: <TaiwanDebuger> gooding
+[23:37:27] [Server thread/INFO]: <extrabass750> very gooding?
+[23:37:33] [Server thread/INFO]: <TaiwanDebuger> yes
+[23:38:07] [Server thread/INFO]: <TaiwanDebuger> 靠北我鑽石怎麼剩一顆
+[23:38:24] [Server thread/INFO]: <extrabass750> 真假?!
+[23:38:35] [Server thread/INFO]: <TaiwanDebuger> 要死了
+[23:38:48] [Server thread/INFO]: <extrabass750> no no
+[23:39:46] [Server thread/INFO]: <BigEgg40287> 我家鑽石不見我絕對去你家放火
+[23:40:20] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[23:40:20] [Server thread/INFO]: extrabass750 left the game
+[23:40:30] [User Authenticator #33/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[23:40:30] [Server thread/INFO]: extrabass750[/111.82.34.65:1176] logged in with entity id 202265 at (-67.41482902829381, 6.0, -64.91449943083977)
+[23:40:30] [Server thread/INFO]: extrabass750 joined the game
+[23:40:42] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[23:40:42] [Server thread/INFO]: extrabass750 left the game
+[23:42:28] [User Authenticator #34/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[23:42:28] [Server thread/INFO]: extrabass750[/111.82.34.65:1690] logged in with entity id 202671 at (-67.41482902829381, 6.0, -64.91449943083977)
+[23:42:28] [Server thread/INFO]: extrabass750 joined the game
+[23:42:50] [Server thread/INFO]: <extrabass750> Ok ok ok
+[23:43:22] [Server thread/INFO]: <extrabass750> 測試
+[23:43:54] [Server thread/INFO]: <TaiwanDebuger> 好扯
+[23:43:54] [Server thread/INFO]: <extrabass750> ?
+[23:43:59] [Server thread/INFO]: <TaiwanDebuger> 幸運II
+[23:44:06] [Server thread/INFO]: <extrabass750> haha
+[23:44:33] [Server thread/INFO]: <extrabass750> 恐怖
+[23:44:59] [Server thread/INFO]: <extrabass750> 真的放火?
+[23:45:21] [Server thread/INFO]: <TaiwanDebuger> 那個要蹲
+[23:45:33] [Server thread/INFO]: <extrabass750> 了解
+[23:46:56] [Server thread/INFO]: BigEgg40287 lost connection: Timed out
+[23:46:56] [Server thread/INFO]: BigEgg40287 left the game
+[23:47:04] [User Authenticator #35/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[23:47:04] [Server thread/INFO]: BigEgg40287[/111.253.216.218:61250] logged in with entity id 203429 at (-129.99233873429785, 69.0, -27.460908970158414)
+[23:47:04] [Server thread/INFO]: BigEgg40287 joined the game
+[23:47:12] [Server thread/WARN]: TaiwanDebuger moved too quickly! 0.36865502512813464,-10.80652611000901,-0.21679951206540693
+[23:47:13] [Server thread/WARN]: TaiwanDebuger moved too quickly! 0.0,-10.188594643186825,0.0
+[23:47:35] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[23:47:35] [Server thread/INFO]: TaiwanDebuger left the game
+[23:47:39] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[23:47:39] [Server thread/INFO]: Eirvaaaaa left the game
+[23:48:00] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[23:48:00] [Server thread/INFO]: BigEgg40287 left the game
+[23:48:18] [Server thread/INFO]: Stopping the server
+[23:48:18] [Server thread/INFO]: Stopping server
+[23:48:18] [Server thread/INFO]: Saving players
+[23:48:18] [Server thread/INFO]: Saving worlds
+[23:48:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:48:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:48:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:48:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:48:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:48:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:48:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:48:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
