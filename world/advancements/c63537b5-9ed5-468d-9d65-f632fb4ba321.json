@@ -567,11 +567,13 @@
     "criteria": {
       "minecraft:pillager": "2021-05-25 06:27:46 +0800",
       "minecraft:skeleton": "2021-05-25 00:54:29 +0800",
+      "minecraft:ravager": "2021-05-29 21:42:54 +0800",
       "minecraft:vindicator": "2021-05-26 23:29:37 +0800",
       "minecraft:magma_cube": "2021-05-28 20:03:19 +0800",
       "minecraft:spider": "2021-05-25 05:44:33 +0800",
       "minecraft:creeper": "2021-05-25 00:47:56 +0800",
       "minecraft:slime": "2021-05-27 22:29:40 +0800",
+      "minecraft:evoker": "2021-05-29 21:16:42 +0800",
       "minecraft:phantom": "2021-05-26 00:44:55 +0800",
       "minecraft:witch": "2021-05-28 14:19:21 +0800",
       "minecraft:ender_dragon": "2021-05-28 19:57:19 +0800",
@@ -579,6 +581,7 @@
       "minecraft:piglin": "2021-05-29 07:48:12 +0800",
       "minecraft:enderman": "2021-05-27 15:02:32 +0800",
       "minecraft:silverfish": "2021-05-28 19:16:01 +0800",
+      "minecraft:vex": "2021-05-29 21:17:11 +0800",
       "minecraft:zombie": "2021-05-25 00:41:38 +0800",
       "minecraft:drowned": "2021-05-26 23:37:01 +0800",
       "minecraft:zombie_villager": "2021-05-27 16:23:01 +0800"
@@ -1026,6 +1029,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-05-25 01:00:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-05-29 21:43:02 +0800"
     },
     "done": true
   },
@@ -1678,6 +1687,7 @@
       "cooked_cod": "2021-05-25 19:31:26 +0800",
       "pufferfish": "2021-05-29 02:20:53 +0800",
       "bread": "2021-05-26 23:36:07 +0800",
+      "golden_apple": "2021-05-29 21:17:26 +0800",
       "rotten_flesh": "2021-05-25 00:42:13 +0800",
       "dried_kelp": "2021-05-25 05:40:29 +0800",
       "salmon": "2021-05-29 02:08:33 +0800",

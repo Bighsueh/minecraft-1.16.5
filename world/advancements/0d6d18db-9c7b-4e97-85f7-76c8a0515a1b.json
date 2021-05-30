@@ -543,6 +543,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-05-25 16:20:13 +0800",
       "minecraft:vindicator": "2021-05-25 17:36:51 +0800",
+      "minecraft:magma_cube": "2021-05-30 01:36:59 +0800",
       "minecraft:spider": "2021-05-25 17:05:02 +0800",
       "minecraft:creeper": "2021-05-25 17:00:40 +0800",
       "minecraft:enderman": "2021-05-25 01:52:23 +0800",
@@ -1096,6 +1097,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2021-05-26 01:00:52 +0800",
       "minecraft:forest": "2021-05-28 20:42:26 +0800",
+      "minecraft:mountains": "2021-05-30 02:02:53 +0800",
       "minecraft:desert_hills": "2021-05-27 01:37:43 +0800",
       "minecraft:desert": "2021-05-27 01:37:01 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-05-25 23:41:07 +0800",
