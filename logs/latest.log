@@ -1,84 +1,671 @@
-[00:01:14] [User Authenticator #127/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[00:01:14] [Server thread/INFO]: BigEgg40287[/36.233.76.21:54256] logged in with entity id 429136 at (-97.69999998807907, 84.5, -104.69999998807907)
-[00:01:14] [Server thread/INFO]: BigEgg40287 joined the game
-[00:01:21] [Server thread/INFO]: <TaiwanDebuger> hi
-[00:01:43] [Server thread/INFO]: <TaiwanDebuger> 剛剛要睡覺不小心踢掉的
-[00:02:25] [Server thread/INFO]: <TaiwanDebuger> 好ㄟ村民不用錢
-[00:04:01] [Server thread/INFO]: <TaiwanDebuger> 笑死
-[00:04:32] [Server thread/INFO]: <DuHpA> 雞巴村民
-[00:06:30] [Server thread/INFO]: Villager bfj['Villager'/308, l='ServerLevel[world]', x=-26.30, y=67.00, z=-126.70] died, message: 'Villager was slain by DuHpA'
-[00:07:26] [Server thread/INFO]: <BigEgg40287> 稅ㄅ
-[00:07:32] [Server thread/INFO]: Mithrill lost connection: Disconnected
-[00:07:32] [Server thread/INFO]: Mithrill left the game
-[00:07:33] [Server thread/INFO]: DuHpA lost connection: Disconnected
-[00:07:33] [Server thread/INFO]: DuHpA left the game
-[00:08:07] [User Authenticator #128/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
-[00:08:07] [Server thread/INFO]: DuHpA[/39.13.36.102:37434] logged in with entity id 430451 at (-28.266240033255677, 67.0, -128.03151161256477)
-[00:08:07] [Server thread/INFO]: DuHpA joined the game
-[00:08:24] [User Authenticator #129/INFO]: UUID of player Mithrill is 371133fa-be98-4bb7-ae59-61ca9511326d
-[00:08:24] [Server thread/INFO]: Mithrill[/27.247.65.203:9016] logged in with entity id 430541 at (-29.317422162736882, 67.0, -124.06654214492258)
-[00:08:24] [Server thread/INFO]: Mithrill joined the game
-[00:11:35] [Server thread/INFO]: Villager bfj['Villager'/365540, l='ServerLevel[world]', x=-33.54, y=66.53, z=-119.59] died, message: 'Villager was slain by DuHpA'
-[00:11:56] [Server thread/INFO]: <DuHpA> 沒用
-[00:12:05] [Server thread/INFO]: <DuHpA> 要用推的 不能在礦車上
-[00:12:45] [Server thread/INFO]: <DuHpA> = =
-[00:13:05] [Server thread/INFO]: <BigEgg40287> ==
-[00:14:47] [Server thread/INFO]: <DuHpA> 誤會ㄌ 原來是我殺了村民˙ 所以價錢都變貴
-[00:14:49] [Server thread/INFO]: <DuHpA> =.=
-[00:14:56] [Server thread/INFO]: <DuHpA> 但應該是有打到第一支
-[00:15:05] [Server thread/INFO]: <TaiwanDebuger> 抓到
-[00:15:10] [Server thread/INFO]: <BigEgg40287> 薛在幹嘛?
-[00:15:32] [Server thread/INFO]: Villager bfj['Villager'/426201, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
-[00:23:18] [Server thread/INFO]: Mithrill fell from a high place
-[00:25:07] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
-[00:25:07] [Server thread/INFO]: Eirvaaaaa left the game
-[00:25:17] [Server thread/INFO]: <DuHpA> ZZZ
-[00:25:19] [Server thread/INFO]: Mithrill lost connection: Disconnected
-[00:25:19] [Server thread/INFO]: Mithrill left the game
-[00:25:19] [Server thread/INFO]: DuHpA lost connection: Disconnected
-[00:25:19] [Server thread/INFO]: DuHpA left the game
-[00:27:24] [User Authenticator #130/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
-[00:27:24] [Server thread/INFO]: DuHpA[/39.13.36.102:37602] logged in with entity id 434589 at (-32.51444684976624, 70.0, -83.30000001192093)
-[00:27:24] [Server thread/INFO]: DuHpA joined the game
-[00:27:30] [User Authenticator #131/INFO]: UUID of player Mithrill is 371133fa-be98-4bb7-ae59-61ca9511326d
-[00:27:30] [Server thread/INFO]: Mithrill[/27.247.65.203:5075] logged in with entity id 434623 at (-128.5819338396, 87.0, -97.85197880959592)
-[00:27:30] [Server thread/INFO]: Mithrill joined the game
-[00:29:38] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
-[00:29:38] [Server thread/INFO]: BigEgg40287 left the game
-[00:33:33] [Server thread/INFO]: Villager bfj['Villager'/431483, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
-[00:35:02] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
-[00:35:02] [Server thread/INFO]: TaiwanDebuger left the game
-[00:44:25] [User Authenticator #132/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
-[00:44:26] [Server thread/INFO]: extrabass750[/223.141.148.106:39937] logged in with entity id 439129 at (-55.60540803195549, 63.24918707874468, -129.69999998807907)
-[00:44:26] [Server thread/INFO]: extrabass750 joined the game
-[00:44:42] [Server thread/INFO]: extrabass750 lost connection: Disconnected
-[00:44:42] [Server thread/INFO]: extrabass750 left the game
-[00:44:51] [User Authenticator #133/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
-[00:44:51] [Server thread/INFO]: extrabass750[/223.141.148.106:41811] logged in with entity id 439276 at (-55.779265892790995, 64.20000004768372, -126.3225642953264)
-[00:44:51] [Server thread/INFO]: extrabass750 joined the game
-[00:44:58] [Server thread/INFO]: extrabass750 lost connection: Disconnected
-[00:44:58] [Server thread/INFO]: extrabass750 left the game
-[00:45:21] [User Authenticator #134/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[00:45:21] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:59935] logged in with entity id 439401 at (-125.33668470804938, 60.0, -97.69999998807907)
-[00:45:21] [Server thread/INFO]: TaiwanDebuger joined the game
-[00:45:47] [Server thread/INFO]: <DuHpA> 你們有找到過 掠奪者的塔ㄇ
-[00:45:55] [Server thread/INFO]: <TaiwanDebuger> 還沒有
-[00:46:03] [Server thread/INFO]: <DuHpA> 那gg 感覺就沒
-[00:46:12] [Server thread/INFO]: <TaiwanDebuger> 我想重開一下server
-[00:46:14] [Server thread/INFO]: <TaiwanDebuger> 順便輩分
-[00:46:15] [Server thread/INFO]: <DuHpA> OK
-[00:46:30] [Server thread/INFO]: [TaiwanDebuger: Stopping the server]
-[00:46:30] [Server thread/INFO]: Stopping server
-[00:46:30] [Server thread/INFO]: Saving players
-[00:46:30] [Server thread/INFO]: DuHpA lost connection: Internal Exception: java.lang.StackOverflowError
-[00:46:30] [Server thread/INFO]: DuHpA left the game
-[00:46:30] [Server thread/INFO]: Saving worlds
-[00:46:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:46:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:46:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:49:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:49:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:49:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:49:11] [main/INFO]: Reloading ResourceManager: Default
+[00:49:12] [Worker-Main-11/INFO]: Loaded 7 recipes
+[00:49:12] [Worker-Main-11/INFO]: Loaded 927 advancements
+[00:49:13] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[00:49:13] [Server thread/INFO]: Loading properties
+[00:49:13] [Server thread/INFO]: Default game type: SURVIVAL
+[00:49:13] [Server thread/INFO]: Generating keypair
+[00:49:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:49:13] [Server thread/INFO]: Using default channel type
+[00:49:14] [Server thread/INFO]: Preparing level "world"
+[00:49:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:49:15] [Server thread/INFO]: Preparing spawn area: 0%
+[00:49:15] [Server thread/INFO]: Preparing spawn area: 0%
+[00:49:15] [Server thread/INFO]: Preparing spawn area: 27%
+[00:49:15] [Server thread/INFO]: Time elapsed: 1157 ms
+[00:49:15] [Server thread/INFO]: Done (1.262s)! For help, type "help"
+[00:49:30] [User Authenticator #1/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[00:49:30] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:49681] logged in with entity id 122 at (-124.52775330834949, 81.0, -92.73077433770617)
+[00:49:30] [Server thread/INFO]: TaiwanDebuger joined the game
+[00:54:55] [User Authenticator #2/INFO]: UUID of player Mithrill is 371133fa-be98-4bb7-ae59-61ca9511326d
+[00:54:55] [Server thread/INFO]: Mithrill[/27.247.65.203:5223] logged in with entity id 1290 at (-128.384517446879, 87.0, -98.50698962469909)
+[00:54:55] [Server thread/INFO]: Mithrill joined the game
+[00:57:01] [User Authenticator #3/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[00:57:01] [Server thread/INFO]: extrabass750[/223.141.148.106:41209] logged in with entity id 1590 at (-56.80512265089958, 63.875, -124.89933280018397)
+[00:57:01] [Server thread/INFO]: extrabass750 joined the game
+[00:58:10] [Server thread/INFO]: extrabass750 was slain by Zombie
+[00:58:40] [Server thread/INFO]: <extrabass750> 求救
+[00:58:54] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[00:58:54] [Server thread/INFO]: extrabass750 left the game
+[00:58:59] [Server thread/INFO]: <Mithrill> SLEEP?
+[00:59:06] [User Authenticator #4/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[00:59:06] [Server thread/INFO]: extrabass750[/223.141.148.106:38784] logged in with entity id 2080 at (-63.148582837675335, 62.5, -120.98826121532488)
+[00:59:06] [Server thread/INFO]: extrabass750 joined the game
+[00:59:19] [Server thread/INFO]: <extrabass750> 我人在家
+[00:59:34] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[00:59:34] [Server thread/INFO]: extrabass750 left the game
+[01:01:08] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[01:01:08] [Server thread/INFO]: TaiwanDebuger left the game
+[01:01:27] [User Authenticator #5/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:01:27] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:53656] logged in with entity id 2458 at (-52.522739284430486, 66.0, -129.69237283044586)
+[01:01:27] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:01:34] [User Authenticator #6/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:01:34] [Server thread/INFO]: extrabass750[/223.141.148.106:40382] logged in with entity id 2510 at (-54.30000001192093, 61.0, -127.21988471068408)
+[01:01:34] [Server thread/INFO]: extrabass750 joined the game
+[01:01:44] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:01:44] [Server thread/INFO]: extrabass750 left the game
+[01:04:04] [Server thread/INFO]: Villager bfj['Villager'/240, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[01:04:07] [User Authenticator #7/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[01:04:07] [Server thread/INFO]: DuHpA[/39.13.36.102:38155] logged in with entity id 2942 at (-104.45152581869112, 80.53584062504456, 629.0741206155448)
+[01:04:07] [Server thread/INFO]: DuHpA joined the game
+[01:04:16] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[01:04:16] [Server thread/INFO]: TaiwanDebuger left the game
+[01:05:07] [User Authenticator #8/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:05:07] [Server thread/INFO]: TaiwanDebuger[/10.147.20.206:54506] logged in with entity id 3777 at (-75.117398929775, 63.0, -19.63423057788629)
+[01:05:07] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:05:40] [Server thread/INFO]: <TaiwanDebuger> 喔乾我訊號好差
+[01:10:19] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[01:10:19] [Server thread/INFO]: TaiwanDebuger left the game
+[01:13:38] [Server thread/INFO]: <DuHpA> -200 -467
+[01:21:25] [User Authenticator #9/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:21:25] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:53260] logged in with entity id 8164 at (-41.13003581087767, 72.0, -37.4478036825781)
+[01:21:25] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:21:37] [Server thread/INFO]: <DuHpA> 有種子碼嗎
+[01:21:40] [Server thread/INFO]: <TaiwanDebuger> 6200893858411928858
+[01:21:44] [Server thread/INFO]: <TaiwanDebuger> 我丟DC
+[01:21:49] [Server thread/INFO]: <DuHpA> ok
+[01:21:51] [Server thread/INFO]: <DuHpA> 3Q
+[01:22:55] [Server thread/INFO]: DuHpA has reached the goal [Sky's the Limit]
+[01:25:03] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[01:25:03] [Server thread/INFO]: TaiwanDebuger left the game
+[01:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01:31:20] [Server thread/INFO]: Mithrill has made the advancement [Those Were the Days]
+[01:37:15] [Server thread/INFO]: DuHpA has made the advancement [War Pigs]
+[01:37:44] [Server thread/INFO]: DuHpA has made the advancement [Hot Stuff]
+[01:41:24] [Server thread/INFO]: Mithrill has made the advancement [War Pigs]
+[01:41:40] [Server thread/INFO]: DuHpA has made the advancement [Who is Cutting Onions?]
+[01:42:08] [Server thread/INFO]: Mithrill has made the advancement [Who is Cutting Onions?]
+[01:42:43] [User Authenticator #10/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:42:43] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:58851] logged in with entity id 13237 at (-52.78516243973119, 78.0, -36.10550470064793)
+[01:42:43] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:42:56] [User Authenticator #11/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:42:56] [Server thread/INFO]: extrabass750[/223.141.148.106:38991] logged in with entity id 13420 at (-55.76249998807907, 63.024424088213685, -126.30000001192093)
+[01:42:56] [Server thread/INFO]: extrabass750 joined the game
+[01:43:02] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:43:02] [Server thread/INFO]: extrabass750 left the game
+[01:43:10] [Server thread/INFO]: <TaiwanDebuger> 剩下的明天用，打minecraft 喇
+[01:43:27] [Server thread/INFO]: <DuHpA> 來陪我探險 我在你做ˇ的地獄門這
+[01:43:42] [User Authenticator #12/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:43:42] [Server thread/INFO]: extrabass750[/10.147.20.218:49562] logged in with entity id 13641 at (-55.76249998807907, 63.0, -126.30000001192093)
+[01:43:42] [Server thread/INFO]: extrabass750 joined the game
+[01:44:05] [Server thread/INFO]: <extrabass750> ok
+[01:44:08] [Server thread/INFO]: <TaiwanDebuger> 等一下喔
+[01:44:11] [Server thread/INFO]: <TaiwanDebuger> 笑死
+[01:44:11] [Server thread/INFO]: Mithrill has made the advancement [Ol' Betsy]
+[01:44:43] [Server thread/INFO]: <TaiwanDebuger> 我要放個東西
+[01:44:49] [Server thread/INFO]: <extrabass750> ok
+[01:44:50] [User Authenticator #13/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[01:44:50] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:52886] logged in with entity id 14003 at (-76.07819076144915, 80.5, -45.99897194826065)
+[01:44:50] [Server thread/INFO]: Eirvaaaaa joined the game
+[01:44:52] [Server thread/INFO]: <TaiwanDebuger> dc
+[01:47:47] [Server thread/INFO]: <TaiwanDebuger> 我好了
+[01:47:56] [Server thread/INFO]: <Eirvaaaaa> wait for me
+[01:48:03] [Server thread/INFO]: <DuHpA> 我跟我朋友 在地獄裡面 鐵軌到底的地輿堡壘這
+[01:48:13] [Server thread/INFO]: <Eirvaaaaa> OK
+[01:49:02] [Server thread/INFO]: <DuHpA> 幫我帶火把
+[01:49:08] [Server thread/INFO]: <Eirvaaaaa> OK
+[01:50:31] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:50:31] [Server thread/INFO]: extrabass750 left the game
+[01:51:01] [User Authenticator #14/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:51:01] [Server thread/INFO]: extrabass750[/10.147.20.218:64773] logged in with entity id 16034 at (-59.75669440410987, 63.0, -116.21120830361271)
+[01:51:01] [Server thread/INFO]: extrabass750 joined the game
+[01:51:36] [Server thread/INFO]: <extrabass750> 怪怪的
+[01:51:50] [Server thread/INFO]: <TaiwanDebuger> 訊號看起來還是很紮
+[01:51:52] [Server thread/INFO]: <TaiwanDebuger> 很差
+[01:52:08] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:52:08] [Server thread/INFO]: extrabass750 left the game
+[01:55:32] [Server thread/INFO]: <Eirvaaaaa> 到ㄈ
+[01:55:38] [Server thread/INFO]: <Eirvaaaaa> ㄌ
+[01:55:43] [Server thread/INFO]: <DuHpA> 我們在堡壘內
+[01:55:59] [Server thread/INFO]: <DuHpA> 這有熔岩史萊姆笙怪塔= =
+[01:56:02] [Server thread/INFO]: <DuHpA> 鑽
+[01:56:05] [Server thread/INFO]: <DuHpA> 專
+[01:56:06] [Server thread/INFO]: <Eirvaaaaa> 讚
+[01:57:05] [Server thread/INFO]: TaiwanDebuger was shot by Eirvaaaaa using [薛孟君]
+[01:57:10] [Server thread/INFO]: <TaiwanDebuger> ...
+[01:57:10] [Server thread/INFO]: Eirvaaaaa was slain by Piglin Brute
+[01:57:13] [Server thread/INFO]: <Eirvaaaaa> ...
+[01:57:14] [Server thread/INFO]: <DuHpA> ???
+[01:57:18] [Server thread/INFO]: Villager bfj['Villager'/6122, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[01:57:29] [Server thread/INFO]: <DuHpA> 冤冤相報何時了
+[01:57:48] [Server thread/INFO]: <TaiwanDebuger> 有內鬼
+[01:58:08] [Server thread/INFO]: <DuHpA> 打是情 罵是愛
+[01:58:11] [Server thread/INFO]: <DuHpA> 殺了是真愛
+[02:01:55] [Server thread/INFO]: TaiwanDebuger was slain by Piglin Brute
+[02:03:45] [Server thread/INFO]: <DuHpA> ..
+[02:03:47] [Server thread/INFO]: <Eirvaaaaa> ...
+[02:03:48] [Server thread/INFO]: <DuHpA> 掉我
+[02:03:51] [Server thread/INFO]: <DuHpA> 嚇到我
+[02:03:56] [Server thread/INFO]: <Eirvaaaaa> 嚇死
+[02:04:07] [Server thread/INFO]: <Eirvaaaaa> 謝謝
+[02:04:43] [Server thread/INFO]: <DuHpA> 還少啥
+[02:06:57] [Server thread/INFO]: <TaiwanDebuger> 你有撿到稿子嗎
+[02:07:34] [Server thread/INFO]: Mithrill has made the advancement [Isn't It Iron Pick]
+[02:13:23] [Server thread/INFO]: <TaiwanDebuger> -624 -98
+[02:13:36] [Server thread/INFO]: <TaiwanDebuger> y70
+[02:14:56] [Server thread/INFO]: Mithrill has made the advancement [Not Today, Thank You]
+[02:15:23] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[02:15:23] [Server thread/INFO]: DuHpA left the game
+[02:15:52] [User Authenticator #15/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[02:15:52] [Server thread/INFO]: DuHpA[/39.13.36.102:39889] logged in with entity id 21233 at (-619.8696668218251, 68.0, -96.30000001192093)
+[02:15:52] [Server thread/INFO]: DuHpA joined the game
+[02:16:32] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[02:16:32] [Server thread/INFO]: DuHpA left the game
+[02:16:47] [User Authenticator #16/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[02:16:47] [Server thread/INFO]: DuHpA[/39.13.36.102:39924] logged in with entity id 21309 at (-625.3762616383093, 68.0, -95.07236657000036)
+[02:16:47] [Server thread/INFO]: DuHpA joined the game
+[02:17:02] [User Authenticator #17/INFO]: UUID of player kenny901228 is f0648c85-0005-42ac-bfd9-6d35626e0d2a
+[02:17:02] [Server thread/INFO]: kenny901228[/39.13.36.102:39933] logged in with entity id 21320 at (-92.63370390064378, 64.0, 32.003991403773306)
+[02:17:02] [Server thread/INFO]: kenny901228 joined the game
+[02:20:39] [Server thread/INFO]: kenny901228 lost connection: Disconnected
+[02:20:39] [Server thread/INFO]: kenny901228 left the game
+[02:20:39] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[02:20:39] [Server thread/INFO]: DuHpA left the game
+[02:20:48] [Server thread/INFO]: <TaiwanDebuger> 靠杯
+[02:21:09] [User Authenticator #18/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[02:21:09] [Server thread/INFO]: DuHpA[/39.13.36.102:40001] logged in with entity id 22733 at (-625.5986328414003, 68.0, -95.28094087914702)
+[02:21:09] [Server thread/INFO]: DuHpA joined the game
+[02:21:37] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[02:21:37] [Server thread/INFO]: DuHpA left the game
+[02:22:26] [User Authenticator #19/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[02:22:26] [Server thread/INFO]: DuHpA[/39.13.36.102:40047] logged in with entity id 22851 at (-625.9011879013852, 68.0, -95.30290505552901)
+[02:22:26] [Server thread/INFO]: DuHpA joined the game
+[02:22:59] [User Authenticator #20/INFO]: UUID of player kenny901228 is f0648c85-0005-42ac-bfd9-6d35626e0d2a
+[02:22:59] [Server thread/INFO]: kenny901228[/39.13.36.102:40067] logged in with entity id 22885 at (-74.30000001192093, 4.0, -37.29260266657822)
+[02:22:59] [Server thread/INFO]: kenny901228 joined the game
+[02:24:09] [Server thread/INFO]: kenny901228 lost connection: Disconnected
+[02:24:09] [Server thread/INFO]: kenny901228 left the game
+[02:24:10] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[02:24:10] [Server thread/INFO]: DuHpA left the game
+[02:26:13] [User Authenticator #21/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[02:26:13] [Server thread/INFO]: DuHpA[/39.13.36.102:40145] logged in with entity id 23665 at (-625.87294193528, 68.0, -95.08733985811487)
+[02:26:13] [Server thread/INFO]: DuHpA joined the game
+[02:31:20] [Server thread/INFO]: Mithrill lost connection: Disconnected
+[02:31:20] [Server thread/INFO]: Mithrill left the game
+[02:35:25] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[02:35:25] [Server thread/INFO]: Eirvaaaaa left the game
+[02:43:40] [Server thread/INFO]: Villager bfj['Villager'/22031, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[02:46:08] [User Authenticator #22/INFO]: UUID of player kenny901228 is f0648c85-0005-42ac-bfd9-6d35626e0d2a
+[02:46:08] [Server thread/INFO]: kenny901228[/39.13.36.102:40469] logged in with entity id 29997 at (-70.94891347537359, 5.5, -43.17272063673743)
+[02:46:08] [Server thread/INFO]: kenny901228 joined the game
+[02:49:48] [Server thread/INFO]: kenny901228 has made the advancement [Not Today, Thank You]
+[02:54:45] [Server thread/INFO]: Villager bfj['Villager'/27337, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[02:56:52] [Server thread/INFO]: kenny901228 has reached the goal [Sky's the Limit]
+[03:05:18] [Server thread/INFO]: kenny901228 was slain by Phantom
+[03:09:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-34, y=65, z=-164} fx{x=-33, y=64, z=-164}
+[03:09:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-34, y=65, z=-166} fx{x=-32, y=64, z=-167}
+[03:09:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-32, y=66, z=-167} fx{x=-31, y=65, z=-166}
+[03:10:06] [Server thread/INFO]: TaiwanDebuger was shot by Skeleton
+[03:10:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-17, y=66, z=-154} fx{x=-16, y=65, z=-152}
+[03:12:51] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[03:14:48] [Server thread/INFO]: Villager bfj['Villager'/33526, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[03:20:03] [Server thread/INFO]: Villager bfj['Villager'/34559, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[03:34:49] [Server thread/INFO]: Villager bfj['Villager'/40998, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[03:35:02] [Server thread/INFO]: kenny901228 lost connection: Disconnected
+[03:35:02] [Server thread/INFO]: kenny901228 left the game
+[03:38:45] [Server thread/INFO]: DuHpA burned to death
+[03:38:48] [Server thread/INFO]: <TaiwanDebuger> ??
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=73, z=-50}
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=75, z=-50}
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=75, z=-50}
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=75, z=-50}
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=75, z=-50}
+[03:38:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-43, y=74, z=-50} fx{x=-43, y=75, z=-50}
+[03:42:13] [Server thread/INFO]: Villager bfj['Villager'/43077, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[03:52:01] [User Authenticator #23/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[03:52:01] [Server thread/INFO]: BigEgg40287[/36.233.76.21:58454] logged in with entity id 52401 at (-52.45769464737362, 64.0, 35.77289932008193)
+[03:52:01] [Server thread/INFO]: BigEgg40287 joined the game
+[03:52:59] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[03:52:59] [Server thread/INFO]: BigEgg40287 left the game
+[03:57:30] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[03:57:30] [Server thread/INFO]: DuHpA left the game
+[03:57:44] [User Authenticator #24/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[03:57:44] [Server thread/INFO]: DuHpA[/39.13.36.102:41259] logged in with entity id 53964 at (-189.60752222697707, 63.0, 90.94497855646735)
+[03:57:44] [Server thread/INFO]: DuHpA joined the game
+[03:58:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-186, y=64, z=97} fx{x=-186, y=64, z=98}
+[04:08:28] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[04:08:28] [Server thread/INFO]: DuHpA left the game
+[04:09:06] [User Authenticator #25/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[04:09:06] [Server thread/INFO]: DuHpA[/39.13.36.102:41341] logged in with entity id 57947 at (-173.55184542710396, 63.0, 70.44647402273293)
+[04:09:06] [Server thread/INFO]: DuHpA joined the game
+[04:14:15] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[04:14:15] [Server thread/INFO]: TaiwanDebuger left the game
+[04:16:49] [User Authenticator #26/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[04:16:49] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:58061] logged in with entity id 59817 at (-53.01389363368004, 71.0, -22.69999998807907)
+[04:16:49] [Server thread/INFO]: TaiwanDebuger joined the game
+[04:19:57] [Server thread/INFO]: <TaiwanDebuger> zz
+[04:20:12] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[04:20:12] [Server thread/INFO]: DuHpA left the game
+[04:20:23] [User Authenticator #27/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[04:20:23] [Server thread/INFO]: DuHpA[/39.13.36.102:37500] logged in with entity id 60608 at (-168.9284355737897, 58.0, 86.32767284805225)
+[04:20:23] [Server thread/INFO]: DuHpA joined the game
+[04:22:36] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[04:22:36] [Server thread/INFO]: TaiwanDebuger left the game
+[04:23:30] [User Authenticator #28/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[04:23:30] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:59498] logged in with entity id 61250 at (-48.351226024364415, 72.0, -21.854936437674073)
+[04:23:30] [Server thread/INFO]: TaiwanDebuger joined the game
+[04:28:32] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[04:28:32] [Server thread/INFO]: TaiwanDebuger left the game
+[04:32:07] [Server thread/INFO]: <DuHpA> zzz
+[04:32:52] [User Authenticator #29/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[04:32:52] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:62167] logged in with entity id 63597 at (-43.108125145157686, 70.0, -19.9961803774005)
+[04:32:52] [Server thread/INFO]: TaiwanDebuger joined the game
+[04:38:10] [User Authenticator #30/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[04:38:10] [Server thread/INFO]: BigEgg40287[/36.233.76.21:58833] logged in with entity id 64917 at (-49.433068499222266, 78.0, -46.987709156091796)
+[04:38:10] [Server thread/INFO]: BigEgg40287 joined the game
+[04:48:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Arrow'/67293, l='ServerLevel[world]', x=-188.41, y=63.00, z=72.79]
+[04:48:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Bone'/67294, l='ServerLevel[world]', x=-189.73, y=63.00, z=72.61]
+[04:52:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-142, y=64, z=43} fx{x=-143, y=62, z=43}
+[04:52:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-142, y=64, z=43} fx{x=-143, y=62, z=43}
+[04:52:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/68456, l='ServerLevel[world]', x=-142.39, y=63.00, z=43.71]
+[04:53:35] [Server thread/INFO]: Villager bfj['Villager'/63770, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[04:57:10] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[04:57:10] [Server thread/INFO]: TaiwanDebuger left the game
+[05:00:59] [User Authenticator #31/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[05:00:59] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:52997] logged in with entity id 70371 at (-68.56434318915511, 68.0, -49.2678917904937)
+[05:00:59] [Server thread/INFO]: TaiwanDebuger joined the game
+[05:01:02] [Server thread/INFO]: Villager bfj['Villager'/65510, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[05:10:04] [Server thread/INFO]: <DuHpA> 777半磚
+[05:10:12] [Server thread/INFO]: <DuHpA> 701地板門
+[05:10:22] [Server thread/INFO]: <DuHpA> 4個們
+[05:13:26] [Server thread/INFO]: Villager bfj['Villager'/68725, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[05:27:50] [Server thread/WARN]: TaiwanDebuger moved too quickly! 0.0,-10.722248667987493,-0.05962387274831826
+[05:28:00] [Server thread/WARN]: DuHpA moved too quickly! -2.6436020267700826,-1.1661092609382138,9.665521145939849
+[05:28:16] [Server thread/INFO]: BigEgg40287 lost connection: Timed out
+[05:28:16] [Server thread/INFO]: BigEgg40287 left the game
+[05:28:16] [Server thread/WARN]: handleDisconnection() called twice
+[05:28:23] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[05:28:23] [Server thread/INFO]: TaiwanDebuger left the game
+[05:28:33] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[05:28:33] [Server thread/INFO]: DuHpA left the game
+[05:28:56] [User Authenticator #32/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[05:28:56] [User Authenticator #33/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[05:28:56] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:51671] logged in with entity id 79088 at (-69.41901567362287, 51.85690934469835, -48.69999998807907)
+[05:28:56] [Server thread/INFO]: TaiwanDebuger joined the game
+[05:28:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@e3b6aad[id=ac6408a2-a9df-4331-b7ae-3fea999a1635,name=TaiwanDebuger,properties={textures=[com.mojang.authlib.properties.Property@6efacc31]},legacy=false] (/118.170.148.169:51671): Took too long to log in
+[05:28:56] [Server thread/INFO]: DuHpA[/39.13.36.102:38062] logged in with entity id 79089 at (-172.4354129832202, 72.92159964084625, 72.1271475317305)
+[05:28:56] [Server thread/INFO]: DuHpA joined the game
+[05:28:56] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[05:28:56] [Server thread/INFO]: TaiwanDebuger left the game
+[05:28:58] [User Authenticator #34/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[05:28:58] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:51837] logged in with entity id 79123 at (-69.41901567362287, 51.85690934469835, -48.69999998807907)
+[05:28:58] [Server thread/INFO]: TaiwanDebuger joined the game
+[05:29:15] [Server thread/INFO]: DuHpA lost connection: Timed out
+[05:29:15] [Server thread/INFO]: DuHpA left the game
+[05:29:24] [User Authenticator #35/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[05:29:25] [Server thread/INFO]: DuHpA[/39.13.36.102:38067] logged in with entity id 79318 at (-172.4354129832202, 72.0, 72.1271475317305)
+[05:29:25] [Server thread/INFO]: DuHpA joined the game
+[05:29:28] [User Authenticator #36/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[05:29:28] [Server thread/INFO]: BigEgg40287[/36.233.76.21:58195] logged in with entity id 79397 at (-172.00542936236775, 70.0, 84.12665056980693)
+[05:29:28] [Server thread/INFO]: BigEgg40287 joined the game
+[05:30:35] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[05:30:35] [Server thread/INFO]: DuHpA left the game
+[05:30:46] [User Authenticator #37/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[05:30:47] [Server thread/INFO]: DuHpA[/39.13.36.102:38081] logged in with entity id 79642 at (-172.62505882342933, 76.0, 77.65070651155715)
+[05:30:47] [Server thread/INFO]: DuHpA joined the game
+[05:33:39] [Server thread/INFO]: Villager bfj['Villager'/73502, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[05:42:00] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[05:42:00] [Server thread/INFO]: DuHpA left the game
+[05:42:11] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[05:42:11] [Server thread/INFO]: TaiwanDebuger left the game
+[05:42:22] [User Authenticator #38/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[05:42:22] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:54815] logged in with entity id 82642 at (-49.62529693678855, 81.0, -28.884019750107562)
+[05:42:22] [Server thread/INFO]: TaiwanDebuger joined the game
+[05:43:05] [User Authenticator #39/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[05:43:05] [Server thread/INFO]: DuHpA[/39.13.36.102:38165] logged in with entity id 82860 at (-163.01994164719068, 82.5, 81.19969251240391)
+[05:43:05] [Server thread/INFO]: DuHpA joined the game
+[05:56:50] [Server thread/INFO]: Villager bfj['Villager'/81148, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[05:57:48] [Server thread/INFO]: TaiwanDebuger hit the ground too hard
+[05:59:50] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[05:59:50] [Server thread/INFO]: TaiwanDebuger left the game
+[06:03:21] [Server thread/INFO]: Villager bfj['Villager'/82892, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[06:10:45] [Server thread/INFO]: Villager bfj['Villager'/84737, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[06:23:22] [Server thread/INFO]: Villager bfj['Villager'/87830, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[06:30:46] [Server thread/INFO]: Villager bfj['Villager'/89912, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[07:03:21] [Server thread/INFO]: Villager bfj['Villager'/96772, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[07:23:28] [Server thread/INFO]: Villager bfj['Villager'/100971, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[07:30:58] [Server thread/INFO]: Villager bfj['Villager'/102618, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[07:43:36] [Server thread/INFO]: Villager bfj['Villager'/105207, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[07:50:57] [Server thread/INFO]: Villager bfj['Villager'/106789, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08:03:17] [Server thread/INFO]: Villager bfj['Villager'/109256, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08:11:02] [Server thread/INFO]: Villager bfj['Villager'/110997, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08:23:18] [Server thread/INFO]: Villager bfj['Villager'/113574, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08:31:08] [Server thread/INFO]: Villager bfj['Villager'/115210, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08:33:46] [Server thread/INFO]: DuHpA fell from a high place
+[08:43:20] [Server thread/INFO]: Villager bfj['Villager'/117581, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[09:11:32] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[09:11:32] [Server thread/INFO]: DuHpA left the game
+[09:43:24] [Server thread/INFO]: Villager bfj['Villager'/129006, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[09:51:09] [Server thread/INFO]: Villager bfj['Villager'/129915, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[09:59:14] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[09:59:14] [Server thread/INFO]: BigEgg40287 left the game
+[14:23:33] [User Authenticator #40/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[14:23:33] [Server thread/INFO]: BigEgg40287[/36.233.76.21:59270] logged in with entity id 133191 at (-97.69999998807907, 84.5, -104.69999998807907)
+[14:23:33] [Server thread/INFO]: BigEgg40287 joined the game
+[14:27:54] [Server thread/INFO]: Villager bfj['Villager'/131299, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[14:35:19] [Server thread/INFO]: Villager bfj['Villager'/132250, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[14:45:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@52d0df43[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.148.169:50223) lost connection: Disconnected
+[14:45:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@346da0a8[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.148.169:50234) lost connection: Disconnected
+[14:45:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@704b6fbd[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:50285) lost connection: Disconnected
+[14:49:15] [Server thread/INFO]: Villager bfj['Villager'/134783, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[14:58:34] [User Authenticator #41/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[14:58:34] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:54426] logged in with entity id 138702 at (-74.1071153166285, 9.0, -59.69999998807907)
+[14:58:34] [Server thread/INFO]: TaiwanDebuger joined the game
+[14:58:47] [Server thread/INFO]: <TaiwanDebuger> hi
+[15:03:21] [Server thread/INFO]: Villager bfj['Villager'/136884, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[15:06:49] [User Authenticator #42/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[15:06:50] [Server thread/INFO]: extrabass750[/10.147.20.218:57317] logged in with entity id 139881 at (-59.5420041736386, 63.0, -115.36702355094323)
+[15:06:50] [Server thread/INFO]: extrabass750 joined the game
+[15:07:15] [Server thread/INFO]: <extrabass750> hi
+[15:08:18] [User Authenticator #43/INFO]: UUID of player aqza9959 is 40523e2f-5b6a-4934-a5cf-a7c8b200ce75
+[15:08:18] [Server thread/INFO]: aqza9959[/1.160.245.105:12598] logged in with entity id 140166 at (-137.5, 63.0, 93.5)
+[15:08:18] [Server thread/INFO]: aqza9959 joined the game
+[15:08:24] [Server thread/INFO]: <TaiwanDebuger> hi
+[15:08:27] [Server thread/INFO]: <extrabass750> 你是?
+[15:08:35] [Server thread/INFO]: <TaiwanDebuger> 我朋友
+[15:08:42] [Server thread/INFO]: <aqza9959> Your father
+[15:08:47] [Server thread/INFO]: <extrabass750> 你好
+[15:08:56] [Server thread/INFO]: <extrabass750> yes
+[15:09:23] [Server thread/INFO]: <extrabass750> 網路不穩
+[15:09:28] [Server thread/INFO]: <TaiwanDebuger> 這甚麼爛skin
+[15:09:43] [Server thread/INFO]: <aqza9959> sheep
+[15:09:55] [Server thread/INFO]: <extrabass750> haha
+[15:10:00] [Server thread/INFO]: <TaiwanDebuger> 我家還在蓋
+[15:10:19] [Server thread/INFO]: <TaiwanDebuger> 那城堡是我新家
+[15:10:40] [Server thread/INFO]: <extrabass750> 你有盔甲座嗎
+[15:10:46] [Server thread/INFO]: <TaiwanDebuger> 0
+[15:10:49] [Server thread/INFO]: aqza9959 hit the ground too hard
+[15:10:58] [Server thread/INFO]: Villager bfj['Villager'/137782, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[15:11:16] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[15:11:16] [Server thread/INFO]: extrabass750 left the game
+[15:11:28] [Server thread/INFO]: <TaiwanDebuger> extrabass是聽障小孩
+[15:11:30] [Server thread/INFO]: <aqza9959> 條個設定
+[15:11:32] [Server thread/INFO]: <TaiwanDebuger> 講話怪怪的
+[15:11:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-121, y=63, z=88}
+[15:11:47] [Server thread/INFO]: <TaiwanDebuger> 看他無聊把她邀近來玩
+[15:11:47] [Server thread/INFO]: <aqza9959> WTF
+[15:11:58] [Server thread/INFO]: <aqza9959> hmmm
+[15:12:01] [Server thread/INFO]: <TaiwanDebuger> 所以看他不爽請不要嘴他
+[15:12:03] [Server thread/INFO]: <TaiwanDebuger> 他聽不到
+[15:12:29] [Server thread/INFO]: <TaiwanDebuger> 帶你去我目前的家
+[15:12:53] [Server thread/INFO]: <aqza9959> 可是我聽不到她講話也沒辦法跟他講話
+[15:13:42] [Server thread/INFO]: <TaiwanDebuger> 變種謀辜
+[15:14:06] [Server thread/INFO]: <TaiwanDebuger> jump
+[15:14:07] [Server thread/INFO]: <aqza9959> 他們都跳出來了
+[15:14:16] [Server thread/INFO]: <TaiwanDebuger> 那不是我家
+[15:14:30] [Server thread/INFO]: <TaiwanDebuger> 我家原本一直被聽障小孩用苦力怕乍到
+[15:14:38] [Server thread/INFO]: <TaiwanDebuger> 我就直接搬道地底住
+[15:14:48] [User Authenticator #44/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[15:14:48] [Server thread/INFO]: extrabass750[/10.147.20.218:65218] logged in with entity id 141564 at (-63.035037997852, 67.0, -126.07067026461111)
+[15:14:48] [Server thread/INFO]: extrabass750 joined the game
+[15:14:57] [Server thread/INFO]: <TaiwanDebuger> 過了一陣子才知道我家上面是別人家
+[15:15:04] [Server thread/INFO]: aqza9959 has made the advancement [Cover Me With Diamonds]
+[15:15:29] [Server thread/INFO]: <aqza9959> 條個設定
+[15:15:49] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[15:15:49] [Server thread/INFO]: extrabass750 left the game
+[15:17:02] [Server thread/INFO]: <TaiwanDebuger> 給你看我家的機關
+[15:17:15] [Server thread/INFO]: <TaiwanDebuger> 因為聽障小還會一直到處幹人家東西
+[15:17:27] [Server thread/INFO]: <TaiwanDebuger> 所以我們幾乎所以所有人的家都有防盜
+[15:17:37] [Server thread/INFO]: <aqza9959> 他怎麼進進出出
+[15:17:50] [Server thread/INFO]: <TaiwanDebuger> 網路不好吧
+[15:18:05] [Server thread/INFO]: <aqza9959> 我快條玩了 再等個ˊ
+[15:18:09] [Server thread/INFO]: <TaiwanDebuger> okok
+[15:19:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@639980cc[id=<null>,name=extrabass750,properties={},legacy=false] (/10.147.20.218:58838) lost connection: Disconnected
+[15:19:27] [User Authenticator #45/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[15:19:27] [Server thread/INFO]: extrabass750[/10.147.20.218:57291] logged in with entity id 142301 at (-63.68931797997808, 67.0, -125.93494934580619)
+[15:19:27] [Server thread/INFO]: extrabass750 joined the game
+[15:19:31] [Server thread/INFO]: <TaiwanDebuger> XDDDD
+[15:19:44] [Server thread/INFO]: <TaiwanDebuger> 酷吧
+[15:20:12] [Server thread/INFO]: <TaiwanDebuger> 笑死
+[15:20:18] [Server thread/INFO]: <TaiwanDebuger> 過來
+[15:20:29] [Server thread/INFO]: <extrabass750> 誰?
+[15:20:35] [Server thread/INFO]: <TaiwanDebuger> 我朋友
+[15:20:42] [Server thread/INFO]: <aqza9959> your father
+[15:20:53] [Server thread/INFO]: <TaiwanDebuger> 你看這面旗子
+[15:21:57] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[15:21:57] [Server thread/INFO]: BigEgg40287 left the game
+[15:22:51] [Server thread/INFO]: aqza9959 has made the advancement [We Need to Go Deeper]
+[15:23:23] [Server thread/INFO]: Villager bfj['Villager'/139360, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[15:24:34] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[15:24:34] [Server thread/INFO]: extrabass750 left the game
+[15:24:59] [Server thread/INFO]: <TaiwanDebuger> 這條路是韻ˋ熊貓用的
+[15:25:03] [Server thread/INFO]: <TaiwanDebuger> 運送
+[15:25:19] [Server thread/INFO]: aqza9959 has made the advancement [Monster Hunter]
+[15:25:19] [Server thread/INFO]: aqza9959 has made the advancement [Those Were the Days]
+[15:25:42] [Server thread/INFO]: aqza9959 has made the advancement [Take Aim]
+[15:26:31] [Server thread/INFO]: <TaiwanDebuger> bamboo jungle
+[15:27:19] [Server thread/INFO]: <TaiwanDebuger> 就這樣
+[15:27:28] [Server thread/INFO]: <TaiwanDebuger> 這地圖目前沒啥東西
+[15:27:32] [Server thread/INFO]: <TaiwanDebuger> 還在慢慢蓋
+[15:27:43] [User Authenticator #46/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[15:27:43] [Server thread/INFO]: extrabass750[/10.147.20.218:58475] logged in with entity id 144582 at (-56.770677178633406, 63.0, -111.69467917585112)
+[15:27:43] [Server thread/INFO]: extrabass750 joined the game
+[15:28:36] [Server thread/INFO]: <extrabass750> 我網路不穩
+[15:28:55] [Server thread/INFO]: <TaiwanDebuger> 看得出來
+[15:29:08] [Server thread/INFO]: <extrabass750> 但檢測平均是53ms
+[15:29:26] [Server thread/INFO]: <TaiwanDebuger> 不然就是你連到我們學校品ˋ不好
+[15:29:29] [Server thread/INFO]: <TaiwanDebuger> 品質
+[15:29:30] [Server thread/INFO]: aqza9959 hit the ground too hard
+[15:29:37] [Server thread/INFO]: <TaiwanDebuger> 學校網路很常在搞
+[15:29:45] [Server thread/INFO]: <extrabass750> 恩
+[15:31:39] [Server thread/INFO]: <TaiwanDebuger> 你有裝zerotier嗎
+[15:31:49] [Server thread/INFO]: <extrabass750> 有
+[15:31:53] [Server thread/INFO]: <TaiwanDebuger> 不是你
+[15:32:02] [Server thread/INFO]: <aqza9959> no
+[15:34:03] [Server thread/INFO]: Villager bfj['Villager'/140783, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[15:34:22] [Server thread/INFO]: <TaiwanDebuger> where are you
+[15:34:25] [Server thread/INFO]: aqza9959 fell from a high place
+[15:35:30] [User Authenticator #47/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[15:35:30] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:59746] logged in with entity id 148136 at (-64.6797334035446, 64.0, 27.867028821293676)
+[15:35:30] [Server thread/INFO]: Eirvaaaaa joined the game
+[15:36:04] [Server thread/INFO]: <extrabass750> hi
+[15:36:07] [Server thread/INFO]: <Eirvaaaaa> hi
+[15:36:23] [Server thread/INFO]: extrabass750 was blown up by Creeper
+[15:36:38] [Server thread/INFO]: <extrabass750> QQ
+[15:36:45] [Server thread/INFO]: <extrabass750> 跌倒
+[15:37:41] [Server thread/INFO]: <TaiwanDebuger> 再來一點
+[15:37:45] [Server thread/INFO]: <TaiwanDebuger> 大概10個
+[15:37:48] [Server thread/INFO]: aqza9959 fell from a high place
+[15:38:33] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[15:38:38] [Server thread/INFO]: <TaiwanDebuger> fuck
+[15:38:50] [Server thread/INFO]: <extrabass750> haha
+[15:40:07] [Server thread/INFO]: aqza9959 fell off scaffolding
+[15:40:12] [Server thread/INFO]: Eirvaaaaa fell from a high place
+[15:40:14] [Server thread/INFO]: <TaiwanDebuger> 工安意外
+[15:40:21] [Server thread/INFO]: <Eirvaaaaa> fucl
+[15:40:23] [Server thread/INFO]: <Eirvaaaaa> fuck
+[15:40:36] [Server thread/INFO]: aqza9959 has made the advancement [Stone Age]
+[15:40:36] [Server thread/INFO]: aqza9959 has reached the goal [Sky's the Limit]
+[15:40:46] [Server thread/INFO]: aqza9959 fell from a high place
+[15:41:01] [Server thread/INFO]: <Eirvaaaaa> 你家危樓吧
+[15:41:12] [Server thread/INFO]: <TaiwanDebuger> 我蓋到一半吼
+[15:42:16] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[15:42:16] [Server thread/INFO]: Eirvaaaaa left the game
+[15:42:25] [Server thread/INFO]: aqza9959 was shot by Skeleton
+[15:43:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-111, y=62, z=96} fx{x=-114, y=62, z=98}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-113, y=62, z=100}
+[15:43:54] [Server thread/INFO]: <TaiwanDebuger> 這個chunk打不掉
+[15:44:04] [Server thread/INFO]: <TaiwanDebuger> 重生點保留
+[15:44:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-133, y=63, z=99}
+[15:44:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-109, y=62, z=113} fx{x=-131, y=62, z=99}
+[15:44:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-132, y=62, z=99}
+[15:44:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-132, y=63, z=100}
+[15:44:32] [Server thread/INFO]: <extrabass750> ???
+[15:51:23] [Server thread/INFO]: Villager bfj['Villager'/146815, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[15:51:26] [Server thread/INFO]: aqza9959 fell from a high place
+[15:54:01] [Server thread/INFO]: aqza9959 fell from a high place
+[15:56:41] [Server thread/INFO]: <extrabass750> seelp
+[15:56:51] [Server thread/INFO]: <TaiwanDebuger> can't
+[15:57:01] [Server thread/INFO]: <TaiwanDebuger> 有人沒有床
+[15:57:19] [Server thread/INFO]: <extrabass750> 住我那邊
+[15:57:28] [Server thread/INFO]: <TaiwanDebuger> @aqza9959
+[15:58:01] [Server thread/INFO]: <TaiwanDebuger> 笑死他跑去打ej94j4kx7
+[15:58:08] [Server thread/INFO]: <TaiwanDebuger> 他跑去打魔物獵人了
+[15:58:29] [Server thread/INFO]: <extrabass750> 太閒喔
+[15:58:42] [Server thread/INFO]: <extrabass750> 都下雨
+[15:58:51] [Server thread/INFO]: <extrabass750> 了
+[15:59:26] [User Authenticator #48/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[15:59:26] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:61708] logged in with entity id 154351 at (-107.61854147251226, 63.0, 44.25502394443193)
+[15:59:26] [Server thread/INFO]: Eirvaaaaa joined the game
+[15:59:29] [Server thread/INFO]: <extrabass750> 秒准他會死
+[15:59:47] [Server thread/INFO]: <extrabass750> 準
+[15:59:57] [Server thread/INFO]: <Eirvaaaaa> 奸商
+[16:01:03] [Server thread/INFO]: <Eirvaaaaa> e04
+[16:02:02] [Server thread/INFO]: aqza9959 was slain by Trader Llama
+[16:02:21] [Server thread/INFO]: <extrabass750> 笑死
+[16:02:30] [Server thread/INFO]: <extrabass750> 肚子痛
+[16:03:23] [Server thread/INFO]: Villager bfj['Villager'/150388, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[16:03:33] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[16:03:33] [Server thread/INFO]: extrabass750 left the game
+[16:03:47] [User Authenticator #49/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[16:03:47] [Server thread/INFO]: extrabass750[/10.147.20.218:59492] logged in with entity id 155179 at (-60.298901079182905, 67.0, -126.45933907966695)
+[16:03:47] [Server thread/INFO]: extrabass750 joined the game
+[16:05:24] [Server thread/INFO]: aqza9959 lost connection: Disconnected
+[16:05:24] [Server thread/INFO]: aqza9959 left the game
+[16:08:01] [Server thread/INFO]: <extrabass750> 人ㄟ?
+[16:08:34] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[16:08:34] [Server thread/INFO]: Eirvaaaaa left the game
+[16:10:16] [Server thread/WARN]: extrabass750 moved too quickly! -1.2864271961376517,-10.172304203141891,-1.0565362886518415
+[16:10:19] [Server thread/WARN]: extrabass750 moved too quickly! -0.863187171023867,-12.262358999312141,-0.9224625590246944
+[16:10:23] [Server thread/WARN]: extrabass750 moved too quickly! -0.9850774343609885,-11.558953062305562,-0.778250862557762
+[16:10:29] [Server thread/WARN]: extrabass750 moved too quickly! 0.0,-10.867409983895072,0.0
+[16:10:32] [Server thread/WARN]: extrabass750 moved too quickly! -0.7197231120656511,-10.59045139312812,-1.7553798791196016
+[16:11:37] [Server thread/INFO]: extrabass750 fell from a high place
+[16:12:02] [Server thread/INFO]: Villager bfj['Villager'/152948, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[16:14:15] [Server thread/WARN]: extrabass750 moved too quickly! -7.217049109052283,-1.0,7.0664031383741985
+[16:17:32] [Server thread/INFO]: <extrabass750> hi
+[16:18:00] [Server thread/INFO]: TaiwanDebuger was slain by Zombie
+[16:19:57] [User Authenticator #50/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[16:19:57] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:56499] logged in with entity id 158051 at (-48.466187700689666, 74.0, -43.23750001192093)
+[16:19:57] [Server thread/INFO]: Eirvaaaaa joined the game
+[16:19:59] [Server thread/INFO]: <TaiwanDebuger> 你有看到一個灰色界符合嗎
+[16:20:11] [Server thread/INFO]: <extrabass750> 沒有
+[16:20:18] [Server thread/INFO]: <TaiwanDebuger> 好
+[16:20:20] [Server thread/INFO]: <TaiwanDebuger> 謝謝你
+[16:20:24] [Server thread/INFO]: <extrabass750> 找過了
+[16:21:11] [Server thread/INFO]: <TaiwanDebuger> 送你這個
+[16:21:20] [Server thread/INFO]: <extrabass750> 幹
+[16:21:33] [Server thread/INFO]: <extrabass750> sorry
+[16:21:42] [Server thread/INFO]: <TaiwanDebuger> 沒事沒事
+[16:22:00] [Server thread/INFO]: <extrabass750> 不知道在我那
+[16:23:30] [Server thread/INFO]: Villager bfj['Villager'/155073, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[16:23:39] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[16:29:10] [Server thread/INFO]: Villager bfj['Villager'/156206, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[16:33:23] [Server thread/WARN]: TaiwanDebuger moved wrongly!
+[16:33:35] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[16:33:35] [Server thread/INFO]: extrabass750 left the game
+[16:43:26] [Server thread/INFO]: Villager bfj['Villager'/158521, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[16:49:11] [Server thread/INFO]: Villager bfj['Villager'/159778, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[17:07:46] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[17:10:43] [Server thread/INFO]: Villager bfj['Villager'/163598, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[17:14:18] [Server thread/WARN]: TaiwanDebuger moved too quickly! 10.552215778933032,3.087394142453732,-14.364429394784509
+[17:14:18] [Server thread/WARN]: Fetching packet for removed entity bcv['White Banner'/168373, l='ServerLevel[world]', x=-68.88, y=77.00, z=-45.87]
+[17:22:25] [Server thread/WARN]: TaiwanDebuger moved wrongly!
+[17:23:31] [Server thread/INFO]: Villager bfj['Villager'/165844, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[17:37:06] [User Authenticator #51/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[17:37:06] [Server thread/INFO]: BigEgg40287[/36.233.76.21:61340] logged in with entity id 172495 at (-97.30000001192093, 84.5, -104.6273146385768)
+[17:37:06] [Server thread/INFO]: BigEgg40287 joined the game
+[17:37:19] [Server thread/INFO]: <BigEgg40287> 安
+[17:37:22] [Server thread/INFO]: <TaiwanDebuger> 早安
+[17:43:00] [Server thread/INFO]: <BigEgg40287> dc?
+[17:46:22] [Server thread/INFO]: <Eirvaaaaa> 曬衣服
+[17:53:56] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[17:53:56] [Server thread/INFO]: Eirvaaaaa left the game
+[17:54:26] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[17:54:26] [Server thread/INFO]: BigEgg40287 left the game
+[18:30:33] [Server thread/INFO]: Villager bfj['Villager'/162358, l='ServerLevel[world]', x=-21.20, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:30:52] [Server thread/INFO]: Villager bfj['Villager'/127491, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:30:56] [Server thread/INFO]: Villager bfj['Villager'/210, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:31:41] [Server thread/INFO]: Villager bfj['Villager'/224, l='ServerLevel[world]', x=-21.16, y=71.03, z=-102.70] died, message: 'Villager was squished too much'
+[18:32:04] [Server thread/INFO]: Villager bfj['Villager'/218, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:32:11] [Server thread/INFO]: Villager bfj['Villager'/219, l='ServerLevel[world]', x=-21.40, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:32:24] [Server thread/INFO]: Villager bfj['Villager'/225, l='ServerLevel[world]', x=-21.11, y=71.00, z=-102.14] died, message: 'Villager was squished too much'
+[18:33:26] [Server thread/INFO]: Villager bfj['Villager'/222, l='ServerLevel[world]', x=-21.11, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:33:31] [Server thread/INFO]: Villager bfj['Villager'/232, l='ServerLevel[world]', x=-21.32, y=71.15, z=-102.70] died, message: 'Villager was squished too much'
+[18:33:45] [Server thread/INFO]: Villager bfj['Villager'/209, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:35:14] [Server thread/INFO]: Villager bfj['Villager'/227, l='ServerLevel[world]', x=-21.30, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:36:21] [Server thread/INFO]: Villager bfj['Villager'/119139, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:37:18] [Server thread/INFO]: Villager bfj['Villager'/167513, l='ServerLevel[world]', x=-21.15, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:37:21] [Server thread/INFO]: Villager bfj['Villager'/216, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:37:22] [Server thread/INFO]: Villager bfj['Villager'/234, l='ServerLevel[world]', x=-21.18, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[18:40:49] [Server thread/INFO]: Villager bfj['Villager'/235, l='ServerLevel[world]', x=-21.25, y=71.08, z=-102.70] died, message: 'Villager was squished too much'
+[18:54:49] [User Authenticator #52/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[18:54:49] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:59317] logged in with entity id 182724 at (-78.71253308849889, 76.9375, -49.8354713862102)
+[18:54:49] [Server thread/INFO]: Eirvaaaaa joined the game
+[18:56:48] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[18:56:48] [Server thread/INFO]: Eirvaaaaa left the game
+[18:57:53] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[18:57:53] [Server thread/INFO]: TaiwanDebuger left the game
+[19:01:33] [User Authenticator #53/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[19:01:33] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:52384] logged in with entity id 183103 at (-72.69999998807907, 6.0, -62.66999500296521)
+[19:01:33] [Server thread/INFO]: TaiwanDebuger joined the game
+[19:02:02] [Server thread/INFO]: TaiwanDebuger lost connection: Timed out
+[19:02:02] [Server thread/INFO]: TaiwanDebuger left the game
+[19:02:27] [User Authenticator #54/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[19:02:27] [Server thread/INFO]: TaiwanDebuger[/10.147.20.206:57835] logged in with entity id 183168 at (-72.69999998807907, 6.0, -62.66999500296521)
+[19:02:27] [Server thread/INFO]: TaiwanDebuger joined the game
+[19:02:57] [User Authenticator #55/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[19:03:01] [User Authenticator #56/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[19:03:03] [Server thread/INFO]: TaiwanDebuger lost connection: Timed out
+[19:03:03] [Server thread/INFO]: TaiwanDebuger left the game
+[19:03:03] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:57935] logged in with entity id 183257 at (-72.69999998807907, 6.0, -62.66999500296521)
+[19:03:03] [Server thread/INFO]: TaiwanDebuger joined the game
+[19:03:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3d29079a[id=ac6408a2-a9df-4331-b7ae-3fea999a1635,name=TaiwanDebuger,properties={textures=[com.mojang.authlib.properties.Property@7326c215]},legacy=false] (/10.147.20.206:57969): Took too long to log in
+[19:03:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d29079a[id=ac6408a2-a9df-4331-b7ae-3fea999a1635,name=TaiwanDebuger,properties={textures=[com.mojang.authlib.properties.Property@7326c215]},legacy=false] (/10.147.20.206:57969) lost connection: Took too long to log in
+[19:04:01] [Server thread/INFO]: Villager bfj['Villager'/231, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[19:05:06] [User Authenticator #57/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[19:05:06] [Server thread/INFO]: Eirvaaaaa[/118.170.148.169:61329] logged in with entity id 183679 at (-78.71253308849889, 76.9375, -49.8354713862102)
+[19:05:06] [Server thread/INFO]: Eirvaaaaa joined the game
+[19:05:43] [Server thread/INFO]: <TaiwanDebuger> <3
+[19:05:49] [Server thread/INFO]: <Eirvaaaaa> <3
+[19:08:55] [Server thread/INFO]: Villager bfj['Villager'/62637, l='ServerLevel[world]', x=-21.28, y=71.00, z=-102.70] died, message: 'Villager was squished too much'
+[19:12:02] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[19:12:02] [Server thread/INFO]: TaiwanDebuger left the game
+[19:12:07] [Server thread/INFO]: Eirvaaaaa lost connection: Timed out
+[19:12:07] [Server thread/INFO]: Eirvaaaaa left the game
+[19:12:21] [User Authenticator #58/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[19:12:21] [Server thread/INFO]: TaiwanDebuger[/118.170.148.169:60018] logged in with entity id 184703 at (-66.9700988046244, 6.0, -47.47174318349449)
+[19:12:21] [Server thread/INFO]: TaiwanDebuger joined the game
+[19:12:31] [Server thread/INFO]: Stopping the server
+[19:12:31] [Server thread/INFO]: Stopping server
+[19:12:31] [Server thread/INFO]: Saving players
+[19:12:31] [Server thread/INFO]: Saving worlds
+[19:12:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

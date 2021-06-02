@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-06-02 17:18:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-24 22:32:40 +0800"
@@ -941,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-06-02 16:32:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-05-25 11:39:14 +0800"
@@ -1034,6 +1046,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2021-05-29 04:08:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2021-06-02 02:01:03 +0800"
     },
     "done": true
   },
@@ -1154,6 +1172,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-05-24 22:31:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-06-02 17:18:05 +0800"
     },
     "done": true
   },
@@ -1838,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-06-02 17:18:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2021-05-28 16:30:38 +0800"
@@ -1994,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-06-02 02:06:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2021-05-24 22:38:50 +0800"
@@ -2118,6 +2154,7 @@
     "criteria": {
       "cooked_porkchop": "2021-05-24 22:47:39 +0800",
       "cooked_beef": "2021-05-27 13:04:37 +0800",
+      "porkchop": "2021-06-02 15:57:35 +0800",
       "tropical_fish": "2021-05-28 12:48:11 +0800",
       "apple": "2021-05-29 05:23:29 +0800",
       "cooked_cod": "2021-05-25 01:13:28 +0800",
@@ -2576,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-06-02 16:32:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-05-26 14:53:57 +0800"
@@ -2639,6 +2682,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-05-24 22:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-06-02 16:32:20 +0800"
     },
     "done": true
   },
