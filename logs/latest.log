@@ -1,35 +1,315 @@
-[19:26:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:26:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:26:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:26:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:34] [main/INFO]: Reloading ResourceManager: Default
-[19:26:35] [Worker-Main-13/INFO]: Loaded 7 recipes
-[19:26:35] [Worker-Main-13/INFO]: Loaded 927 advancements
-[19:26:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:26:36] [Server thread/INFO]: Loading properties
-[19:26:36] [Server thread/INFO]: Default game type: SURVIVAL
-[19:26:36] [Server thread/INFO]: Generating keypair
-[19:26:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:26:37] [Server thread/INFO]: Using default channel type
-[19:26:38] [Server thread/INFO]: Preparing level "world"
-[19:26:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:26:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:26:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:26:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:26:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:26:41] [Server thread/INFO]: Time elapsed: 3197 ms
-[19:26:41] [Server thread/INFO]: Done (3.328s)! For help, type "help"
-[19:29:31] [User Authenticator #1/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[19:31:00] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[19:30:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ce040b0[id=ac6408a2-a9df-4331-b7ae-3fea999a1635,name=TaiwanDebuger,properties={textures=[com.mojang.authlib.properties.Property@646cd419]},legacy=false] (/118.170.148.169:63710) lost connection: Disconnected
-[21:02:10] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[21:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5529478ms or 110589 ticks behind
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@25d920d5[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:62211) lost connection: Disconnected
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@b92111e[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:62499) lost connection: Disconnected
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@303f3554[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:62847) lost connection: Disconnected
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ab8a37b[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.148.169:63200) lost connection: Disconnected
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@760be771[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:62827) lost connection: Disconnected
-[21:02:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d8a024f[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.148.169:63764) lost connection: Disconnected
-[21:02:11] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\IMSA\Desktop\File\server\1.16.5\.\crash-reports\crash-2021-06-02_21.02.11-server.txt
+[00:00:06] [Server thread/INFO]: <extrabass750> 認真打
+[00:00:24] [Server thread/INFO]: <extrabass750> 又偷懶
+[00:00:28] [Server thread/INFO]: <TaiwanDebuger> 薛在洗澡
+[00:00:35] [Server thread/INFO]: <extrabass750> OK
+[00:03:41] [Server thread/INFO]: <extrabass750> 先sleep
+[00:03:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/778783, l='ServerLevel[world]', x=-75.88, y=8.03, z=-49.12]
+[00:15:42] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[00:15:42] [Server thread/INFO]: extrabass750 left the game
+[00:18:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/784169, l='ServerLevel[world]', x=-75.88, y=8.01, z=-50.39]
+[00:24:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/785938, l='ServerLevel[world]', x=-75.88, y=8.00, z=-52.09]
+[00:24:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/785983, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.94]
+[00:29:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/787730, l='ServerLevel[world]', x=-75.88, y=8.03, z=-48.99]
+[00:31:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-310, y=71, z=-812} fx{x=-311, y=71, z=-813}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-302, y=68, z=-839} fx{x=-301, y=68, z=-839}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-308, y=68, z=-832} fx{x=-307, y=68, z=-831}
+[00:32:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=69, z=-823} fx{x=-304, y=68, z=-822}
+[00:32:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=69, z=-823} fx{x=-304, y=68, z=-822}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-301, y=68, z=-813} fx{x=-302, y=68, z=-813}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=70, z=-807} fx{x=-317, y=69, z=-807}
+[00:33:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-315, y=70, z=-806} fx{x=-317, y=69, z=-807}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-317, y=69, z=-806} fx{x=-315, y=68, z=-804}
+[00:48:42] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[00:50:09] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[00:50:09] [Server thread/INFO]: BigEgg40287 left the game
+[00:50:22] [User Authenticator #124/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[00:50:23] [Server thread/INFO]: BigEgg40287[/114.26.238.77:53369] logged in with entity id 799924 at (-117.69999998807907, 62.0, 57.30000001192093)
+[00:50:23] [Server thread/INFO]: BigEgg40287 joined the game
+[00:55:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/801427, l='ServerLevel[world]', x=-75.88, y=8.01, z=-49.95]
+[00:56:49] [User Authenticator #125/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[00:56:49] [Server thread/INFO]: extrabass750[/10.147.20.218:57893] logged in with entity id 801840 at (-56.5, 67.0, -119.5)
+[00:56:49] [Server thread/INFO]: extrabass750 joined the game
+[00:56:58] [Server thread/INFO]: <TaiwanDebuger> 你不是要睡覺ㄇ
+[00:57:05] [Server thread/INFO]: <extrabass750> hello
+[00:57:10] [Server thread/INFO]: <TaiwanDebuger> hi
+[00:57:42] [Server thread/INFO]: <extrabass750> 睡覺
+[00:57:53] [Server thread/INFO]: <extrabass750> 睡覺
+[00:58:09] [Server thread/INFO]: <TaiwanDebuger> 有人在掛機
+[00:58:20] [Server thread/INFO]: <extrabass750> 好吧
+[01:04:25] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:04:25] [Server thread/INFO]: extrabass750 left the game
+[01:04:33] [User Authenticator #126/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:04:33] [Server thread/INFO]: extrabass750[/10.147.20.218:58653] logged in with entity id 804032 at (-92.7986398730727, 63.085763910508064, -75.50916897033711)
+[01:04:33] [Server thread/INFO]: extrabass750 joined the game
+[01:05:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/804439, l='ServerLevel[world]', x=-75.88, y=8.00, z=-51.27]
+[01:09:46] [Server thread/INFO]: <TaiwanDebuger> 你在幹嘛
+[01:10:00] [Server thread/INFO]: <extrabass750> 打獵
+[01:10:07] [Server thread/INFO]: <TaiwanDebuger> XD
+[01:11:00] [Server thread/INFO]: <extrabass750> 獵殺牛
+[01:12:15] [Server thread/INFO]: <extrabass750> 那你呢?
+[01:15:40] [Server thread/INFO]: <extrabass750> 怎麼聲音阿
+[01:15:44] [Server thread/INFO]: <TaiwanDebuger> ??
+[01:15:55] [Server thread/INFO]: <extrabass750> 就砰
+[01:15:56] [Server thread/INFO]: <TaiwanDebuger> 爆炸聲嗎
+[01:15:58] [Server thread/INFO]: <TaiwanDebuger> 我這邊
+[01:16:02] [Server thread/INFO]: <TaiwanDebuger> 自動砍樹基
+[01:16:04] [Server thread/INFO]: <TaiwanDebuger> 機
+[01:16:16] [Server thread/INFO]: <extrabass750> 喔
+[01:17:36] [Server thread/WARN]: extrabass750 moved too quickly! -0.6968737543681414,-10.53578553400719,2.64586821874704
+[01:22:35] [Server thread/WARN]: extrabass750 moved too quickly! -1.1385037176892183,-11.183315841704854,-1.9146336225190055
+[01:22:38] [Server thread/WARN]: extrabass750 moved too quickly! -1.0339613070332518,-14.505656546277834,-0.7725028637259612
+[01:22:40] [Server thread/WARN]: extrabass750 moved too quickly! -1.0470445936003614,-10.811596629254794,-0.661831616105772
+[01:22:59] [Server thread/INFO]: extrabass750 was impaled by Drowned
+[01:23:00] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$b.a(SourceFile:18) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.bl(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:721) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[01:23:08] [Server thread/INFO]: <TaiwanDebuger> 你死在哪
+[01:23:32] [Server thread/INFO]: <extrabass750> 在你附近
+[01:23:36] [Server thread/INFO]: <TaiwanDebuger> d042l4kx7
+[01:23:40] [Server thread/INFO]: <TaiwanDebuger> 看到了
+[01:24:01] [Server thread/INFO]: <TaiwanDebuger> 你要不要鞘翅
+[01:24:10] [Server thread/INFO]: <TaiwanDebuger> 我有找到多的可以給你一對
+[01:24:17] [Server thread/INFO]: <extrabass750> OK
+[01:24:26] [Server thread/INFO]: <TaiwanDebuger> 可適用飛的很容易死
+[01:24:29] [Server thread/INFO]: <TaiwanDebuger> 可能要練一下
+[01:24:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/811396, l='ServerLevel[world]', x=-75.88, y=8.03, z=-49.19]
+[01:24:39] [Server thread/INFO]: <extrabass750> OK
+[01:24:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/811413, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.77]
+[01:26:20] [Server thread/INFO]: <extrabass750> 人呢?
+[01:26:32] [Server thread/INFO]: <TaiwanDebuger> .4
+[01:26:35] [Server thread/INFO]: <TaiwanDebuger> 嘔
+[01:26:40] [Server thread/INFO]: <TaiwanDebuger> 我是說我等等要出去找
+[01:26:45] [Server thread/INFO]: <TaiwanDebuger> 沒講清楚拍謝
+[01:26:51] [Server thread/INFO]: <extrabass750> 好
+[01:27:01] [Server thread/INFO]: <extrabass750> 沒事
+[01:29:27] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:29:27] [Server thread/INFO]: extrabass750 left the game
+[01:29:44] [User Authenticator #127/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:29:44] [Server thread/INFO]: extrabass750[/10.147.20.218:56954] logged in with entity id 813119 at (-116.76121282516769, 62.0, 63.916974277469365)
+[01:29:44] [Server thread/INFO]: extrabass750 joined the game
+[01:32:34] [Server thread/WARN]: extrabass750 moved too quickly! 0.5533848566464599,2.249187078744683,9.877597187210469
+[01:32:45] [Server thread/INFO]: TaiwanDebuger lost connection: Disconnected
+[01:32:45] [Server thread/INFO]: TaiwanDebuger left the game
+[01:32:50] [User Authenticator #128/INFO]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[01:32:50] [Server thread/INFO]: TaiwanDebuger[/118.170.112.234:54445] logged in with entity id 814825 at (12.5, 4.7125, 129.09484334018867)
+[01:32:50] [Server thread/INFO]: TaiwanDebuger joined the game
+[01:32:52] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:32:52] [Server thread/INFO]: extrabass750 left the game
+[01:33:08] [User Authenticator #129/INFO]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[01:33:09] [Server thread/INFO]: extrabass750[/10.147.20.218:49234] logged in with entity id 815163 at (-111.333657246747, 63.0, 46.626836907904405)
+[01:33:09] [Server thread/INFO]: extrabass750 joined the game
+[01:33:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/815233, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.89]
+[01:35:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816381, l='ServerLevel[world]', x=-75.88, y=8.04, z=-48.13]
+[01:35:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816518, l='ServerLevel[world]', x=-75.88, y=8.05, z=-47.96]
+[01:35:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816531, l='ServerLevel[world]', x=-75.88, y=8.05, z=-47.76]
+[01:35:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816535, l='ServerLevel[world]', x=-75.88, y=8.05, z=-47.92]
+[01:35:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816538, l='ServerLevel[world]', x=-75.88, y=8.03, z=-48.00]
+[01:36:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816562, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.91]
+[01:36:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/816570, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.91]
+[01:39:44] [Server thread/INFO]: <extrabass750> ???
+[01:40:01] [Server thread/INFO]: <extrabass750> 你有放我那邊喔?
+[01:40:13] [Server thread/INFO]: <TaiwanDebuger> ??
+[01:40:24] [Server thread/INFO]: <extrabass750> 披風
+[01:41:00] [Server thread/INFO]: <TaiwanDebuger> 我沒碰你的箱子
+[01:41:11] [Server thread/INFO]: <TaiwanDebuger> 我還在外面探險
+[01:41:27] [Server thread/INFO]: <extrabass750> 好
+[01:41:34] [Server thread/INFO]: <extrabass750> 小心
+[01:41:40] [Server thread/INFO]: <extrabass750> 一點
+[01:43:01] [Server thread/INFO]: <extrabass750> 我要下線
+[01:43:03] [Server thread/INFO]: <extrabass750> 了
+[01:43:05] [Server thread/INFO]: <extrabass750> 88
+[01:43:07] [Server thread/INFO]: <TaiwanDebuger> 88
+[01:43:12] [Server thread/INFO]: extrabass750 lost connection: Disconnected
+[01:43:12] [Server thread/INFO]: extrabass750 left the game
+[01:58:26] [Server thread/INFO]: <BigEgg40287> @@
+[02:00:02] [User Authenticator #130/INFO]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[02:00:02] [Server thread/INFO]: Eirvaaaaa[/118.170.112.234:61476] logged in with entity id 830856 at (-77.85115527951022, 87.5, -47.69999998807907)
+[02:00:02] [Server thread/INFO]: Eirvaaaaa joined the game
+[02:00:11] [Server thread/INFO]: <TaiwanDebuger> hi
+[02:01:43] [Server thread/INFO]: <BigEgg40287> @@
+[02:01:47] [Server thread/INFO]: <Eirvaaaaa> hi
+[02:01:50] [Server thread/INFO]: <BigEgg40287> 還沒燒完
+[02:01:58] [Server thread/INFO]: <BigEgg40287> 阿你有地方放嗎
+[02:02:04] [Server thread/INFO]: <TaiwanDebuger> Y
+[02:02:04] [Server thread/INFO]: <BigEgg40287> 放你家倉庫?
+[02:02:10] [Server thread/INFO]: <TaiwanDebuger> 恩恩
+[02:03:45] [Server thread/INFO]: <BigEgg40287> 我想玩分類機
+[02:03:57] [Server thread/INFO]: <TaiwanDebuger> 東西太多酚類藥芬很久喔
+[02:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[02:12:57] [Server thread/INFO]: <TaiwanDebuger> -339.82 117.00 -2179.41
+[02:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[02:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
+[02:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
+[02:35:52] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[02:35:52] [Server thread/INFO]: BigEgg40287 left the game
+[02:36:57] [User Authenticator #131/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[02:36:57] [Server thread/INFO]: BigEgg40287[/114.26.238.77:54833] logged in with entity id 862561 at (-2520.346381131578, 106.20000004768367, -2470.300000011921)
+[02:36:57] [Server thread/INFO]: BigEgg40287 joined the game
+[02:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4237ms or 84 ticks behind
+[02:50:24] [Server thread/WARN]: TaiwanDebuger moved wrongly!
+[02:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[02:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[02:56:54] [Server thread/INFO]: Villager bfj['Villager'/885031, l='ServerLevel[world]', x=-3359.72, y=63.56, z=5989.37] died, message: 'Villager suffocated in a wall'
+[02:56:58] [Server thread/INFO]: Villager bfj['Villager'/884760, l='ServerLevel[world]', x=-3425.28, y=63.50, z=6129.63] died, message: 'Villager suffocated in a wall'
+[02:57:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[03:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[03:04:29] [Server thread/INFO]: Eirvaaaaa has made the advancement [Local Brewery]
+[03:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[03:09:06] [Server thread/INFO]: Eirvaaaaa has reached the goal [Zombie Doctor]
+[03:11:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/896229, l='ServerLevel[world]', x=-75.88, y=8.00, z=-51.11]
+[03:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7510ms or 150 ticks behind
+[03:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[03:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7051ms or 141 ticks behind
+[03:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[03:14:37] [Server thread/WARN]: BigEgg40287 moved too quickly! 0.9614652729096491,0.0,-9.99049012108015
+[03:14:37] [Server thread/WARN]: Entity aah['TaiwanDebuger'/814825, l='ServerLevel[world]', x=-1373.09, y=396.54, z=3026.09] left loaded chunk area
+[03:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[03:15:27] [Server thread/WARN]: Entity aah['TaiwanDebuger'/814825, l='ServerLevel[world]', x=-911.98, y=281.75, z=2047.27] left loaded chunk area
+[03:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:15:49] [Server thread/INFO]: Eirvaaaaa has made the advancement [Who is Cutting Onions?]
+[03:24:12] [User Authenticator #132/INFO]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[03:24:12] [Server thread/INFO]: DuHpA[/150.117.165.159:61109] logged in with entity id 914199 at (-72.49134269034884, 67.0, 75.4788166145733)
+[03:24:12] [Server thread/INFO]: DuHpA joined the game
+[03:24:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/914582, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.93]
+[03:25:30] [Server thread/INFO]: <DuHpA> 0.0
+[03:25:34] [Server thread/INFO]: <TaiwanDebuger> ???
+[03:27:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/916926, l='ServerLevel[world]', x=-75.88, y=8.03, z=-49.09]
+[03:28:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/917266, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.92]
+[03:28:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/917336, l='ServerLevel[world]', x=-75.88, y=8.03, z=-48.99]
+[03:31:30] [Server thread/INFO]: BigEgg40287 lost connection: Disconnected
+[03:31:30] [Server thread/INFO]: BigEgg40287 left the game
+[03:33:39] [Server thread/INFO]: DuHpA lost connection: Disconnected
+[03:33:39] [Server thread/INFO]: DuHpA left the game
+[03:44:29] [Server thread/INFO]: TaiwanDebuger fell from a high place
+[03:44:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/925097, l='ServerLevel[world]', x=-75.88, y=8.03, z=-48.94]
+[03:44:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/925152, l='ServerLevel[world]', x=-75.88, y=8.02, z=-49.93]
+[03:46:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/926673, l='ServerLevel[world]', x=-75.88, y=8.01, z=-49.92]
+[03:47:27] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/927075, l='ServerLevel[world]', x=-113.35, y=62.35, z=64.36]
+[03:57:23] [Server thread/INFO]: TaiwanDebuger experienced kinetic energy
+[04:01:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/932049, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.89]
+[04:02:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/932333, l='ServerLevel[world]', x=-75.88, y=8.04, z=-47.74]
+[04:02:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/932368, l='ServerLevel[world]', x=-75.88, y=8.02, z=-48.76]
+[04:02:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Red Carpet'/932380, l='ServerLevel[world]', x=-75.88, y=8.05, z=-47.81]
+[04:32:07] [Server thread/WARN]: TaiwanDebuger moved wrongly!
+[04:32:36] [User Authenticator #133/INFO]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[04:32:36] [Server thread/INFO]: BigEgg40287[/114.26.238.77:56341] logged in with entity id 945663 at (-166.4569395734782, 186.0, 75.652678349743)
+[04:32:36] [Server thread/INFO]: BigEgg40287 joined the game
+[04:32:39] [Server thread/INFO]: <TaiwanDebuger> ?????
+[04:32:46] [Server thread/INFO]: <BigEgg40287> @@
+[04:32:54] [Server thread/INFO]: <BigEgg40287> 困未去
+[04:33:04] [Server thread/INFO]: <TaiwanDebuger> @@
+[04:35:41] [Server thread/INFO]: Eirvaaaaa lost connection: Disconnected
+[04:35:41] [Server thread/INFO]: Eirvaaaaa left the game
+[04:43:04] [Server thread/INFO]: <TaiwanDebuger> 你在幹嘛
+[04:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[04:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[04:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[04:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[04:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3785ms or 75 ticks behind
+[04:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[04:54:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4326ms or 86 ticks behind
+[04:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[04:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5553ms or 111 ticks behind
+[04:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5232ms or 104 ticks behind
+[04:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[04:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5343ms or 106 ticks behind
+[04:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7805ms or 156 ticks behind
+[04:57:03] [Server thread/INFO]: <BigEgg40287> 掛刷怪
+[04:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[04:58:06] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:06] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:06] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:06] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:07] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:07] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:07] [Server thread/WARN]: BigEgg40287 moved wrongly!
+[04:58:26] [Server thread/INFO]: <BigEgg40287> 砸了
+[05:09:34] [Server thread/INFO]: <TaiwanDebuger> hi
+[05:09:41] [Server thread/INFO]: <TaiwanDebuger> 跟你說
+[05:09:46] [Server thread/INFO]: <TaiwanDebuger> 你第一次下陷
+[05:09:54] [Server thread/INFO]: <TaiwanDebuger> 我直接在中介噴調一半裝備
+[05:35:09] [Server thread/INFO]: <TaiwanDebuger> are you still online?
+[05:37:39] [Server thread/INFO]: [TaiwanDebuger: Stopping the server]
+[05:37:39] [Server thread/INFO]: Stopping server
+[05:37:39] [Server thread/INFO]: Saving players
+[05:37:39] [Server thread/INFO]: Saving worlds
+[05:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:37:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:37:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:37:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:37:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
