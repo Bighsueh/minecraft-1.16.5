@@ -1,60 +1,79 @@
-[06六月2021 05:57:18.506] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[06六月2021 05:57:18.509] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_261 by Oracle Corporation
-[06六月2021 05:57:18.888] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[06六月2021 05:57:18.921] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/IMSA/Desktop/File/server/1.16.5/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[06六月2021 05:57:19.989] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[06六月2021 05:57:26.631] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.1.0, for MC 1.16.5 with MCP 20210115.111550
-[06六月2021 05:57:26.668] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.1.0 Initialized
-[06六月2021 05:57:27.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[06六月2021 05:57:29.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.1.0 Target: null
-[06六月2021 05:57:29.312] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06六月2021 05:57:30.127] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06六月2021 05:57:30.129] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 05:57:30.150] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 05:57:30.154] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06六月2021 05:57:30.157] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 05:57:30.194] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.1.0-universal.jar, Morpheus-1.16.5-4.2.70.jar
-[06六月2021 05:57:31.250] [Worker-Main-8/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[06六月2021 05:57:31.915] [Worker-Main-8/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[06六月2021 05:57:33.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[06六月2021 05:57:33.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06六月2021 05:57:33.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06六月2021 05:57:33.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06六月2021 05:57:33.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06六月2021 05:57:33.651] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
-[06六月2021 05:57:34.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\morpheus-server.toml is not correct. Correcting
-[06六月2021 05:57:34.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
-[06六月2021 05:57:34.128] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.SleeperPerc was corrected from null to its default, 50. 
-[06六月2021 05:57:34.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.AlertEnabled was corrected from null to its default, true. 
-[06六月2021 05:57:34.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.OnSleepText was corrected from null to its default, is now sleeping.. 
-[06六月2021 05:57:34.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.OnWakeText was corrected from null to its default, has left their bed.. 
-[06六月2021 05:57:34.152] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.OnMorningText was corrected from null to its default, Wakey, wakey, rise and shine... Good Morning everyone!. 
-[06六月2021 05:57:34.153] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.IncludeMiners was corrected from null to its default, true. 
-[06六月2021 05:57:34.156] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.GroundLevel was corrected from null to its default, 64. 
-[06六月2021 05:57:34.157] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.AllowSetSpawnDaytime was corrected from null to its default, true. 
-[06六月2021 05:57:34.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06六月2021 05:57:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06六月2021 05:57:35.936] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 05:57:35.937] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 05:57:35.938] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 05:57:35.949] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 05:57:36.521] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[06六月2021 05:57:37.621] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3172 ms
-[06六月2021 05:57:37.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.566s)! For help, type "help"
-[06六月2021 05:57:48.335] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[06六月2021 05:57:49.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79ac7537
-[06六月2021 05:57:49.723] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.112.234:53496] logged in with entity id 371 at (-54.61830677680248, 59.5, -23.37744567819364)
-[06六月2021 05:57:49.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
-[06六月2021 05:58:10.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Stopping the server]
-[06六月2021 05:58:10.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06六月2021 05:58:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06六月2021 05:58:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06六月2021 05:58:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06六月2021 05:58:13.492] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06六月2021 05:58:13.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06六月2021 05:58:13.496] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06六月2021 05:58:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06六月2021 05:58:13.500] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06六月2021 05:58:13.592] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06六月2021 05:58:13.617] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06六月2021 05:58:13.618] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06六月2021 14:47:17.035] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[06六月2021 14:47:17.039] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_261 by Oracle Corporation
+[06六月2021 14:47:17.406] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[06六月2021 14:47:17.440] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/IMSA/Desktop/File/server/1.16.5/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[06六月2021 14:47:18.458] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[06六月2021 14:50:08.055] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.1.0, for MC 1.16.5 with MCP 20210115.111550
+[06六月2021 14:50:08.065] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.1.0 Initialized
+[06六月2021 14:50:08.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[06六月2021 14:50:10.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.1.0 Target: null
+[06六月2021 14:50:10.743] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06六月2021 14:50:11.550] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06六月2021 14:50:11.558] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06六月2021 14:50:11.574] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06六月2021 14:50:11.589] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06六月2021 14:50:11.621] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06六月2021 14:50:11.658] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.1.0-universal.jar, Morpheus-1.16.5-4.2.70.jar
+[06六月2021 14:50:12.544] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[06六月2021 14:50:13.270] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[06六月2021 14:50:14.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[06六月2021 14:50:14.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06六月2021 14:50:14.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06六月2021 14:50:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06六月2021 14:50:15.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06六月2021 14:50:15.053] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[06六月2021 14:50:15.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06六月2021 14:50:16.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06六月2021 14:50:17.611] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[06六月2021 14:50:17.612] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[06六月2021 14:50:17.613] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[06六月2021 14:50:17.613] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[06六月2021 14:50:18.083] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[06六月2021 14:50:19.873] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3823 ms
+[06六月2021 14:50:19.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.258s)! For help, type "help"
+[06六月2021 14:50:22.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[06六月2021 14:50:39.102] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[06六月2021 14:50:43.827] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3607afba
+[06六月2021 14:50:43.847] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.112.234:62953] logged in with entity id 678 at (-64.6834504612799, 55.0, -3.257293061971141)
+[06六月2021 14:50:43.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[06六月2021 14:51:35.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 58749ms or 1174 ticks behind
+[06六月2021 14:52:47.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56921ms or 1138 ticks behind
+[06六月2021 14:53:35.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32384ms or 647 ticks behind
+[06六月2021 14:54:02.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12818ms or 256 ticks behind
+[06六月2021 15:02:54.267] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[06六月2021 15:02:56.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5722a4fc
+[06六月2021 15:02:56.086] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:64845] logged in with entity id 10321 at (-130.08677320469994, 63.0, -39.633762118580876)
+[06六月2021 15:02:56.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[06六月2021 15:03:12.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> @@
+[06六月2021 15:03:42.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c791a75
+[06六月2021 15:31:12.421] [Server thread/INFO] [morpheus/]: BigEgg40287 is now sleeping. 1/2 (50%)
+[06六月2021 15:55:40.468] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[06六月2021 15:55:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[06六月2021 16:04:47.245] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[06六月2021 16:04:48.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@64449ba2
+[06六月2021 16:04:48.637] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:59856] logged in with entity id 58987 at (-144.49744626772056, 75.0, 84.52228566009514)
+[06六月2021 16:04:48.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[06六月2021 16:04:58.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> @@
+[06六月2021 16:05:04.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 你項目要砸用
+[06六月2021 16:05:18.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 木頭
+[06六月2021 16:05:30.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我教你
+[06六月2021 16:05:39.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 我在DC
+[06六月2021 16:05:54.402] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[06六月2021 16:09:35.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Made BigEgg40287 a server operator]
+[06六月2021 16:12:39.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[06六月2021 16:12:39.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[06六月2021 16:12:42.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Stopping the server]
+[06六月2021 16:12:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06六月2021 16:12:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06六月2021 16:12:42.501] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Server closed
+[06六月2021 16:12:42.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[06六月2021 16:12:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06六月2021 16:12:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06六月2021 16:12:43.458] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06六月2021 16:12:43.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06六月2021 16:12:43.467] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06六月2021 16:12:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06六月2021 16:12:43.472] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06六月2021 16:12:43.523] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06六月2021 16:12:43.584] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06六月2021 16:12:43.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
