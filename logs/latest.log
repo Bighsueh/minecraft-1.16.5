@@ -1,79 +1,474 @@
-[06六月2021 14:47:17.035] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.1.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[06六月2021 14:47:17.039] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_261 by Oracle Corporation
-[06六月2021 14:47:17.406] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[06六月2021 14:47:17.440] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/IMSA/Desktop/File/server/1.16.5/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[06六月2021 14:47:18.458] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[06六月2021 14:50:08.055] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.1.0, for MC 1.16.5 with MCP 20210115.111550
-[06六月2021 14:50:08.065] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.1.0 Initialized
-[06六月2021 14:50:08.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[06六月2021 14:50:10.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.1.0 Target: null
-[06六月2021 14:50:10.743] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06六月2021 14:50:11.550] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06六月2021 14:50:11.558] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 14:50:11.574] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 14:50:11.589] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06六月2021 14:50:11.621] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06六月2021 14:50:11.658] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.1.0-universal.jar, Morpheus-1.16.5-4.2.70.jar
-[06六月2021 14:50:12.544] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[06六月2021 14:50:13.270] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[06六月2021 14:50:14.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[06六月2021 14:50:14.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06六月2021 14:50:14.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06六月2021 14:50:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06六月2021 14:50:15.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06六月2021 14:50:15.053] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
-[06六月2021 14:50:15.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06六月2021 14:50:16.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06六月2021 14:50:17.611] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 14:50:17.612] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 14:50:17.613] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 14:50:17.613] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[06六月2021 14:50:18.083] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
-[06六月2021 14:50:19.873] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3823 ms
-[06六月2021 14:50:19.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.258s)! For help, type "help"
-[06六月2021 14:50:22.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[06六月2021 14:50:39.102] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[06六月2021 14:50:43.827] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3607afba
-[06六月2021 14:50:43.847] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.112.234:62953] logged in with entity id 678 at (-64.6834504612799, 55.0, -3.257293061971141)
-[06六月2021 14:50:43.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
-[06六月2021 14:51:35.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 58749ms or 1174 ticks behind
-[06六月2021 14:52:47.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56921ms or 1138 ticks behind
-[06六月2021 14:53:35.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32384ms or 647 ticks behind
-[06六月2021 14:54:02.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12818ms or 256 ticks behind
-[06六月2021 15:02:54.267] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[06六月2021 15:02:56.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5722a4fc
-[06六月2021 15:02:56.086] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:64845] logged in with entity id 10321 at (-130.08677320469994, 63.0, -39.633762118580876)
-[06六月2021 15:02:56.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
-[06六月2021 15:03:12.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> @@
-[06六月2021 15:03:42.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c791a75
-[06六月2021 15:31:12.421] [Server thread/INFO] [morpheus/]: BigEgg40287 is now sleeping. 1/2 (50%)
-[06六月2021 15:55:40.468] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
-[06六月2021 15:55:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
-[06六月2021 16:04:47.245] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[06六月2021 16:04:48.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@64449ba2
-[06六月2021 16:04:48.637] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:59856] logged in with entity id 58987 at (-144.49744626772056, 75.0, 84.52228566009514)
-[06六月2021 16:04:48.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
-[06六月2021 16:04:58.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> @@
-[06六月2021 16:05:04.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 你項目要砸用
-[06六月2021 16:05:18.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 木頭
-[06六月2021 16:05:30.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我教你
-[06六月2021 16:05:39.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 我在DC
-[06六月2021 16:05:54.402] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
-[06六月2021 16:09:35.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Made BigEgg40287 a server operator]
-[06六月2021 16:12:39.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
-[06六月2021 16:12:39.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
-[06六月2021 16:12:42.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Stopping the server]
-[06六月2021 16:12:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[06六月2021 16:12:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[06六月2021 16:12:42.501] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Server closed
-[06六月2021 16:12:42.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
-[06六月2021 16:12:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[06六月2021 16:12:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06六月2021 16:12:43.458] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06六月2021 16:12:43.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06六月2021 16:12:43.467] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06六月2021 16:12:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06六月2021 16:12:43.472] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06六月2021 16:12:43.523] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06六月2021 16:12:43.584] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06六月2021 16:12:43.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08六月2021 00:00:29.290] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 00:10:29.228] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/370, l='ServerLevel[world]', x=-31.51, y=71.37, z=-121.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:10:58.978] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/374, l='ServerLevel[world]', x=-31.51, y=71.37, z=-121.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:14:02.280] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/377, l='ServerLevel[world]', x=-31.51, y=71.37, z=-123.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:15:03.380] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/373, l='ServerLevel[world]', x=-31.51, y=71.37, z=-123.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:16:11.688] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/378, l='ServerLevel[world]', x=-31.51, y=71.37, z=-123.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:18:30.281] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 00:20:33.199] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/383, l='ServerLevel[world]', x=-31.51, y=71.37, z=-123.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:21:23.781] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/384, l='ServerLevel[world]', x=-26.30, y=71.00, z=-130.70] died, message: 'Villager was shot by Eirvaaaaa'
+[08六月2021 00:21:24.983] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/368, l='ServerLevel[world]', x=-26.60, y=71.00, z=-130.26] died, message: 'Villager was shot by Eirvaaaaa'
+[08六月2021 00:21:26.431] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/382, l='ServerLevel[world]', x=-26.46, y=71.00, z=-133.42] died, message: 'Villager was shot by Eirvaaaaa'
+[08六月2021 00:25:02.926] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/385, l='ServerLevel[world]', x=-28.50, y=67.00, z=-111.98] died, message: 'Villager was shot by Eirvaaaaa'
+[08六月2021 00:25:20.482] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/379, l='ServerLevel[world]', x=-30.27, y=71.00, z=-119.48] died, message: 'Mason was shot by Eirvaaaaa'
+[08六月2021 00:25:37.202] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/388, l='ServerLevel[world]', x=-22.96, y=71.03, z=-102.50] died, message: 'Villager suffocated in a wall'
+[08六月2021 00:26:28.399] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/386, l='ServerLevel[world]', x=-31.51, y=72.00, z=-129.50] died, message: 'Villager hit the ground too hard'
+[08六月2021 00:26:36.480] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/380, l='ServerLevel[world]', x=-22.98, y=71.04, z=-102.50] died, message: 'Villager suffocated in a wall'
+[08六月2021 00:26:51.597] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/369, l='ServerLevel[world]', x=-22.49, y=70.55, z=-102.50] died, message: 'Villager suffocated in a wall'
+[08六月2021 00:26:59.229] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/389, l='ServerLevel[world]', x=-22.97, y=71.04, z=-102.50] died, message: 'Villager suffocated in a wall'
+[08六月2021 00:28:58.379] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/372, l='ServerLevel[world]', x=-22.04, y=70.11, z=-102.50] died, message: 'Villager suffocated in a wall'
+[08六月2021 00:30:06.931] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/54415, l='ServerLevel[world]', x=-23.47, y=74.00, z=-97.30] died, message: 'Villager was shot by Eirvaaaaa'
+[08六月2021 00:32:39.280] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 00:43:24.281] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 00:49:07.276] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[08六月2021 00:49:08.693] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3925fa28
+[08六月2021 00:49:08.700] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:62942] logged in with entity id 60430 at (-121.75461636636767, 69.0, -31.510064769594933)
+[08六月2021 00:49:08.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[08六月2021 00:49:12.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> hi
+[08六月2021 00:49:45.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> @@
+[08六月2021 00:49:55.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 忙完了?
+[08六月2021 00:55:13.303] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/3 (33%)
+[08六月2021 00:55:15.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 0
+[08六月2021 00:55:24.284] [Server thread/INFO] [morpheus/]: BigEgg40287 is now sleeping. 2/3 (66%)
+[08六月2021 01:02:38.909] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[08六月2021 01:02:40.293] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@cbf07c8
+[08六月2021 01:02:40.300] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: extrabass750[/10.147.20.218:61245] logged in with entity id 64216 at (-56.5, 67.0, -119.5)
+[08六月2021 01:02:40.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 joined the game
+[08六月2021 01:02:56.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> hi
+[08六月2021 01:03:45.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> HELLO?
+[08六月2021 01:10:44.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> HI
+[08六月2021 01:10:44.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> hi
+[08六月2021 01:11:31.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 昨天你不是說要東西給我嗎?
+[08六月2021 01:11:40.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> wait
+[08六月2021 01:11:53.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 前天
+[08六月2021 01:12:01.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 講錯
+[08六月2021 01:12:42.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 說會飛的東西送我
+[08六月2021 01:16:43.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> whereare you
+[08六月2021 01:17:14.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> GO MY HOME
+[08六月2021 01:18:18.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 has reached the goal [Sky's the Limit]
+[08六月2021 01:18:39.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 你要自己上耐久還有修補腹膜喔
+[08六月2021 01:18:51.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> ok
+[08六月2021 01:19:15.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 怎麼飛?
+[08六月2021 01:19:24.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 裝在身上
+[08六月2021 01:19:36.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 在空中按兩下空白建就會開始滑行
+[08六月2021 01:19:48.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 型的時候放煙火就會加速
+[08六月2021 01:20:03.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 給你幾個煙火
+[08六月2021 01:20:10.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 然後鞘翅弄丟就沒了
+[08六月2021 01:20:11.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> ok
+[08六月2021 01:20:14.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 這東西不好找
+[08六月2021 01:23:07.735] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player maxineeeeeeeeee is 0dd45c56-955e-403a-ba59-0fb5e9b31903
+[08六月2021 01:23:07.786] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4eba708
+[08六月2021 01:23:07.791] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: maxineeeeeeeeee[/1.34.16.22:50904] logged in with entity id 69300 at (-126.22632370267047, 6.0, -32.69999998807917)
+[08六月2021 01:23:07.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: maxineeeeeeeeee joined the game
+[08六月2021 01:23:29.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa lost connection: Disconnected
+[08六月2021 01:23:29.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa left the game
+[08六月2021 01:24:39.197] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[08六月2021 01:24:39.287] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f57ced8
+[08六月2021 01:24:39.293] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eirvaaaaa[/118.170.125.131:51824] logged in with entity id 69663 at (-31.02382896100725, 67.0, -108.83902640200603)
+[08六月2021 01:24:39.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa joined the game
+[08六月2021 01:25:29.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> hi
+[08六月2021 01:25:38.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> Hi
+[08六月2021 01:26:26.286] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 lost connection: Disconnected
+[08六月2021 01:26:26.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 left the game
+[08六月2021 01:27:37.282] [Server thread/INFO] [morpheus/]: Eirvaaaaa is now sleeping. 1/4 (25%)
+[08六月2021 01:28:04.928] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/393, l='ServerLevel[world]', x=-31.48, y=67.00, z=-121.52] died, message: 'Weaponsmith was slain by Zombie'
+[08六月2021 01:28:06.284] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 2/4 (50%)
+[08六月2021 01:30:06.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> hi
+[08六月2021 01:30:38.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> where r u
+[08六月2021 01:30:55.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> u r 魚骨挖礦區
+[08六月2021 01:31:16.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 你喜歡挖礦逆
+[08六月2021 01:31:33.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i cant find irons XDDD
+[08六月2021 01:31:48.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我有很多
+[08六月2021 01:32:43.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> uh bro
+[08六月2021 01:32:48.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> im lost
+[08六月2021 01:33:19.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> dig straight up
+[08六月2021 01:33:32.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> crazy
+[08六月2021 01:33:42.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> up to the top
+[08六月2021 01:33:51.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> and you will find your position
+[08六月2021 01:33:56.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> too crazyyy
+[08六月2021 01:34:22.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> or i can give you my xyz value
+[08六月2021 01:34:36.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> you can find the way back
+[08六月2021 01:35:10.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> -66 6 -47
+[08六月2021 01:35:24.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> do i have op
+[08六月2021 01:35:32.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> no
+[08六月2021 01:35:50.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> ok
+[08六月2021 01:35:58.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> ohhhhhh
+[08六月2021 01:36:03.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> press the F3 button
+[08六月2021 01:36:07.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i see the door
+[08六月2021 01:36:10.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> yes
+[08六月2021 01:36:12.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> yeah
+[08六月2021 01:36:16.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> peko
+[08六月2021 01:36:19.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> peko
+[08六月2021 01:36:37.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> weeeeee
+[08六月2021 01:36:48.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> r the chaimpions
+[08六月2021 01:36:50.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> my dreams
+[08六月2021 01:37:10.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> what
+[08六月2021 01:37:14.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> so
+[08六月2021 01:37:19.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: maxineeeeeeeeee has made the advancement [Acquire Hardware]
+[08六月2021 01:37:19.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> we r in the flying
+[08六月2021 01:37:21.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> to the end
+[08六月2021 01:37:35.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> what do you need
+[08六月2021 01:37:41.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> uh
+[08六月2021 01:37:53.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> a little iron
+[08六月2021 01:38:15.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i cant find trees
+[08六月2021 01:38:28.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> the white cute tree tree
+[08六月2021 01:38:41.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> oh
+[08六月2021 01:38:41.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> oh thx
+[08六月2021 01:38:50.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> I don't have that
+[08六月2021 01:39:00.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> wtf
+[08六月2021 01:39:25.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> ok
+[08六月2021 01:39:29.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> wow
+[08六月2021 01:39:32.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> he is my neiborhood
+[08六月2021 01:39:46.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> u have a good neiborhood
+[08六月2021 01:39:48.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> neighborhood
+[08六月2021 01:39:53.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> and he loves me
+[08六月2021 01:39:59.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> is he cut uhh
+[08六月2021 01:40:05.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> cut
+[08六月2021 01:40:07.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> cute
+[08六月2021 01:40:17.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> you just push he back
+[08六月2021 01:40:21.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> no
+[08六月2021 01:40:31.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i dont do that
+[08六月2021 01:40:34.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> oh
+[08六月2021 01:40:46.028] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/72460, l='ServerLevel[world]', x=-30.88, y=75.00, z=-120.51] died, message: 'Villager suffocated in a wall'
+[08六月2021 01:41:03.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> is outside morning?
+[08六月2021 01:41:16.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> it's night
+[08六月2021 01:41:35.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> oh
+[08六月2021 01:41:52.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i decide to build my house at
+[08六月2021 01:42:02.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> mushroom
+[08六月2021 01:42:03.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> you can build your home anyway you want
+[08六月2021 01:42:08.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> oh
+[08六月2021 01:42:09.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> i see
+[08六月2021 01:42:41.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i think
+[08六月2021 01:42:43.280] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/4 (25%)
+[08六月2021 01:42:48.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: maxineeeeeeeeee has made the advancement [Sweet Dreams]
+[08六月2021 01:42:53.283] [Server thread/INFO] [morpheus/]: maxineeeeeeeeee is now sleeping. 2/4 (50%)
+[08六月2021 01:43:06.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> since i play valorant
+[08六月2021 01:43:21.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> my english
+[08六月2021 01:43:24.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> adobe valorant
+[08六月2021 01:43:27.989] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[08六月2021 01:43:29.442] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4dcdcc44
+[08六月2021 01:43:29.447] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: extrabass750[/10.147.20.218:58163] logged in with entity id 73944 at (-60.69116591372575, 63.0, -114.47328397765186)
+[08六月2021 01:43:29.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 joined the game
+[08六月2021 01:43:30.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> grow up
+[08六月2021 01:43:37.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> good game
+[08六月2021 01:43:48.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i hate that game
+[08六月2021 01:43:54.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> why
+[08六月2021 01:43:59.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> but i just play it haha
+[08六月2021 01:44:14.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 這誰?
+[08六月2021 01:44:16.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 was blown up by Creeper
+[08六月2021 01:44:17.650] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:879) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:445) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[08六月2021 01:44:18.136] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:879) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:445) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[08六月2021 01:44:22.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i got a ace!!
+[08六月2021 01:44:28.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> 你好
+[08六月2021 01:44:38.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> my little sister
+[08六月2021 01:44:38.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> 我是薛薛
+[08六月2021 01:47:46.651] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player LightHead is be06e065-1e94-4c12-8835-ecd897239956
+[08六月2021 01:47:46.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f2ba212
+[08六月2021 01:47:46.738] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: LightHead[/118.165.209.239:65328] logged in with entity id 75340 at (-131.5, 63.0, 102.5)
+[08六月2021 01:47:46.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LightHead joined the game
+[08六月2021 01:47:52.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> this is my high school classmate
+[08六月2021 01:48:12.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i know lighthead XDDDD
+[08六月2021 01:48:23.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> Is that lighthead?
+[08六月2021 01:48:31.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> yeah
+[08六月2021 01:48:41.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> so funny XDD
+[08六月2021 01:48:53.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LightHead> 裝備王光頭本人在此
+[08六月2021 01:49:09.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> Yeah yeah yeah that name XDDDD
+[08六月2021 01:49:20.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> omg long time no see
+[08六月2021 01:51:15.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> ???
+[08六月2021 01:55:18.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LightHead has made the advancement [Monster Hunter]
+[08六月2021 01:59:31.790] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa moved wrongly!
+[08六月2021 02:02:36.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LightHead fell from a high place
+[08六月2021 02:02:40.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> lol
+[08六月2021 02:03:14.586] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LightHead lost connection: Disconnected
+[08六月2021 02:03:14.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LightHead left the game
+[08六月2021 02:04:41.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 我家被苦力怕炸死
+[08六月2021 02:04:50.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> qq
+[08六月2021 02:05:00.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> 還要整理
+[08六月2021 02:05:05.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> QQ
+[08六月2021 02:05:09.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 加油
+[08六月2021 02:06:42.694] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 moved too quickly! 2.119847769464787,-10.435513793744647,-1.4084343993964552
+[08六月2021 02:06:44.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 掛機
+[08六月2021 02:06:52.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <extrabass750> ok
+[08六月2021 02:08:23.041] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 moved too quickly! 0.20291361151207354,-13.942417239629208,-1.1222860716468972
+[08六月2021 02:08:23.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:23.295] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 lost connection: Flying is not enabled on this server
+[08六月2021 02:08:23.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 left the game
+[08六月2021 02:08:23.344] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[08六月2021 02:08:37.939] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player extrabass750 is 0d6d18db-9c7b-4e97-85f7-76c8a0515a1b
+[08六月2021 02:08:39.341] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3086dacf
+[08六月2021 02:08:39.345] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: extrabass750[/10.147.20.218:53280] logged in with entity id 83785 at (22.159363793330826, 153.92289830236584, -139.12618719899905)
+[08六月2021 02:08:39.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 joined the game
+[08六月2021 02:08:44.798] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:44.838] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:44.894] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:44.939] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:44.993] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.041] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.095] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.139] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.199] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.240] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.295] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.340] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.393] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.441] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.494] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.594] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.639] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.739] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.796] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.841] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.942] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:45.997] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.040] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.097] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.142] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.196] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.339] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.394] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.440] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.541] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.595] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.638] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.694] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.741] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.795] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.850] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.895] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.940] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:46.993] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.042] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.093] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.140] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.194] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.339] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.407] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.446] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.542] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.597] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.642] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.693] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.740] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.796] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.842] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.895] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.943] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:47.994] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.042] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.099] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.195] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.239] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.295] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.342] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.396] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.444] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.499] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.541] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.597] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.644] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.696] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.742] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.794] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.841] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.896] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.944] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:48.997] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.038] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.094] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.140] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.198] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.245] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.341] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.394] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.442] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.498] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.540] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.599] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.638] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.746] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.793] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.839] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.894] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.945] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:49.994] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.041] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.093] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.140] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.200] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.241] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.294] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.339] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.394] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.441] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.495] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 was kicked for floating too long!
+[08六月2021 02:08:50.542] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: extrabass750 lost connection: Flying is not enabled on this server
+[08六月2021 02:08:50.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: extrabass750 left the game
+[08六月2021 02:17:42.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 沒了QQ
+[08六月2021 02:17:49.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 提早看完
+[08六月2021 02:19:38.288] [Server thread/INFO] [morpheus/]: BigEgg40287 is now sleeping. 1/4 (25%)
+[08六月2021 02:19:45.287] [Server thread/INFO] [morpheus/]: maxineeeeeeeeee is now sleeping. 2/4 (50%)
+[08六月2021 02:25:33.739] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[08六月2021 02:25:33.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[08六月2021 02:37:38.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> hi
+[08六月2021 02:37:42.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> hi
+[08六月2021 02:38:46.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: maxineeeeeeeeee has made the advancement [Monster Hunter]
+[08六月2021 02:38:51.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> nice
+[08六月2021 02:38:57.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> monster hunter
+[08六月2021 02:39:07.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> XDDDD
+[08六月2021 02:43:17.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i want to build a big mushroom
+[08六月2021 02:44:12.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> ohhhh thank you
+[08六月2021 02:46:19.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> wowww
+[08六月2021 02:46:27.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> wowwww
+[08六月2021 02:47:10.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> 姊姊有玩嗎
+[08六月2021 02:47:24.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> hiiiiiiiiiiiiiiiiiiiiiiiiiiii
+[08六月2021 02:47:30.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> yaaaaaaaa
+[08六月2021 02:47:35.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> yeeeeeee
+[08六月2021 02:47:55.083] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa lost connection: Disconnected
+[08六月2021 02:47:55.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa left the game
+[08六月2021 02:48:59.863] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[08六月2021 02:49:01.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3414d232
+[08六月2021 02:49:01.899] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eirvaaaaa[/118.170.125.131:62803] logged in with entity id 99853 at (-111.56378942904946, 59.0, 43.70386425729814)
+[08六月2021 02:49:01.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa joined the game
+[08六月2021 02:54:53.286] [Server thread/INFO] [morpheus/]: Eirvaaaaa is now sleeping. 1/3 (33%)
+[08六月2021 02:55:01.290] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 2/3 (66%)
+[08六月2021 03:02:54.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> i
+[08六月2021 03:03:02.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> sleepy peko
+[08六月2021 03:03:13.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> ahoyi
+[08六月2021 03:03:17.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> go to bed peko
+[08六月2021 03:03:24.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> can't
+[08六月2021 03:03:31.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> good night
+[08六月2021 03:03:36.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> peko
+[08六月2021 03:03:48.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 881
+[08六月2021 03:03:53.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <maxineeeeeeeeee> good night peko
+[08六月2021 03:04:25.983] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: maxineeeeeeeeee lost connection: Disconnected
+[08六月2021 03:04:25.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: maxineeeeeeeeee left the game
+[08六月2021 03:05:57.279] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 03:16:32.281] [Server thread/INFO] [morpheus/]: TaiwanDebuger is now sleeping. 1/2 (50%)
+[08六月2021 03:20:10.985] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[08六月2021 03:20:12.590] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26f44224
+[08六月2021 03:20:12.596] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.238.77:61286] logged in with entity id 110129 at (-127.34880228024849, 63.0, -32.944062492139935)
+[08六月2021 03:20:12.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[08六月2021 03:20:22.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> @@
+[08六月2021 03:21:50.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> ?
+[08六月2021 03:21:58.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eirvaaaaa> ?
+[08六月2021 03:22:02.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> d??
+[08六月2021 03:22:13.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 乾睡不著拉
+[08六月2021 03:22:18.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 明天8.克
+[08六月2021 03:22:19.042] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/69421, l='ServerLevel[world]', x=-29.86, y=71.00, z=-132.52] died, message: 'Librarian was shot by Eirvaaaaa'
+[08六月2021 03:22:33.082] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/81766, l='ServerLevel[world]', x=-29.50, y=67.06, z=-106.91] died, message: 'Mason was shot by Eirvaaaaa'
+[08六月2021 03:22:37.137] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa lost connection: Disconnected
+[08六月2021 03:22:37.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa left the game
+[08六月2021 03:24:50.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> ?
+[08六月2021 03:26:55.730] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=19, y=83, z=7} BlockPos{x=3, y=83, z=-15}
+[08六月2021 03:26:59.330] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=2, y=84, z=-17} BlockPos{x=15, y=83, z=-4}
+[08六月2021 03:27:13.838] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-2, y=82, z=-4} BlockPos{x=0, y=84, z=-10}
+[08六月2021 03:27:53.730] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-24, y=71, z=6} BlockPos{x=-28, y=72, z=7}
+[08六月2021 03:32:16.681] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[08六月2021 03:32:16.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[08六月2021 04:52:29.400] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Timed out
+[08六月2021 04:52:29.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[08六月2021 06:04:31.239] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[08六月2021 06:04:32.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a14ed34
+[08六月2021 06:04:32.557] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.125.131:60909] logged in with entity id 127880 at (-78.07499998807907, 63.0, -19.699548998942934)
+[08六月2021 06:04:32.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[08六月2021 06:38:06.033] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Timed out
+[08六月2021 06:38:06.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[08六月2021 06:50:47.765] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[08六月2021 06:50:49.094] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ac38f4e
+[08六月2021 06:50:49.106] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.125.131:60077] logged in with entity id 132507 at (-78.07499998807907, 63.0, -19.314538072769896)
+[08六月2021 06:50:49.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[08六月2021 07:54:27.162] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[08六月2021 07:54:27.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[08六月2021 07:55:40.549] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[08六月2021 07:55:41.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f14a16b
+[08六月2021 07:55:41.874] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.125.131:53297] logged in with entity id 149391 at (-65.5, 5.0, -39.699999928474426)
+[08六月2021 07:55:41.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[08六月2021 08:37:57.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/158367, l='ServerLevel[world]', x=-150.28, y=93.41, z=123.49]
+[08六月2021 08:37:57.659] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Dust'/158368, l='ServerLevel[world]', x=-150.42, y=93.56, z=122.40]
+[08六月2021 08:37:57.660] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Torch'/158369, l='ServerLevel[world]', x=-151.61, y=93.69, z=123.61]
+[08六月2021 08:37:57.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/158370, l='ServerLevel[world]', x=-149.38, y=91.29, z=123.54]
+[08六月2021 08:37:57.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/158371, l='ServerLevel[world]', x=-150.46, y=90.41, z=122.64]
+[08六月2021 08:42:08.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Successfully filled 295 blocks]
+[08六月2021 08:52:53.497] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Honey Bottle'/162047, l='ServerLevel[world]', x=-60.48, y=66.73, z=26.34]
+[08六月2021 09:52:59.676] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/169145, l='ServerLevel[world]', x=-21.85, y=71.00, z=-102.85] died, message: 'Villager suffocated in a wall'
+[08六月2021 10:25:05.327] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=589, y=79, z=-13} BlockPos{x=675, y=88, z=-58}
+[08六月2021 10:40:23.980] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[08六月2021 10:40:25.389] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@775aeedc
+[08六月2021 10:40:25.394] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/111.253.221.140:55670] logged in with entity id 204508 at (-120.83740809008107, 69.0, -31.45302083090207)
+[08六月2021 10:40:25.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[08六月2021 10:40:28.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> ???
+[08六月2021 10:47:22.084] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[08六月2021 10:47:22.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[08六月2021 10:48:02.629] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[08六月2021 10:48:04.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f3689dd
+[08六月2021 10:48:04.045] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.125.131:61868] logged in with entity id 205821 at (-72.88854238585596, 67.0, -28.323472249348058)
+[08六月2021 10:48:04.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[08六月2021 10:48:11.128] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Timed out
+[08六月2021 10:48:11.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[08六月2021 10:50:25.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08六月2021 10:50:25.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08六月2021 10:50:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08六月2021 10:50:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08六月2021 10:50:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08六月2021 10:50:27.077] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08六月2021 10:50:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08六月2021 10:50:27.119] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08六月2021 10:50:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08六月2021 10:50:27.125] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08六月2021 10:50:27.171] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08六月2021 10:50:27.325] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08六月2021 10:50:27.347] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
