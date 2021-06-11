@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-06-11 02:17:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2021-05-31 00:40:36 +0800"
@@ -576,6 +582,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-05-31 00:30:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2021-06-11 02:29:05 +0800"
     },
     "done": true
   },
@@ -1842,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-06-11 02:17:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-06-02 00:00:17 +0800"
@@ -2238,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2021-06-11 02:29:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2021-05-31 00:32:22 +0800"
@@ -2247,6 +2271,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-05-30 04:08:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-06-11 02:31:56 +0800"
     },
     "done": true
   },
@@ -2403,6 +2433,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2021-05-31 00:40:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2021-06-11 02:29:05 +0800"
     },
     "done": true
   },
