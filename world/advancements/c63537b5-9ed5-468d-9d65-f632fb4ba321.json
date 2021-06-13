@@ -722,6 +722,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-05-25 06:27:46 +0800",
+      "minecraft:blaze": "2021-06-13 17:27:08 +0800",
       "minecraft:skeleton": "2021-05-25 00:54:29 +0800",
       "minecraft:elder_guardian": "2021-06-05 21:56:02 +0800",
       "minecraft:ravager": "2021-05-29 21:42:54 +0800",

@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2021-06-13 17:17:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2021-05-28 04:09:42 +0800"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-06-13 17:23:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-28 18:58:54 +0800"
@@ -943,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-06-13 17:23:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-05-29 04:11:49 +0800"
@@ -970,6 +988,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2021-05-29 04:11:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-06-13 17:23:06 +0800"
     },
     "done": true
   },
@@ -1150,6 +1174,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-06-13 09:30:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-06-13 17:23:06 +0800"
     },
     "done": true
   },
@@ -1546,6 +1576,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-05-28 18:57:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-06-13 17:17:27 +0800"
     },
     "done": true
   },
@@ -2398,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-06-13 17:23:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2021-06-02 01:20:19 +0800"
@@ -2778,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-06-13 17:17:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-05-28 18:16:13 +0800"
@@ -2997,6 +3045,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-05-29 10:29:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-06-13 17:23:06 +0800"
     },
     "done": true
   },
@@ -3405,6 +3459,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2021-06-03 01:15:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2021-06-13 17:17:27 +0800"
     },
     "done": true
   },
