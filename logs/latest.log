@@ -1,17 +1,125 @@
-[12六月2021 00:02:29.290] [User Authenticator #48/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
-[12六月2021 00:02:30.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@704c2428
-[12六月2021 00:02:31.010] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:25752] logged in with entity id 307793 at (-50.69999998807907, 72.0, -27.071090221484393)
-[12六月2021 00:02:31.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
-[12六月2021 00:04:09.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[12六月2021 00:04:09.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12六月2021 00:04:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12六月2021 00:04:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12六月2021 00:04:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12六月2021 00:04:11.967] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12六月2021 00:04:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12六月2021 00:04:12.000] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12六月2021 00:04:12.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12六月2021 00:04:12.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12六月2021 00:04:12.137] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12六月2021 00:04:12.471] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12六月2021 00:04:12.645] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13六月2021 00:15:34.520] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA moved too quickly! 0.0,-12.708162068455417,0.0
+[13六月2021 00:28:47.115] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-255, y=52, z=-227} BlockPos{x=-255, y=52, z=-226}
+[13六月2021 00:53:52.490] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.544] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.599] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.686] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.696] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.747] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:53:52.795] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=-623} BlockPos{x=-188, y=65, z=-624}
+[13六月2021 00:55:36.076] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-175, y=66, z=-647} BlockPos{x=-174, y=65, z=-646}
+[13六月2021 01:31:34.244] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA moved wrongly!
+[13六月2021 01:56:03.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA has made the advancement [A Throwaway Joke]
+[13六月2021 02:02:35.269] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
+[13六月2021 02:02:35.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[13六月2021 02:02:45.730] [User Authenticator #38/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[13六月2021 02:02:47.324] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@45217b8
+[13六月2021 02:02:47.328] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:28567] logged in with entity id 411548 at (-269.78130449673574, 43.549999870579434, -117.39753757947125)
+[13六月2021 02:02:47.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
+[13六月2021 02:03:07.129] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
+[13六月2021 02:03:07.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[13六月2021 02:05:33.080] [User Authenticator #39/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[13六月2021 02:05:43.928] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1251248c
+[13六月2021 02:05:43.935] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:28829] logged in with entity id 411696 at (-269.78130449673574, 43.549999870579434, -117.39753757947125)
+[13六月2021 02:05:43.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
+[13六月2021 02:26:04.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/416207, l='ServerLevel[world]', x=-275.50, y=35.00, z=-133.50]
+[13六月2021 02:26:16.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/416312, l='ServerLevel[world]', x=-275.50, y=35.00, z=-135.50]
+[13六月2021 02:26:28.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/416446, l='ServerLevel[world]', x=-275.50, y=35.00, z=-128.50]
+[13六月2021 02:52:15.428] [User Authenticator #40/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[13六月2021 02:52:16.926] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d670408
+[13六月2021 02:52:16.931] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/36.233.91.124:64335] logged in with entity id 422264 at (-127.5, 69.0, -35.5)
+[13六月2021 02:52:16.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[13六月2021 02:52:43.442] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[13六月2021 02:52:43.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[13六月2021 02:54:12.269] [User Authenticator #41/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Eirvaaaaa is f820475a-3a28-4a75-853d-4eb11fa8ec42
+[13六月2021 02:54:13.728] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2ad55ab7
+[13六月2021 02:54:13.731] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eirvaaaaa[/118.170.116.37:59532] logged in with entity id 422546 at (-81.69249875101583, 80.0, -48.61096362164391)
+[13六月2021 02:54:13.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa joined the game
+[13六月2021 02:55:47.479] [Server thread/INFO] [morpheus/]: Eirvaaaaa is now sleeping. 1/2 (50%)
+[13六月2021 02:57:43.691] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa moved wrongly!
+[13六月2021 02:58:22.727] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eirvaaaaa lost connection: Disconnected
+[13六月2021 02:58:22.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eirvaaaaa left the game
+[13六月2021 03:05:42.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/427102, l='ServerLevel[world]', x=-171.42, y=61.00, z=87.34]
+[13六月2021 03:33:03.273] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-286, y=39, z=-115} BlockPos{x=-286, y=38, z=-115}
+[13六月2021 03:33:08.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[13六月2021 03:33:12.824] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-288, y=35, z=-119} BlockPos{x=-288, y=36, z=-119}
+[13六月2021 03:40:58.872] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-293, y=37, z=-90} BlockPos{x=-292, y=37, z=-90}
+[13六月2021 03:45:41.234] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
+[13六月2021 03:45:41.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[13六月2021 06:49:02.265] [User Authenticator #42/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[13六月2021 06:49:03.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65c0dbcb
+[13六月2021 06:49:03.590] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.139.166:55924] logged in with entity id 435015 at (-5.748513875315734, 63.21309067384882, -17.173628489901404)
+[13六月2021 06:49:03.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[13六月2021 07:20:39.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[13六月2021 08:22:50.289] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/454105, l='ServerLevel[world]', x=-57.75, y=11.00, z=-36.92]
+[13六月2021 09:00:31.658] [User Authenticator #43/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[13六月2021 09:00:33.028] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7315bd16
+[13六月2021 09:00:33.033] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:26384] logged in with entity id 460295 at (-275.37358067163467, 41.0, -126.65284470732679)
+[13六月2021 09:00:33.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
+[13六月2021 09:03:58.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> hi
+[13六月2021 09:10:56.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> hi
+[13六月2021 09:11:27.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 笑死每天都育的道你
+[13六月2021 09:21:03.186] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-86, y=48, z=1} BlockPos{x=-85, y=49, z=1}
+[13六月2021 09:21:03.239] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-86, y=48, z=1} BlockPos{x=-85, y=49, z=1}
+[13六月2021 09:21:30.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> XD
+[13六月2021 09:21:41.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 你跟鬼一樣 都不用睡
+[13六月2021 09:21:51.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 但我昨天自己一個人蓋房子是真的孤單
+[13六月2021 09:22:01.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我昨天把作息條回來了
+[13六月2021 09:22:03.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 超爽
+[13六月2021 09:22:20.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> case 解決玩了喔
+[13六月2021 09:22:24.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 沒有
+[13六月2021 09:22:27.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 先調回來
+[13六月2021 09:22:33.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我等等要繼續coding了
+[13六月2021 09:22:36.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 擊敗
+[13六月2021 09:22:37.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> = =
+[13六月2021 09:23:00.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 你的門壞了
+[13六月2021 09:23:35.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 啥文
+[13六月2021 09:23:37.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> ap6
+[13六月2021 09:23:39.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 地底下的
+[13六月2021 09:23:40.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 啥們
+[13六月2021 09:23:48.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 為啥
+[13六月2021 09:23:50.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 我看鐵門一直開哲 我按按鈕都不會彈回來
+[13六月2021 09:23:54.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 不知道 我遇到兩次了
+[13六月2021 09:23:58.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 喔裡面有一根拉幹
+[13六月2021 09:24:01.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 拉感
+[13六月2021 09:24:06.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 我上次幫你拆掉重蓋就正常了
+[13六月2021 09:24:06.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 拉下去就會保持常開XD
+[13六月2021 09:24:10.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 喔喔
+[13六月2021 09:24:17.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 但我剛剛是沒有用欸
+[13六月2021 09:24:28.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 神奇了
+[13六月2021 09:24:33.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 那我就不清楚了
+[13六月2021 09:24:37.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我用一直都沒問題
+[13六月2021 09:35:22.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> QQ
+[13六月2021 09:35:27.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> ??
+[13六月2021 09:36:19.767] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
+[13六月2021 09:36:19.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[13六月2021 09:41:46.862] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-293, y=44, z=133} BlockPos{x=-292, y=43, z=133}
+[13六月2021 09:41:46.913] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-293, y=44, z=133} BlockPos{x=-292, y=43, z=133}
+[13六月2021 09:42:23.910] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[13六月2021 09:42:23.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[13六月2021 09:42:28.208] [User Authenticator #44/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[13六月2021 09:42:29.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@dca38b6
+[13六月2021 09:42:29.538] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.139.166:61289] logged in with entity id 473832 at (-295.3120522023159, 45.0, 106.59393677930785)
+[13六月2021 09:42:29.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[13六月2021 09:44:00.990] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[13六月2021 09:44:00.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[13六月2021 09:44:02.516] [User Authenticator #45/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[13六月2021 09:44:03.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@45b6906
+[13六月2021 09:44:03.808] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.139.166:53912] logged in with entity id 474819 at (-54.36732377967075, 59.5, -33.07143461735337)
+[13六月2021 09:44:03.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[13六月2021 09:44:24.673] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[13六月2021 09:44:24.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[13六月2021 09:44:32.686] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@18ec5321[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/10.147.20.206:57012) lost connection: Disconnected
+[13六月2021 09:45:50.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[13六月2021 09:45:50.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13六月2021 09:45:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13六月2021 09:45:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13六月2021 09:45:50.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13六月2021 09:45:51.744] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13六月2021 09:45:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13六月2021 09:45:52.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13六月2021 09:45:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13六月2021 09:45:52.251] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13六月2021 09:45:54.389] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13六月2021 09:45:55.697] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13六月2021 09:45:56.300] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
