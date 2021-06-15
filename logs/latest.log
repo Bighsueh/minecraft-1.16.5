@@ -1,95 +1,37 @@
-[14六月2021 00:53:18.034] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Timed out
-[14六月2021 00:53:18.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
-[14六月2021 01:03:58.322] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
-[14六月2021 01:03:59.791] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@471e4312
-[14六月2021 01:03:59.800] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:28289] logged in with entity id 260419 at (-75.55013861854584, 90.0, -50.31262228386983)
-[14六月2021 01:03:59.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
-[14六月2021 01:35:09.520] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player CharryWang is f4d5ef29-1308-4aa7-8f1d-e8f5790579ae
-[14六月2021 01:35:09.602] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@53c4d0dd
-[14六月2021 01:35:09.611] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: CharryWang[/118.167.178.231:56616] logged in with entity id 267379 at (-90.44482210360883, 64.0, 21.305225868560342)
-[14六月2021 01:35:09.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang joined the game
-[14六月2021 01:35:21.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> hi guys
-[14六月2021 01:35:30.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> long time no see
-[14六月2021 01:41:59.585] [Server thread/INFO] [morpheus/]: DuHpA is now sleeping. 1/2 (50%)
-[14六月2021 01:43:17.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has made the advancement [Cover Me With Diamonds]
-[14六月2021 01:48:12.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has reached the goal [Sky's the Limit]
-[14六月2021 01:49:22.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang fell from a high place
-[14六月2021 01:55:13.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has made the advancement [Isn't It Iron Pick]
-[14六月2021 01:55:42.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 換個dc
-[14六月2021 01:55:47.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 下面房間
-[14六月2021 01:56:07.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> 沒聽懂XD
-[14六月2021 01:56:20.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> dc換房間
-[14六月2021 02:00:53.968] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA moved too quickly! -3.2658570856026614,-8.921599998474122,3.9486228538285744
-[14六月2021 02:11:26.288] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
-[14六月2021 02:11:27.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fde9dce
-[14六月2021 02:11:27.900] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.139.166:52157] logged in with entity id 276230 at (-78.07499998807907, 63.0, -19.39267026295541)
-[14六月2021 02:11:27.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
-[14六月2021 02:11:42.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> charrywang是誰
-[14六月2021 02:11:44.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我忘了
-[14六月2021 02:17:36.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DuHpA> 我朋友
-[14六月2021 02:19:48.327] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Mithrill is 371133fa-be98-4bb7-ae59-61ca9511326d
-[14六月2021 02:19:48.395] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@116d47d9
-[14六月2021 02:19:48.399] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Mithrill[/39.9.108.218:35237] logged in with entity id 278729 at (-263.21037388075626, 35.0, -118.17011617572061)
-[14六月2021 02:19:48.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mithrill joined the game
-[14六月2021 02:19:55.726] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA moved too quickly! 6.337358107083119,-6.937913791267022,-5.489312696106428
-[14六月2021 02:20:27.889] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Mithrill lost connection: Disconnected
-[14六月2021 02:20:27.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mithrill left the game
-[14六月2021 02:30:04.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has made the advancement [Local Brewery]
-[14六月2021 02:36:24.187] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
-[14六月2021 02:36:24.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
-[14六月2021 02:36:25.336] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: CharryWang lost connection: Disconnected
-[14六月2021 02:36:25.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang left the game
-[14六月2021 03:33:30.908] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player CharryWang is f4d5ef29-1308-4aa7-8f1d-e8f5790579ae
-[14六月2021 03:33:31.013] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29449b4f
-[14六月2021 03:33:31.017] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: CharryWang[/118.167.178.231:51400] logged in with entity id 293520 at (-109.94642691511926, 63.0, -18.787476502013575)
-[14六月2021 03:33:31.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang joined the game
-[14六月2021 03:33:31.053] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Egg'/293517, l='ServerLevel[world]', x=-39.38, y=56.99, z=-44.54]
-[14六月2021 03:35:57.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has made the advancement [Stone Age]
-[14六月2021 03:43:22.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang has made the advancement [Not Today, Thank You]
-[14六月2021 03:48:32.485] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: CharryWang lost connection: Timed out
-[14六月2021 03:48:32.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang left the game
-[14六月2021 03:48:42.979] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player CharryWang is f4d5ef29-1308-4aa7-8f1d-e8f5790579ae
-[14六月2021 03:48:43.037] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e625910
-[14六月2021 03:48:43.040] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: CharryWang[/118.167.178.231:49914] logged in with entity id 296942 at (-190.21892143639107, 57.45943597859102, -9.161541949774358)
-[14六月2021 03:48:43.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CharryWang joined the game
-[14六月2021 03:50:32.870] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
-[14六月2021 03:50:35.036] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@523f977d
-[14六月2021 03:50:35.040] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/36.233.91.124:63723] logged in with entity id 297451 at (-129.02368462235876, 69.0, -33.62923848586073)
-[14六月2021 03:50:35.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
-[14六月2021 03:51:02.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> hi
-[14六月2021 03:51:08.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> hi
-[14六月2021 03:51:22.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 檔案怎麼了??
-[14六月2021 03:51:57.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> 剛突然有斷線了一下 我感受到的就這樣
-[14六月2021 03:52:08.295] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 moved too quickly! 0.0,-10.49079610902799,0.05086958435636291
-[14六月2021 03:52:10.672] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 moved too quickly! 0.0,-12.032610980258177,0.0
-[14六月2021 03:52:14.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 你是?
-[14六月2021 03:55:13.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Set 55 experience levels on BigEgg40287]
-[14六月2021 03:55:34.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 我等等重開一下server好了
-[14六月2021 03:55:39.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> ok
-[14六月2021 03:55:47.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> 我是喳喳的朋友
-[14六月2021 03:55:52.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 喔喔
-[14六月2021 03:56:10.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 掉落物沒問題
-[14六月2021 03:56:12.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Showing new title for 3 players]
-[14六月2021 03:56:20.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> OK
-[14六月2021 03:56:28.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 就順移回家跟等級不見而已
-[14六月2021 03:56:31.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Showing new title for 3 players]
-[14六月2021 03:56:33.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> 阿哩
-[14六月2021 03:59:35.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> 阿喳喳睡了喔
-[14六月2021 03:59:39.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <CharryWang> yes
-[14六月2021 03:59:43.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <BigEgg40287> cl3yl3
-[14六月2021 03:59:51.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Showing new title for 3 players]
-[14六月2021 03:59:54.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[14六月2021 03:59:54.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14六月2021 03:59:54.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14六月2021 03:59:54.888] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Internal Exception: java.lang.StackOverflowError
-[14六月2021 03:59:54.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
-[14六月2021 03:59:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14六月2021 03:59:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14六月2021 03:59:56.312] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14六月2021 03:59:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14六月2021 04:00:00.354] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14六月2021 04:00:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14六月2021 04:00:00.362] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14六月2021 04:00:00.421] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14六月2021 04:00:01.784] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14六月2021 04:00:01.889] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15六月2021 01:03:56.993] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[15六月2021 01:04:00.597] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@362334d5
+[15六月2021 01:04:00.607] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:29106] logged in with entity id 147373 at (-84.89504221163439, 64.0, 28.880397562114936)
+[15六月2021 01:04:00.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
+[15六月2021 01:24:32.942] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Timed out
+[15六月2021 01:24:32.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[15六月2021 01:25:05.569] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DuHpA is 41021e65-7571-43ba-b9b2-49bcc8abc31f
+[15六月2021 01:25:07.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5418115a
+[15六月2021 01:25:07.405] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DuHpA[/39.11.41.52:25332] logged in with entity id 150741 at (14.60251746385458, 64.0, -118.2484545390492)
+[15六月2021 01:25:07.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA joined the game
+[15六月2021 01:32:38.038] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DuHpA lost connection: Disconnected
+[15六月2021 01:32:38.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DuHpA left the game
+[15六月2021 01:50:56.929] [User Authenticator #22/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player BigEgg40287 is c63537b5-9ed5-468d-9d65-f632fb4ba321
+[15六月2021 01:50:59.745] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a0e7b37
+[15六月2021 01:50:59.753] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: BigEgg40287[/114.26.237.45:55565] logged in with entity id 152299 at (11.934591150506515, 64.0, -121.79031396877451)
+[15六月2021 01:50:59.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 joined the game
+[15六月2021 01:51:51.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 was impaled by Drowned
+[15六月2021 03:46:00.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 has made the advancement [A Throwaway Joke]
+[15六月2021 04:06:19.587] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BigEgg40287 lost connection: Disconnected
+[15六月2021 04:06:19.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BigEgg40287 left the game
+[15六月2021 08:29:25.135] [User Authenticator #23/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[15六月2021 08:29:26.501] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4fc3d197
+[15六月2021 08:29:26.513] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.121.152:61450] logged in with entity id 172868 at (-55.65721111163484, 65.0, -7.191097305787892)
+[15六月2021 08:29:26.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[15六月2021 08:32:35.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [TaiwanDebuger: Stopping the server]
+[15六月2021 08:32:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15六月2021 08:32:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15六月2021 08:32:35.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15六月2021 08:32:35.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15六月2021 08:32:38.229] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15六月2021 08:32:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15六月2021 08:32:38.312] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15六月2021 08:32:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15六月2021 08:32:38.316] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15六月2021 08:32:38.363] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15六月2021 08:32:39.031] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15六月2021 08:32:39.041] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-06-14 12:25:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2021-05-30 16:21:48 +0800"
@@ -1243,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-06-14 12:25:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-30 14:42:25 +0800"
@@ -1453,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-06-14 12:32:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-28 18:21:39 +0800"
@@ -1623,6 +1641,7 @@
       "minecraft:forest": "2021-06-12 00:53:04 +0800",
       "minecraft:mountains": "2021-06-12 00:53:05 +0800",
       "minecraft:taiga": "2021-06-12 01:28:46 +0800",
+      "minecraft:desert_hills": "2021-06-14 13:20:59 +0800",
       "minecraft:deep_cold_ocean": "2021-06-12 00:50:12 +0800",
       "minecraft:taiga_hills": "2021-06-12 01:28:44 +0800",
       "minecraft:desert": "2021-06-12 00:51:00 +0800",
