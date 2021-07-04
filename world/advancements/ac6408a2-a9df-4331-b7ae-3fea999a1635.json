@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-06-22 07:21:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-05-25 21:40:03 +0800"
@@ -919,9 +925,11 @@
       "minecraft:spider": "2021-05-24 21:30:58 +0800",
       "minecraft:piglin_brute": "2021-05-28 11:31:04 +0800",
       "minecraft:creeper": "2021-05-24 21:30:53 +0800",
+      "minecraft:wither": "2021-06-23 03:51:11 +0800",
       "minecraft:evoker": "2021-05-26 23:27:38 +0800",
       "minecraft:slime": "2021-05-27 19:09:17 +0800",
       "minecraft:phantom": "2021-05-28 12:02:56 +0800",
+      "minecraft:zombified_piglin": "2021-06-22 01:19:45 +0800",
       "minecraft:witch": "2021-05-26 14:50:26 +0800",
       "minecraft:wither_skeleton": "2021-05-28 01:07:18 +0800",
       "minecraft:shulker": "2021-05-29 01:58:52 +0800",
@@ -936,6 +944,12 @@
       "minecraft:zombie_villager": "2021-05-24 21:31:46 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2021-06-22 13:06:29 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1273,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-06-23 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2021-05-26 23:25:55 +0800"
@@ -1300,6 +1320,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-05-24 22:38:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-06-23 04:33:54 +0800"
     },
     "done": true
   },
@@ -1468,6 +1494,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2021-06-02 17:18:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2021-06-23 17:52:32 +0800"
     },
     "done": true
   },
@@ -2487,6 +2519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-06-23 04:23:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2021-06-02 02:06:07 +0800"
@@ -2775,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-06-23 04:23:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2021-05-26 14:58:43 +0800"
@@ -2974,6 +3018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-06-23 03:51:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-05-29 04:13:19 +0800"
@@ -3013,6 +3063,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2021-05-24 22:32:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2021-06-23 17:52:32 +0800"
     },
     "done": true
   },
@@ -3388,6 +3444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-06-23 01:58:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-05-24 13:05:16 +0800"
@@ -3607,6 +3669,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-05-24 22:09:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-06-23 04:23:24 +0800"
     },
     "done": true
   },
@@ -4138,6 +4206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2021-06-23 17:52:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-25 21:59:17 +0800"
@@ -4441,6 +4515,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-24 22:09:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-06-23 05:28:30 +0800"
     },
     "done": true
   },
