@@ -657,6 +657,7 @@
       "minecraft:piglin_brute": "2021-06-02 01:41:05 +0800",
       "minecraft:creeper": "2021-05-31 16:07:19 +0800",
       "minecraft:zombified_piglin": "2021-06-04 01:38:20 +0800",
+      "minecraft:witch": "2021-07-07 03:19:03 +0800",
       "minecraft:piglin": "2021-06-02 01:40:37 +0800",
       "minecraft:enderman": "2021-06-04 00:59:05 +0800",
       "minecraft:zombie": "2021-05-30 04:16:47 +0800",
@@ -2746,6 +2747,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-06-12 06:11:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2021-07-07 03:21:50 +0800"
     },
     "done": true
   },

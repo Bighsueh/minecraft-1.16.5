@@ -1,13 +1,89 @@
-[05七月2021 04:00:24.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[05七月2021 04:00:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05七月2021 04:00:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05七月2021 04:00:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05七月2021 04:00:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05七月2021 04:00:29.483] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05七月2021 04:00:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05七月2021 04:00:30.049] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05七月2021 04:00:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05七月2021 04:00:32.043] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05七月2021 04:00:32.973] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05七月2021 04:00:48.026] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05七月2021 04:00:50.405] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07七月2021 03:07:20.772] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Mithrill is 371133fa-be98-4bb7-ae59-61ca9511326d
+[07七月2021 03:07:20.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@16cca112
+[07七月2021 03:07:20.915] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Mithrill[/39.9.139.149:38055] logged in with entity id 293494 at (-82.2699492089484, 64.0, 58.29187716328246)
+[07七月2021 03:07:20.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mithrill joined the game
+[07七月2021 03:12:26.241] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[07七月2021 03:12:27.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@708481a3
+[07七月2021 03:12:27.550] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.137.178:64673] logged in with entity id 294986 at (16.687315914320063, 156.0, -119.70222936661547)
+[07七月2021 03:12:27.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[07七月2021 03:12:35.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> hi
+[07七月2021 03:12:42.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mithrill> HI
+[07七月2021 03:12:51.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 好久不見ㄟ
+[07七月2021 03:13:53.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mithrill> 村民都變巫婆了
+[07七月2021 03:14:04.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 娃
+[07七月2021 03:14:11.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <TaiwanDebuger> 沒蓋屋頂
+[07七月2021 03:18:31.778] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/242556, l='ServerLevel[world]', x=-20.34, y=71.00, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.778] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/244011, l='ServerLevel[world]', x=-18.36, y=71.16, z=-102.09] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.780] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/247665, l='ServerLevel[world]', x=-20.43, y=71.00, z=-102.07] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.781] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/250951, l='ServerLevel[world]', x=-20.32, y=71.06, z=-101.30] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.781] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/253021, l='ServerLevel[world]', x=-19.02, y=71.06, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.782] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/254354, l='ServerLevel[world]', x=-18.99, y=71.13, z=-102.08] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.782] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/259621, l='ServerLevel[world]', x=-19.70, y=71.25, z=-101.43] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.783] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/268340, l='ServerLevel[world]', x=-21.70, y=71.11, z=-100.85] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.783] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/277089, l='ServerLevel[world]', x=-20.92, y=71.00, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.784] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/279263, l='ServerLevel[world]', x=-19.73, y=71.00, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.784] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/284200, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.784] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/286165, l='ServerLevel[world]', x=-21.70, y=71.18, z=-100.19] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.785] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/290982, l='ServerLevel[world]', x=-18.30, y=71.17, z=-102.70] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:18:31.785] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/292836, l='ServerLevel[world]', x=-21.33, y=71.00, z=-102.85] died, message: 'Villager was killed by Witch using magic'
+[07七月2021 03:21:50.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mithrill has made the advancement [Sticky Situation]
+[07七月2021 03:24:37.492] [Server thread/INFO] [morpheus/]: Mithrill is now sleeping. 1/2 (50%)
+[07七月2021 03:27:39.981] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Mithrill lost connection: Disconnected
+[07七月2021 03:27:39.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mithrill left the game
+[07七月2021 03:32:41.355] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/303803, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:32:41.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/303805, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:52:33.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/307477, l='ServerLevel[world]', x=-10.50, y=65.26, z=-63.70]
+[07七月2021 03:52:33.305] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/307478, l='ServerLevel[world]', x=-10.50, y=65.26, z=-63.70]
+[07七月2021 03:52:33.379] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/307479, l='ServerLevel[world]', x=-10.50, y=65.26, z=-63.70]
+[07七月2021 03:52:33.410] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/307480, l='ServerLevel[world]', x=-10.50, y=65.26, z=-63.70]
+[07七月2021 03:53:06.304] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/307568, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:53:06.355] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/307570, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:53:06.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/307571, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:53:06.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/307574, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 03:53:06.503] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/307575, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 04:11:04.124] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/310691, l='ServerLevel[world]', x=-23.26, y=64.53, z=-63.73]
+[07七月2021 04:12:50.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/311024, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 04:12:50.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/311025, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 04:12:50.701] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/311026, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 04:32:21.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bread'/316444, l='ServerLevel[world]', x=1.50, y=65.26, z=-63.70]
+[07七月2021 04:43:16.305] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/299537, l='ServerLevel[world]', x=-21.70, y=71.00, z=-102.08] died, message: 'Villager was slain by Zombie'
+[07七月2021 04:43:29.950] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/310957, l='ServerLevel[world]', x=-21.70, y=71.24, z=-101.08] died, message: 'Villager was slain by Zombie'
+[07七月2021 04:43:46.977] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/315130, l='ServerLevel[world]', x=-19.59, y=71.00, z=-102.85] died, message: 'Villager was slain by Zombie'
+[07七月2021 04:43:52.428] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/303764, l='ServerLevel[world]', x=-19.00, y=71.08, z=-102.70] died, message: 'Villager was slain by Zombie Villager'
+[07七月2021 04:43:58.989] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/305954, l='ServerLevel[world]', x=-20.76, y=71.04, z=-100.55] died, message: 'Villager was slain by Zombie Villager'
+[07七月2021 04:47:42.838] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/318962, l='ServerLevel[world]', x=1.73, y=64.37, z=-63.75]
+[07七月2021 05:07:09.939] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat'/322430, l='ServerLevel[world]', x=0.66, y=64.52, z=-63.71]
+[07七月2021 05:13:07.802] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/323884, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:13:07.836] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/323885, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:13:07.871] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/323886, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:13:07.904] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/323887, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:27:07.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/326255, l='ServerLevel[world]', x=2.25, y=64.41, z=-63.67]
+[07七月2021 05:32:49.498] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/327354, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:32:49.530] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/327355, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 05:32:49.560] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/327356, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 06:13:37.015] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/335595, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 06:13:37.057] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/335596, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 06:13:37.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/335597, l='ServerLevel[world]', x=-22.50, y=65.26, z=-63.70]
+[07七月2021 06:27:36.956] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[07七月2021 06:27:36.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[07七月2021 06:28:09.687] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@650d9235[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.137.178:51679) lost connection: Disconnected
+[07七月2021 06:28:15.487] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1cfde0d7[id=<null>,name=TaiwanDebuger,properties={},legacy=false] (/118.170.137.178:51693) lost connection: Disconnected
+[07七月2021 06:57:34.679] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[07七月2021 06:57:36.008] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@c66d16a
+[07七月2021 06:57:36.017] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.137.178:52417] logged in with entity id 339168 at (16.48750001192093, 156.0, -121.09697371257047)
+[07七月2021 06:57:36.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[07七月2021 08:10:13.811] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Timed out
+[07七月2021 08:10:13.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[07七月2021 11:26:41.881] [User Authenticator #18/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[07七月2021 11:26:43.114] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@68b2dd73
+[07七月2021 11:26:43.123] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.137.178:49401] logged in with entity id 351355 at (-143.30000001192093, 75.0, 84.48750001192093)
+[07七月2021 11:26:43.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[07七月2021 14:07:46.607] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[07七月2021 14:07:46.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
+[07七月2021 14:15:41.326] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player TaiwanDebuger is ac6408a2-a9df-4331-b7ae-3fea999a1635
+[07七月2021 14:15:42.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@394bb3cc
+[07七月2021 14:15:42.617] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TaiwanDebuger[/118.170.137.178:57129] logged in with entity id 374365 at (-115.69999998807907, 59.0, 48.36028783758532)
+[07七月2021 14:15:42.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger joined the game
+[07七月2021 14:25:36.022] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat'/377832, l='ServerLevel[world]', x=0.68, y=64.60, z=-63.72]
+[07七月2021 14:56:47.558] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TaiwanDebuger lost connection: Disconnected
+[07七月2021 14:56:47.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TaiwanDebuger left the game
